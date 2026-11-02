@@ -1,0 +1,2401 @@
+item_idx,name,Categoria,PC1,PC2
+12,amish friendship bread and starter,Panes,-0.1610952,-0.050174203
+37,fat free fettuccine alfredo,Platos principales,-0.07095999,0.062167604
+117,strawberry  n oat bars,Postres,-0.05396462,0.05911637
+121,lollipops,Postres,0.005747936,0.15045853
+137,coconut orange squares,Postres,0.10017553,-0.05083536
+151,baked acorn squash with spicy maple syrup,Otras,-0.1674773,-0.17032553
+160,reese s peanut butter cups,Postres,-0.25263137,0.011023165
+172,coca cola brownies,Postres,-0.04281588,0.14202446
+205,orange roughy with veggies,Platos principales,-0.01133433,0.10437771
+221,kitty litter cake,Postres,-0.1855757,-0.071831904
+278,italian recipes  chicken flamingo,Otras,-0.06471031,0.09450108
+297,hot mulled apple cider,Otras,-0.26167172,-0.01867772
+315,biscuits for biscuits and gravy,Panes,-0.21150629,0.016030708
+319,english muffin bread ii,Panes,-0.008540662,0.027403159
+326,easy pumpkin dessert,Postres,-0.046365123,0.050475635
+330,chocolate chip or m   m oatmeal cookies,Postres,-0.14953887,-0.00089800515
+342,honey oat biscotti,Postres,-0.06263835,0.031490415
+350,strawberry dump cake,Postres,-0.04514943,0.058082588
+362,sesame greek easter cookies  koulourakia,Postres,-0.035435863,0.1338255
+378,jan s butter tart squares,Postres,-0.038774226,0.1051234
+395,chicken tortilla soup ii,Sopas y guisos,-0.41975805,-0.24621059
+416,deluxe macaroni and cheese,Platos principales,-0.11518305,0.03529813
+420,chocolate cherry cordial muffins,Panes,-0.08619114,-0.0075445976
+424,jenny gentile s pizza dough,Panes,-0.079501495,-0.026127249
+446,parmesan rice and pasta pilaf,Otras,-0.061650068,0.10483194
+477,swiss chard and penne soup,Sopas y guisos,-0.09630595,0.06722992
+483,elvis presley s grilled peanut butter and banana sandwich,Platos principales,-0.05816259,0.110691346
+498,louisiana roast beef,Otras,0.07968605,0.023981322
+506,apple banana bread,Panes,-0.21355413,-0.18319336
+507,quick applesauce muffins,Panes,0.03776715,0.11234316
+526,linguine tuna salad,Ensaladas,0.04576421,0.11081165
+529,sourdough honey whole wheat bread,Panes,-0.070964724,0.0017060377
+544,fruited spinach salad with honey mustard dressing,Ensaladas,0.0033564358,-0.01738184
+574,tiessennau mel  honey cakes  welsh,Postres,0.036375344,0.11391351
+580,german lentil soup with frankfurters,Sopas y guisos,0.102257505,0.1656937
+583,avgolemono soup  greek egg lemon soup,Sopas y guisos,-0.03769092,0.09244226
+623,mediterranean white bean soup,Sopas y guisos,-0.065505534,0.021090064
+633,carla s basic meatballs,Platos principales,-0.25564814,-0.03905065
+654,stir fried beef and broccoli in oyster sauce,Otras,-0.09219917,0.048558313
+675,pat s pumpkin bread,Panes,0.005912405,0.08580349
+703,lamb chops with peppercorn   garlic paste,Platos principales,0.010982328,0.06312447
+707,chocolate earthquake cake,Postres,-0.08686545,0.048153717
+719,jane s carrot cake,Postres,-0.046634845,0.07590818
+725,fruit filled coffee cake,Panes,0.017756294,0.09425952
+741,the best pasta salad,Ensaladas,-0.2584407,-0.11966695
+752,banana oat muffins,Panes,-0.29894853,-0.07349686
+756,manhattan,Otras,0.024257429,0.05093963
+761,mexican ceviche,Ensaladas,-0.2007677,-0.038145002
+762,chayote and onions,Otras,-0.052926812,0.07277219
+782,julia child s white bread,Panes,-0.072469525,-0.052365325
+791,quick and easy chicken parmesan,Otras,-0.07143761,0.13616948
+799,graham crackers,Postres,-0.034880985,0.032285605
+859,zucchini pineapple,Ensaladas,-0.019673368,-0.1389881
+860,ooey gooey cinnamon rolls,Panes,-0.18099491,-0.06523692
+915,white potato salad  no mustard,Ensaladas,-0.17454755,0.0676049
+919,broccoli pork,Platos principales,-0.042328194,0.032730304
+931,chocolate chip date cake,Postres,-0.039046936,0.16644996
+951,thin pancakes,Otras,-0.12657683,0.010361925
+963,mustard plus glazed pork chops,Otras,-0.13859974,0.059254017
+978,pear cake with lemon honey cream cheese frosting,Postres,-0.030403187,0.21096016
+980,the bomb burgers,Platos principales,-0.20006187,-0.05164854
+999,vegan pizza dough,Panes,0.1322636,-0.06454302
+1021,cherry cream cheese pie,Postres,0.03600196,0.047597565
+1026,chicken and lentil soup,Sopas y guisos,-0.05058319,0.15574124
+1047,skor chip apple dip,Otras,-0.0137269795,0.13132364
+1052,italian grilled shrimp scampi,Platos principales,-0.034627065,0.02543322
+1058,tomato soup   canning recipe,Sopas y guisos,0.0075996714,0.11851565
+1075,bergy dim sum  10  honey soy braised chicken wings,Otras,-0.1272443,-0.07288181
+1081,jalapeno cheese bread  for bread making machines,Panes,-0.0128690265,0.08384767
+1126,grandma s soft sugar cookies,Postres,-0.25056234,-0.09047139
+1132,thick and creamy caesar salad dressing,Ensaladas,0.017935837,-0.010734573
+1137,carrot   potato soup,Sopas y guisos,-0.11766219,0.03381539
+1150,easy bananas foster,Postres,-0.1783895,-0.089322165
+1153,garlic roasted potato salad,Ensaladas,-0.038659528,0.05506488
+1188,bbq hinty minty lamb chops,Platos principales,0.019041887,0.0879934
+1192,grilled salmon with garlic   lemon,Platos principales,-0.038478307,0.021239238
+1197,oreo muffins,Panes,-0.13974422,-0.036724444
+1214,pineapple pecan cake,Postres,0.03443187,0.08486414
+1218,rosemary sweet potato soup,Sopas y guisos,0.05661422,0.025173813
+1225,no peek chicken,Platos principales,-0.02702487,0.06566419
+1242,pasta with avocado,Platos principales,-0.049125325,0.09328511
+1251,crepes,Postres,-0.05744564,0.05509891
+1254,blueberry apples,Postres,-0.022240728,0.034916073
+1309,depression fudge cake,Postres,-0.11159314,0.11465883
+1320,zucchini orange bread,Panes,-0.10576251,0.045513492
+1325,cheddar corn chowder,Sopas y guisos,-0.04560108,-0.0014208686
+1372,outback steakhouse bloomin  onion,Otras,-0.017308466,0.12913778
+1381,baked frittata for one,Platos principales,-0.11710134,0.0009368495
+1382,bacon and potato chowder,Sopas y guisos,-0.25506365,-0.025523275
+1387,halloween or fall pumpkin bread,Panes,-2.5910002e-05,0.10261998
+1435,sarah s potato barley soup,Sopas y guisos,-0.06571306,-0.048341203
+1463,chicken in apple and garlic,Platos principales,0.085995466,0.07181247
+1503,mark s clam chowder,Sopas y guisos,-0.038303856,0.047423974
+1504,creamsicle ice cream,Postres,-0.027370138,0.07399355
+1508,baby boomer tuna casserole,Platos principales,-0.10756314,0.05942421
+1514,white bean and pasta soup with sun dried tomatoes,Sopas y guisos,-0.032035314,0.09067073
+1518,turnip puff,Otras,-0.17479731,-0.022658002
+1531,moroccan pumpkin soup  l hamraak garagh,Sopas y guisos,0.050406,0.05984701
+1537,rich french onion soup,Sopas y guisos,-0.1271517,0.0136227105
+1553,sausage cheese muffins,Panes,-0.12474979,0.11092722
+1574,lemon shortbread,Postres,-0.024464116,0.0057922853
+1588,mary s biscuits,Panes,0.013328565,0.12460418
+1589,simple spinach soup,Sopas y guisos,0.059265442,0.15971424
+1596,couve brazilian style collard greens,Otras,-0.02429317,0.10453268
+1604,pork stew with cornmeal dumplings  crock pot,Platos principales,0.032547653,0.1279502
+1616,traditional adobo  pork in vinegar and soy sauce,Platos principales,-0.15975684,0.023536105
+1620,chickpea  avocado and sun dried tomato salad,Ensaladas,-0.186642,0.07204929
+1630,grapes in sour cream,Postres,-0.027446162,0.13095917
+1657,orange pound cake with orange caramel sauce,Postres,0.006335216,0.039916392
+1670,spinach and strawberry salad,Ensaladas,-0.18153644,-0.0028354323
+1677,carrot and coriander soup,Sopas y guisos,0.047485687,0.076015174
+1737,pink fantasy salad,Postres,0.010697897,0.13216123
+1750,cherry chocolate cake,Postres,-0.06776987,0.07133498
+1775,creamed soup substitute,Sopas y guisos,0.036733776,0.03813819
+1790,british scones,Panes,-0.07699544,0.10034391
+1808,classic potato salad,Ensaladas,-0.11360971,-0.026186353
+1852,marie callender s lemon cream cheese pie by todd wilbur,Postres,-0.17416908,-0.066840105
+1896,impossible peanut butter cookies,Postres,-0.3855753,-0.20408995
+1905,sausage popovers,Panes,-0.078869075,0.035323188
+1912,peppermint candy cane bark,Postres,-0.32430193,-0.08193917
+1929,golden muffins,Panes,-0.07646489,0.042110067
+1933,caramelized chicken with almonds,Platos principales,-0.06309856,0.13087662
+1995,lemon chicken with red peppers and snow peas,Platos principales,-0.029679382,0.03742503
+2103,feta cheese dip,Otras,-0.007874144,0.11394361
+2113,yellow pepper   sun dried tomato appetizer a la tel aviv,Ensaladas,-0.05018678,0.11136671
+2140,spicy mexican coleslaw,Ensaladas,0.016281515,-0.009948854
+2164,puff pastry sheet dough,Panes,-0.0027430526,0.013876517
+2181,do at home onion rings,Otras,-0.38327953,-0.20528528
+2182,chili powder,Otras,-0.202533,-0.19118907
+2200,roast crispy chicken,Platos principales,-0.053114533,-0.00012223201
+2259,surprise cheese puffs,Otras,0.044110496,-0.0017234789
+2271,25 pumpkin pie,Postres,-0.14815645,0.017015286
+2297,easy cinnamon buns,Panes,-0.17281026,0.027783481
+2299,calas  fried rice balls,Postres,0.038787372,0.03866758
+2312,no sugar pecan pie,Postres,-0.06591515,0.19738331
+2317,peanut butter fudge cake,Postres,-0.057273015,0.041721754
+2321,t g i f s broccoli cheese soup,Sopas y guisos,-0.18385458,0.03331663
+2323,campbell s bean and bacon soup,Sopas y guisos,-0.030014466,-0.0028635976
+2330,tsr version of olive garden pasta e fagioli by todd wilbur,Sopas y guisos,-0.30962217,-0.14664258
+2347,orange blueberry bread,Panes,0.011276143,0.084826596
+2380,chewy mall pretzels,Panes,-0.11394502,0.07872275
+2387,you ve got to be kidding me restaurant rolls  or bread,Panes,-0.2672391,-0.075763725
+2448,vera s rhubarb cake,Postres,-0.08803529,0.1090586
+2462,healthy substitute for cream of chicken soup,Sopas y guisos,-0.2379178,-0.061312236
+2464,quick n easy quiche crust,Panes,-0.24674009,-0.1385372
+2468,spicy rice  bean and lentil casserole,Platos principales,-0.06761926,-0.012047139
+2480,garlicky tortellini  spinach and tomato soup,Sopas y guisos,-0.039974738,0.117657
+2490,blueberry peach cobbler,Postres,-0.13928239,0.047861237
+2517,easy cheesy lentil   rice casserole,Platos principales,-0.047248196,0.09116016
+2529,rice pilaf with herbs,Otras,-0.28638926,-0.056458186
+2535,salmon with maple balsamic glaze,Platos principales,-0.048206,0.020003317
+2593,baked southern fried round steak,Platos principales,-0.1286786,0.051195916
+2603,lemon curd squares,Postres,-0.018528288,0.037963767
+2607,favorite lemon mousse cheesecake,Postres,0.02451993,0.09564489
+2615,thai zucchini,Otras,-0.16661273,-0.05559245
+2621,easy chocolate raspberry cheesecake,Postres,-0.09733014,0.120025925
+2637,chocolate dessert crepes,Postres,-0.044159245,0.10075611
+2639,uncle bill s broccoli soup,Sopas y guisos,-0.14920038,-0.02171469
+2672,chilled green bean and red potato salad,Ensaladas,-0.07635884,0.07656639
+2689,best banana bread or muffins,Panes,0.0711428,0.04712011
+2694,egg replacer,Otras,-0.013989675,-0.0103748245
+2696,peanut butter corn muffins,Panes,0.05494824,0.1812399
+2703,banana chocolate chip muffins,Panes,-0.30224112,-0.16707176
+2716,campbell s monterey chicken fajitas,Platos principales,0.022745792,0.09136576
+2722,moist chocolate cherry cake,Postres,0.024160462,0.121330604
+2730,bread machine spinach and feta bread,Panes,-0.14143564,0.02671732
+2768,texas two bean soup,Sopas y guisos,-0.077818364,-0.0698547
+2773,linguini salad,Ensaladas,-0.20011166,0.03818303
+2779,black bean vegetable soup,Sopas y guisos,0.0027988409,0.16781473
+2781,crock pot creamy italian chicken,Platos principales,-0.30720928,-0.13224466
+2782,japanese pink sauce,Otras,0.00029852742,-0.03540799
+2800,quick macaroni and cheese,Platos principales,-0.0810571,-0.07814089
+2824,pumpkin soup with asian flavors,Sopas y guisos,0.01838116,0.037206326
+2827,baked mustard garlic chicken,Platos principales,0.027861383,0.1201678
+2833,cinnamon glazed almonds,Otras,-0.066920824,0.082405
+2871,nestle  oatmeal scotchies,Postres,-0.28249896,-0.1122336
+2881,drew s famous onion dill bread,Panes,-0.10968823,0.11358707
+2916,the world s smoothest guacamole with sour cream,Otras,-0.05726782,0.07738955
+2985,cheese beer bread,Panes,-0.14504942,0.094233
+2999,garlic skillet potatoes,Sopas y guisos,-0.07025369,0.018225774
+3014,ultimate brownies,Postres,-0.24550611,-0.035901073
+3057,miss carmen s flavorful flan,Postres,-0.065634675,0.058875315
+3072,5 minute   double layer chocolate pie,Postres,-0.13694282,0.10588082
+3127,healthy pumpkin soup,Sopas y guisos,-0.01527593,0.102639616
+3140,extra moist cornbread with sour cream,Panes,-0.108369775,0.05642389
+3180,spinach cheese kugel  low fat,Otras,0.08103611,0.04184001
+3191,shrimp with green garlic sauce,Otras,0.0114757875,0.18636699
+3197,honey cornbread,Panes,-0.13295344,0.03020336
+3217,couscous salad with fresh corn,Ensaladas,-0.1185573,0.052220166
+3228,raspberry vinaigrette chicken breast,Platos principales,-0.04435128,0.1534919
+3238,harmony tahini salad dressing,Ensaladas,-0.023991492,0.09480254
+3248,biscuit topped deep dish chicken,Platos principales,0.056365784,0.04393459
+3258,celery cream soup,Sopas y guisos,-0.13540621,-0.078429714
+3283,ham hodgepodge,Platos principales,0.022391407,0.1571605
+3287,jalapeno bread,Panes,0.009156397,0.12017699
+3290,vodka lemon slush,Otras,-0.15825033,0.121522374
+3310,lemon  ricotta and sour cream pancakes,Otras,0.033353478,0.046470363
+3317,greek catfish,Platos principales,-0.058680367,0.028287575
+3319,sweet and sour pasta salad,Ensaladas,-0.05262989,0.22889873
+3357,homestyle macaroni salad,Ensaladas,0.017808843,0.016756997
+3370,mirj s potato kugel,Otras,-0.095391095,-0.047286786
+3387,fat free asian salad dressing,Ensaladas,-0.1712244,-0.12617578
+3403,watermelon salad with feta,Ensaladas,-0.0043785996,0.04449535
+3413,coconut cream banana nut bread,Panes,-0.0084970165,0.1216457
+3426,butter cookies   three cookies in one dough,Postres,-0.09065096,0.18145794
+3475,basic muffins with variations,Panes,-0.10130747,0.085751936
+3496,blackening spice mix,Otras,-0.17589161,0.085816145
+3501,almost too easy potato chicken cheese soup,Sopas y guisos,-0.18130367,0.04185354
+3502,crock pot hungarian goulash,Platos principales,-0.3217857,-0.14504884
+3503,mrs  schreiner s split pea soup,Sopas y guisos,-0.121139996,0.053364895
+3580,egg salad,Ensaladas,-0.023202661,-0.014272139
+3597,fresh strawberry pie,Postres,-0.07621692,0.006248797
+3598,brown sugar strawberries,Postres,-0.14518477,0.016030652
+3600,salmon chowder,Sopas y guisos,0.028808504,0.00069392927
+3607,lemon carrots,Otras,-0.04250827,0.019357376
+3620,lemon chicken rice soup,Sopas y guisos,-0.16051191,-0.11631177
+3639,grilled salmon salad,Ensaladas,0.0095430175,0.085947
+3658,salad supreme seasoning,Ensaladas,-0.09787619,-0.04733234
+3731,hard rock cafe baked potato soup,Sopas y guisos,-0.033063564,-0.042837456
+3756,olive garden 5 cheese lasagna  copycat recipe,Platos principales,-0.16343276,0.043725695
+3768,mexican lime with chicken or turkey tortilla soup,Sopas y guisos,0.0017662918,0.13671485
+3779,bacon cheeseburger  stove top  casserole,Platos principales,-0.20158103,-0.054024618
+3825,iranian chelo kabob,Platos principales,0.077807605,0.02538689
+3835,evacuation tuna   pasta salad,Ensaladas,0.028814929,-0.05477459
+3854,ham and macaroni salad,Ensaladas,-0.15150565,0.10937415
+3859,mexican tres leche cake,Postres,-0.08375003,0.11600798
+3865,pink lady salad,Ensaladas,-0.23555891,0.06934612
+3878,cold macaroni tuna salad,Platos principales,-0.13595708,-0.069808654
+3892,pumpkin ginger praline pie,Postres,-0.013857422,0.16241834
+3900,classic pie crust  idiot proof step by step photo tutorial,Postres,-0.255855,-0.15693676
+3904,oh so yummy chocolate gooey layered dessert,Postres,-0.16800997,0.024231164
+3949,little walnut pie cookies,Postres,0.011198746,0.18755026
+3951,strawberries with balsamic,Postres,-0.27143216,-0.054249503
+3959,big john s killer caesar salad dressing,Ensaladas,-0.19701782,-0.10468076
+4029,celery seed dressing,Ensaladas,0.023495257,0.12157091
+4030,smothered meatballs,Platos principales,-0.04392828,0.058687184
+4031,toad  in  the  hole ii,Panes,-0.08663336,0.11277238
+4044,easy  no peek  prime rib,Platos principales,-0.08977865,0.030081093
+4079,spontaneous couscous,Ensaladas,-0.08829926,-0.08146266
+4094,green split pea   barley soup,Sopas y guisos,-0.08389707,-0.037966557
+4109,velvety beef stroganoff,Platos principales,-0.1681238,0.07129065
+4117,mexican chicken corn chowder,Sopas y guisos,-0.075199716,0.03966096
+4119,baba ghannouj  smoked eggplant   aubergine  puree,Otras,-0.098332725,0.06600704
+4156,home baked soft pretzels  yum,Panes,-0.076113835,0.07574431
+4166,chocolate cookie crumb crust,Postres,0.046176806,0.112012684
+4171,tomato cream chicken,Platos principales,0.0121496525,0.10617294
+4173,chocolate ricotta muffins,Panes,-0.025633777,0.124299474
+4195,frosted peanut butter brownies,Postres,-0.034218743,0.12821609
+4214,zuppa di broccoli  broccoli soup,Sopas y guisos,0.028504621,0.12926576
+4251,peanut butter chocolate chip mini muffins,Panes,-0.21439593,0.016042683
+4252,hamburger stroganoff,Platos principales,-0.20602298,-0.018283913
+4275,grilled basil chicken,Platos principales,-0.027985265,0.11068813
+4276,tsr version of chili s honey mustard dressing by todd wilbur,Ensaladas,0.030164935,-0.011131203
+4286,school cafeteria peanut butter bars,Postres,-0.1257983,0.11528763
+4289,potato leek mushroom soup,Sopas y guisos,-0.05826221,0.059033893
+4314,creamy pesto shrimp,Platos principales,-0.011497374,0.15068658
+4331,cinnamon potato rolls,Panes,-0.043710202,0.09061681
+4350,buttermilk garlic salad dressing,Ensaladas,-0.026827136,0.119001135
+4361,baked ham and cheese omelet roll,Platos principales,-0.32306212,-0.1586859
+4365,healthy cucumber tomato salad,Ensaladas,-0.3531068,-0.15683167
+4398,rib rub that rocks,Otras,-0.0663841,0.1997537
+4410,ginger s  dorito  soup  spicy tomato soup,Sopas y guisos,-0.12364518,-0.050736524
+4430,crazy crust pizza,Platos principales,-0.31999728,-0.18969531
+4447,ciabatta  italian slipper bread,Panes,-0.2902805,-0.10861031
+4449,vegetarian taco soup,Sopas y guisos,-0.18064913,-0.12829147
+4461,grilled ham steaks,Platos principales,0.01166445,0.06909962
+4468,tropical coconut bread,Panes,-0.31165972,-0.108745635
+4482,ciabatta bread,Panes,-0.14615995,-0.046556562
+4487,avocado and bacon muffins,Panes,-0.033794817,-0.044757117
+4512,yaki mandu  korean egg roll,Otras,-0.0449534,0.18371099
+4514,decadent tomato bisque,Sopas y guisos,-0.14814344,-0.085698925
+4530,best fried chicken,Platos principales,-0.023587417,0.13742444
+4543,no sugar added iced coffee,Otras,-0.2120819,-0.048353754
+4573,beer cheese dip,Otras,-0.07133972,-0.03379994
+4578,braunda s potato salad,Ensaladas,-0.018672736,0.12544365
+4583,chile con queso  chile cheese dip,Otras,0.011526369,0.12247653
+4586,spinach  apple and pecan salad,Ensaladas,-0.20639357,-0.10896635
+4610,cheddar cornmeal muffins,Panes,-0.06608227,0.103451066
+4636,picnic green bean salad,Ensaladas,-0.011046317,0.15077911
+4643,yummy greek salad,Ensaladas,0.022282854,0.082732774
+4648,black bean   rice salad,Ensaladas,-0.16573076,0.09992073
+4653,cheesy beer batter bread,Panes,-0.017288778,0.030228531
+4660,vietnamese barbecued chicken wings   canh ga nuong,Otras,-0.03363304,0.031145792
+4674,basil vinaigrette dressing,Ensaladas,-0.056539234,0.042777825
+4694,mom s macaroni shrimp salad,Ensaladas,-0.06651967,0.09604559
+4745,garlic  chickpea   spinach soup,Sopas y guisos,-0.02728637,-0.08075447
+4773,amazing roasted shrimp with garlic,Otras,-0.08650142,0.047643956
+4792,garlic lentil soup,Sopas y guisos,-0.20222186,-0.047572333
+4811,chicken and hash browns bake,Platos principales,-0.05409142,0.16377543
+4835,chocolate chip shortbread,Postres,-0.13225152,0.039774727
+4843,bacon and cheese egg appetizers,Otras,-0.095024236,0.04257705
+4857,costa rican gallo pinto   black beans   rice,Platos principales,0.070688374,0.12630558
+4874,curried pork with rice,Platos principales,0.032849103,0.12310537
+4886,buttered spinach,Otras,-0.06951276,0.015220051
+4931,sunday chicken,Platos principales,-0.17330846,0.15890238
+4967,pizza skillet,Platos principales,-0.14115381,0.097895324
+4979,7 layer bean dip,Otras,-0.30193943,-0.050183844
+4993,potato n salmon cakes,Otras,-0.16725875,-0.02776669
+5002,stir fry broccoli,Otras,-0.17079356,-0.054464202
+5020,lime cilantro dressing,Ensaladas,0.0731626,-0.082555234
+5041,mock wonton soup,Sopas y guisos,-0.08821229,0.057948776
+5077,slow cooker beef short ribs,Platos principales,-0.2325821,-0.15800801
+5100,homemade popsicles,Postres,-0.045703843,0.11009166
+5120,you bring the macaroni salad   macaroni salad,Ensaladas,-0.11292723,0.025314322
+5132,cool and creamy cucumber salad,Ensaladas,-0.106898464,0.13757871
+5143,blueberry   banana bread,Panes,-0.019201899,0.025819551
+5155,refreshing mint chocolate chip cookies,Postres,-0.014218263,0.0064431946
+5166,fudge crinkles  a great 4 ingredient cake mix cookie,Postres,-0.47022885,-0.19054681
+5179,fireside coffee,Otras,-0.01125125,0.017463421
+5200,the peanut  butter milkshake,Otras,-0.0340538,0.14159086
+5211,cheesy chicken quesadillas,Platos principales,-0.09700167,0.09893111
+5215,dhal   lentil puree,Platos principales,-0.05241865,0.09944922
+5221,easy and tasty tortilla bake,Platos principales,0.038265236,0.17985213
+5240,world s easiest lemonade ice cream pie,Postres,-0.18468574,-0.0032788343
+5243,zesty low fat chicken breasts,Otras,-0.3471802,-0.2417013
+5249,quick tahini salad,Ensaladas,-0.012211603,0.041987702
+5269,rotini salad bowl,Ensaladas,-0.09629362,0.18482615
+5276,mushroom stuffed hamburger steaks,Platos principales,-0.14323092,0.09829728
+5284,hidden valley bacon and cheddar dip,Otras,-0.24136803,-0.033072587
+5302,fresh green beans deluxe,Otras,-0.18666732,-0.07338972
+5305,broccoli   cheese soup,Sopas y guisos,-0.2825088,-0.18932162
+5308,very berry coffee cake,Panes,-0.12553233,0.08333997
+5358,shake and  bake mix,Otras,-0.16516165,0.01332433
+5359,no bake caramel popcorn,Otras,0.07796323,0.07610859
+5378,cherry time cobbler,Postres,-0.16934188,-0.06391554
+5383,halloween party mix,Otras,-0.22940299,0.015047503
+5388,cranberry marble mold,Postres,0.024105296,0.021857938
+5413,lemon whippersnappers  since we are all young at heart,Postres,-0.052631114,0.0117732845
+5428,granny s black forest dump cake,Postres,-0.06635087,0.11288623
+5453,quick peach cobbler,Postres,0.030353336,0.1054972
+5478,chicken taco rice,Platos principales,-0.14822417,-0.009896175
+5536,shrimp taco salad,Ensaladas,-0.04717891,0.060944695
+5541,peaches   cream dream muffins,Panes,-0.1730875,0.022378271
+5577,marinated chickpea salad,Ensaladas,-0.13324451,0.02492405
+5588,apricot white chocolate scones,Panes,-0.12834981,0.109010465
+5615,creamy cucumber dressing,Ensaladas,-0.02003028,0.06236694
+5618,rosemary mushroom soup,Sopas y guisos,0.041320812,0.08517074
+5641,special banana nut bread,Panes,0.026382077,0.03665483
+5655,pita snacks,Otras,-0.04941731,-0.00039559396
+5678,ambrosia with acini di pepe,Postres,-0.03207767,0.18698362
+5697,peanut butter oat chocolate chip cookies,Postres,0.008635792,0.06336396
+5706,best orange creamsicle cake,Postres,-0.101994574,0.016188174
+5740,easy kulfi  ice cream without an ice cream freezer,Postres,0.0641693,0.013146079
+5752,chocolate chip toffee scones,Panes,0.008004586,0.15302886
+5755,macaroni   n cheese soup,Sopas y guisos,-0.027198205,0.09270587
+5760,hearty nut bread  bread machine,Panes,-0.01995073,0.09049606
+5766,sourdough onion rye bread,Panes,0.07541105,0.011121682
+5775,speedy baked beans,Otras,-0.034129187,0.08164081
+5778,okra medley  great as a side or a main dish,Platos principales,-0.027207974,0.14065383
+5795,pita on call     half recipe,Panes,-0.06996747,0.046878576
+5808,halibut creole,Platos principales,-0.02932808,-0.03448706
+5823,easy  creamy hamburger stroganoff,Platos principales,-0.3022549,-0.07527883
+5826,bacon   leek quiche,Platos principales,-0.042237,-0.00082969357
+5831,easy lettuce soup,Sopas y guisos,-0.031820685,0.107262604
+5842,rice soup with shrimp and egg,Sopas y guisos,0.002363653,0.059778176
+5843,german chocolate squares,Postres,-0.09935239,0.12254664
+5848,rice  broccoli    cheese casserole,Platos principales,-0.14289246,-0.089629225
+5910,crock pot clam chowder,Sopas y guisos,-0.15517245,0.08670709
+5912,maple walnut sourdough bread,Panes,0.06286504,0.04718008
+5951,parmesan bow ties,Otras,-0.21357635,-0.0064482777
+5958,mean chef s sweet tart dough,Postres,-0.025696095,0.15679643
+5975,cider grilled salmon,Platos principales,-0.08792479,0.021131514
+6012,sour cream softies,Postres,-0.16386761,0.10579968
+6022,easy baked pork chops,Platos principales,-0.11693456,0.078540474
+6023,veronica s pasta bianc  pasta and pork chops,Platos principales,0.011619344,0.16721733
+6034,cranberry oatmeal muffins,Panes,-0.24078737,-0.09293113
+6065,pesto artichoke pizza,Platos principales,-0.12193288,0.106311046
+6075,vegetarian tortilla soup,Sopas y guisos,0.0429097,0.05654773
+6078,psomi   greek bread,Panes,-0.13953479,-0.11745366
+6111,cream of onion soup,Sopas y guisos,-0.02169049,0.107896596
+6118,olive garden copycat zuppa toscana,Sopas y guisos,-0.38523555,-0.21222672
+6123,french bread   rapid rise,Panes,-0.16516966,-0.09230337
+6161,meatless italian minestrone,Sopas y guisos,0.019198189,-0.0078523755
+6171,chamorro cucumber slices,Ensaladas,-0.10977176,0.011755061
+6192,curried red lentils,Platos principales,-0.09743567,-0.033466995
+6201,crusty whole wheat italian bread,Panes,-0.2684405,-0.06748773
+6235,simple mexican salsa,Otras,-0.021348061,0.036725525
+6236,dutch  koeken  pie crust,Postres,0.14046386,0.08082073
+6252,caramel chocolate bars,Postres,-0.27130687,-0.09358185
+6261,pumpkin  potato  and leek soup,Sopas y guisos,-0.0052224235,0.14866368
+6283,bruschetta beef patties,Platos principales,0.2218093,0.014510833
+6293,jamie oliver s best pasta salad,Ensaladas,-0.012363951,0.07868494
+6295,greek pasta with avocado sauce,Platos principales,-0.04715183,0.03716146
+6348,crock pot tuna casserole,Platos principales,-0.042965654,0.17766008
+6359,chicken corn and rivel soup,Sopas y guisos,-0.024094926,0.14728402
+6362,best backfin crab cakes,Platos principales,0.011454827,0.086354494
+6407,cumin nan,Panes,0.05092344,0.05974824
+6414,low fat banana cream delight,Postres,-0.11383192,0.14147708
+6423,snickers bar cookies,Postres,-0.040854696,0.044878617
+6460,pan fried tilapia,Platos principales,-0.094910525,-0.0944337
+6461,buttermilk cranberry muffins,Panes,-0.07017677,0.13076048
+6497,grandma brown s gingerbread,Panes,-0.12094923,-0.032537166
+6503,apple walnut bars,Postres,-0.09129441,0.17478038
+6524,two step artichoke tapenade,Otras,-0.06502807,-0.068424165
+6547,chicken rice soup,Sopas y guisos,0.040849872,0.08406603
+6548,quick broccoli slaw,Ensaladas,-0.056804545,0.08015484
+6554,greek salad dressing,Ensaladas,-0.12153234,-0.03132386
+6559,baked curry tofu,Platos principales,0.051616546,0.1430244
+6561,chicken breast lombardy,Platos principales,-0.23845357,-0.021292238
+6570,tsr version of popeyes buttermilk biscuits by todd wilbur,Panes,-0.20090866,-0.0558347
+6590,lynn s famous gazpacho,Sopas y guisos,-0.20840299,-0.03641277
+6649,ghirardelli chocolate chip cookies,Postres,0.09560821,0.11738706
+6655,mean chef s dried cherry corn muffins,Panes,-0.049148288,0.05757085
+6660,australian bush bread   damper,Panes,0.005800207,0.112654686
+6669,sour cream and lemon pound cake,Postres,-0.0643268,-0.05160097
+6697,quick chicken casserole,Platos principales,0.017272819,0.041646276
+6723,vegetable barley soup,Sopas y guisos,-0.015540836,0.106725566
+6725,outstanding oatmeal bread for bread machine,Panes,-0.24397784,-0.020261612
+6730,jalapeno sweet potato soup,Sopas y guisos,-0.13042124,-0.07908304
+6745,louisiana baked ham,Platos principales,0.0046215635,-0.010407024
+6763,spiced pumpkin soup,Sopas y guisos,0.038427956,0.05424686
+6791,saganaki   greek fried cheese,Otras,0.026507996,0.085898116
+6798,pork cutlets with parmesan breadcrumb topping,Platos principales,-0.10219681,0.07337864
+6803,artichoke soup for one,Sopas y guisos,0.02647958,0.057697568
+6877,kathy s carrot cake,Postres,0.0066359723,0.09124937
+6882,ultimate instant garlic toast,Panes,-0.15270048,0.11662143
+6910,japanese vinegared cucumbers,Ensaladas,-0.08215854,-0.12489573
+6973,christmas mincemeat squares,Postres,0.014353811,0.021923572
+6976,grand prize chili,Platos principales,-0.25566056,0.0014794827
+6982,slow cooker chops,Platos principales,-0.05008773,0.019452445
+6994,rice and chicken wraps,Platos principales,-0.1759192,0.016684648
+7007,autumn pear bread,Panes,-0.037512403,0.060957447
+7014,bread machine cinnamon pecan buns,Panes,0.0023111645,-0.03366185
+7019,big chewy oatmeal raisin cookies,Postres,-0.14916433,-0.044291865
+7039,pork skillet,Platos principales,-0.0319768,0.13751198
+7052,jalapeno corn chowder,Sopas y guisos,0.088453665,0.0073380633
+7073,delicious oat bran muffins,Panes,-0.056703568,0.06825486
+7083,clone kraft s catalina salad dressing,Ensaladas,-0.20507374,-0.15319571
+7112,candy cane hot white chocolate,Otras,0.044522177,0.043326527
+7167,sherry mushroom chowder,Sopas y guisos,0.054218106,0.081146054
+7193,market street clam chowder,Sopas y guisos,0.02513678,0.10609923
+7197,cumberland cranberry orange nut bread,Panes,-0.023299143,0.15116313
+7205,savory pot roast a la pressure cooker,Platos principales,-0.1800653,-0.009432709
+7220,turkey pot pie,Platos principales,-0.27620825,-0.15748389
+7225,semisweet chocolate icing,Postres,-0.01827084,0.0526202
+7255,easy pizza muffins,Platos principales,0.019479802,0.0326313
+7257,low fat potato soup,Sopas y guisos,-0.011021155,0.0737621
+7267,fat free  sugar free   cholesterol free banana bread,Panes,-0.10020842,0.026326027
+7269,apple ginger scones,Panes,-0.15896013,0.06958664
+7272,thai style pork stew,Platos principales,-0.10888636,0.030240491
+7289,anson county chicken stew  crock pot,Platos principales,-0.12384536,-0.011118024
+7290,lazy goblin popcorn balls,Postres,-0.12899943,0.059122805
+7304,homemade vegetable beef soup,Sopas y guisos,0.04623093,0.10351543
+7318,almost kfc coleslaw,Ensaladas,-0.21520025,0.06629315
+7320,mexican style  cheese cornbread,Panes,-0.09153329,0.070972584
+7321,double orange scones with orange butter,Panes,0.07034772,0.0070917914
+7322,authentic mexican rice,Otras,-0.15472643,-0.08670107
+7327,szechuan pork  crock pot,Platos principales,-0.08308244,-0.053573605
+7330,raisin banana bread,Panes,0.018623583,0.14563541
+7332,baked cheese fiesta dip,Otras,-0.030817477,0.14944242
+7363,sushi layers,Otras,-0.06448859,0.10432907
+7374,turkey noodle soup gift mix,Sopas y guisos,0.013420467,0.024266817
+7385,pinchitos morunos,Otras,-0.0072300173,0.10420696
+7405,apple praline bread,Panes,0.005673231,0.13815434
+7408,barley and lentil soup,Sopas y guisos,-0.115455806,-0.03252696
+7420,traverse city salad,Ensaladas,-0.018964289,0.14919011
+7423,50  whole wheat bread,Panes,-0.23289824,-0.03340879
+7433,apricot rosemary brie in boule,Otras,-0.037855256,0.14422008
+7449,fresh vegetable salad,Ensaladas,-0.17300324,0.09830648
+7452,surprise kisses,Postres,-0.16597123,0.058807366
+7466,no fuss bar cookies,Postres,-0.15671606,0.12996994
+7471,yam nuea   thai beef salad,Ensaladas,0.026733704,0.062035218
+7496,crock pot beef burgundy stew,Platos principales,-0.051197074,0.017307611
+7515,strawberry oatmeal cream cheese bread  bread machine,Panes,0.016601304,0.1480917
+7539,stove top stuffing mix,Panes,0.012966917,-0.002403462
+7544,cornbread loaf,Panes,-0.0155881485,0.12191649
+7552,ranch dressing and seasoning mix,Ensaladas,-0.24645405,-0.093728654
+7553,whole grain pan rolls,Panes,-0.0918907,-0.03454789
+7554,oriental dipping sauce,Otras,0.008446355,0.13042745
+7564,creamy pumpkin soup   for weight watching people,Sopas y guisos,0.0186924,0.064992785
+7645,shrimp bisque,Sopas y guisos,0.034679018,0.02771601
+7650,tomato and basil salad,Ensaladas,0.08538557,-0.07410172
+7653,zesty mushroom soup,Sopas y guisos,-0.03107022,0.010426421
+7660,seven layer salad,Ensaladas,-0.09229809,-0.015732804
+7662,buttermilk fried corn,Otras,0.045800988,0.06341145
+7683,cheese wrapped olives  bollitas,Otras,-0.06975817,0.10865718
+7699,beet greens with beets,Otras,-0.15114836,-0.029424047
+7730,gingerbread waffles,Panes,0.07828548,0.14360614
+7752,soft and chewy chocolate chip cookies,Postres,-0.1874743,-0.11379064
+7758,parslied potatoes,Otras,-0.11857838,0.12042833
+7774,cauliflower bisque,Sopas y guisos,-0.17380849,0.0065624337
+7775,sweet potato carrot bisque,Sopas y guisos,-0.03905467,0.11833876
+7783,razberi bars,Postres,-0.13268928,-0.031407
+7803,pork tenderloin cutlets with cranberry maple sauce,Platos principales,-0.0013417169,0.028683329
+7808,potato carrot kugel,Otras,-0.00059861864,-0.050849117
+7832,cracked black pepper salmon,Platos principales,0.016909713,0.10239044
+7843,guisado de chorizo y papas,Platos principales,-0.038729098,0.05942888
+7851,chocolate glazed bailey s irish cream cheesecake,Postres,-0.018980974,0.13840663
+7890,crawfish pasta,Platos principales,-0.0816785,0.08503849
+7896,lentil  tomato  and goat cheese salad,Ensaladas,-0.044431347,0.0010914359
+7961,cinnamon quick bread,Panes,-0.09964291,0.026373437
+7978,lunch ladies peanut butter bars,Postres,0.052841857,0.04245295
+7984,boursin mushrooms,Otras,-0.09646877,0.018333675
+7985,dad s favorite orange salad,Ensaladas,0.065903954,0.16933455
+7998,brioche au fromage,Panes,0.009869236,0.11586079
+7999,cream cheese and chive bread,Panes,-0.0716578,-0.009672071
+8004,pressure cooker beef barley vegetable soup,Sopas y guisos,-0.069709845,0.094397314
+8041,the best banana bread,Panes,-0.32730672,-0.11156513
+8050,potato sausage soup,Sopas y guisos,-0.13626139,0.020233396
+8056,warm herbed potato salad,Ensaladas,0.029026523,-0.048221037
+8074,tomato pasta salad,Ensaladas,-0.046641577,0.04346484
+8080,cherry yogurt bread  bread machine,Panes,-0.010067711,0.10731084
+8092,ww 5 can soup,Sopas y guisos,-0.33655703,-0.10292256
+8103,cornbread with jalapeno and cheddar cheese,Panes,-0.050123777,-0.19934183
+8128,caroline s quick chicken and dumplings,Platos principales,-0.2042252,-0.06352923
+8144,spicy peanut soup,Sopas y guisos,0.025515825,-0.045544345
+8173,mexican chicken soup with cilantro chile cream,Sopas y guisos,-0.14160563,0.011651946
+8217,pho by mean chef  vietnamese beef   rice noodle soup,Sopas y guisos,-0.040889975,0.08966209
+8229,the best baked potato soup ever,Sopas y guisos,-0.14771754,-0.008238591
+8230,my o my   best thai beef salad ever,Ensaladas,-0.15323293,-0.04801112
+8232,scarface   chicken mushroom alfredo,Platos principales,-0.06694529,0.06302816
+8261,triple caramel cake,Postres,-0.034751307,0.1772621
+8262,coca cola pork roast,Platos principales,-0.20021524,-0.0066381837
+8291,karen s macaroni salad,Ensaladas,0.031477917,0.046353288
+8379,salt rubbed roast chicken with lemon   thyme,Platos principales,-0.11232357,-0.017670183
+8385,crunchy rhubarb muffins,Panes,-0.07551572,0.09060796
+8399,claritha s fried chicken wings,Otras,-0.071649216,0.1242983
+8426,low fat banana bread,Panes,-0.29177964,-0.024865914
+8437,chunky apple muffins,Panes,-0.17205127,-0.027973073
+8469,bridal baby shower tuna chicken salad,Ensaladas,-0.034975078,0.08895013
+8484,very low fat black bean and corn salad,Ensaladas,-0.2741014,-0.14005053
+8503,cajun garlic fingers,Panes,-0.076076746,-0.02549982
+8512,salmon with caramelized onion and fig sauce,Platos principales,-0.06359651,0.052075844
+8513,banana pumpkin bread with brown sugar icing,Panes,-0.03805138,0.13079461
+8514,spicy chicken thighs,Platos principales,-0.112042986,0.09883833
+8520,creamy ham and corn chowder,Sopas y guisos,-0.10672409,0.15802875
+8531,magic peanut butter middles cookies,Postres,0.04164655,-0.052553307
+8534,exotic nile river split pea soup,Sopas y guisos,-0.022207808,0.07215063
+8537,jiffy  extra moist carrot cake,Postres,-0.05154817,0.10079515
+8544,creamy corn with chilies,Otras,0.19800681,0.03002553
+8588,black bean and rice soup,Sopas y guisos,0.010487695,0.06274213
+8618,green bean   feta salad,Ensaladas,-0.0134912385,0.046960205
+8632,croissant bread pudding   ina garten,Postres,-0.09860258,-0.017247155
+8680,creamy red potato salad,Ensaladas,-0.03992701,-0.04784103
+8682,blockbuster vegetarian crock pot black bean soup,Sopas y guisos,-0.006203684,-0.1099775
+8689,potato chicken salad with a basil parsley mayonnaise,Ensaladas,0.010497705,0.010937139
+8701,easy  and tasty  meatloaf,Platos principales,-0.08809103,0.1527533
+8711,homemade gnocchi,Otras,-0.14585018,-0.19569156
+8728,bacon  lettuce and tomato sandwich soup,Sopas y guisos,0.019600613,0.09629523
+8781,danish   cream cheese filling,Postres,-0.0385585,0.05084251
+8784,chili salad,Ensaladas,-0.06310565,0.06594209
+8811,turkey soup,Sopas y guisos,-0.11051966,0.10780062
+8817,french silk chocolate pie  or parfait,Postres,-0.08327599,0.08084764
+8839,asparagus orzo soup,Sopas y guisos,-0.052750405,0.124959104
+8843,north african cauliflower soup,Sopas y guisos,0.08078898,0.16924739
+8847,best cheese biscuits,Panes,0.011480404,0.0767144
+8862,lekvar prune plum filling or  apricot,Postres,0.106720455,0.04145202
+8883,hungarian nokedli  dumplings,Otras,-0.088305615,-0.038012482
+8899,too easy cheesy chicken  broccoli and rice casserole,Platos principales,-0.19260366,0.026576523
+8938,sushi rice,Platos principales,-0.10163796,0.027751526
+8944,anchovy linguini,Platos principales,0.019018285,0.04274334
+8948,stuffed french bread sandwiches,Platos principales,-0.007651333,0.067827955
+8963,guinness beer bread,Panes,-0.15607467,0.025883976
+8965,whole wheat apple cinnamon bread   bread machine,Panes,-0.089250304,0.08417707
+8978,southwestern caesar salad with chipotle dressing,Ensaladas,0.040428963,0.0035333266
+8988,salmon burgers,Otras,-0.09579025,0.036585882
+8991,the lady s macaroni and cheese   paula deen,Platos principales,-0.13413823,-0.23691875
+9002,cinnamon raisin bagels  bread machine,Panes,0.09153441,0.087461926
+9005,balsamic port drizzle,Ensaladas,0.025404427,0.109650336
+9016,basic smothered steak and onions,Platos principales,-0.04903154,0.06670909
+9046,creamy wild rice soup with smoked turkey,Sopas y guisos,-0.14528233,-0.004187427
+9066,herb toasts,Panes,0.07306048,0.03808247
+9071,lemon italian chicken pasta,Platos principales,-0.023959368,0.13331386
+9083,strawberry rhubarb muffins,Panes,-0.06297235,0.04990158
+9091,oreo cookie dessert,Postres,-0.032043852,0.055871386
+9106,boston market cornbread,Panes,-0.22134729,-0.0069931573
+9115,bestest hamburger soup,Sopas y guisos,-0.29783013,-0.12352127
+9130,pineapple cheesecake squares,Postres,-0.011879313,0.16035508
+9154,pumpkin molasses bread,Panes,-0.0130413305,0.1837566
+9173,cookie monster fruit salad,Ensaladas,-0.07909955,0.14105345
+9190,potato bhaji,Platos principales,0.041722957,0.21445361
+9199,chicken curry soup with coconut and lime,Sopas y guisos,-0.116259634,-0.032925848
+9200,fajita salad,Ensaladas,-0.12843513,0.03767296
+9202,glazed finger wings,Otras,-0.087370776,0.09005423
+9221,killer baked beans,Platos principales,-0.25820756,-0.12157159
+9233,chicken  rice and cabbage soup,Sopas y guisos,-0.0914376,0.07315363
+9252,favorite chicken thighs,Platos principales,-0.14634305,0.018515298
+9263,italian ground beef and macaroni,Platos principales,-0.04647517,0.09166584
+9293,julie s chocolate chip cookies,Postres,-0.108722076,0.00918926
+9306,banana walnut buttermilk bread,Panes,-0.01775608,0.10483179
+9324,deep fried jalapeno slices,Otras,-0.14085022,0.021528414
+9328,senegalese peanut soup,Sopas y guisos,0.055933855,-0.022706907
+9353,watkins chex maple party mix,Otras,-0.041332517,0.15178229
+9358,santa fe soup,Sopas y guisos,-0.12312099,0.07029198
+9368,kale and bean soup,Sopas y guisos,-0.04199431,0.016388481
+9374,not so creamy cream of asparagus soup,Sopas y guisos,-0.11459059,0.010949075
+9394,best beef barley soup,Sopas y guisos,-0.18332396,-0.041626208
+9413,rice pudding    mexican style  arroz con leche,Postres,-0.16416754,0.020808296
+9415,kree s delicious apple pork chops,Platos principales,-0.20133011,-0.019447476
+9435,focaccia bread herbed with black olive   fresh rosemary,Panes,0.024075182,0.01991633
+9465,quick chicken coq au vin,Platos principales,-0.02868696,0.12819755
+9468,spiced prawns,Platos principales,0.03535677,0.12266908
+9471,mediterranean marinated cucumbers,Ensaladas,-0.07799451,0.043928787
+9483,cranberry apple muffins,Panes,0.08263282,0.03842497
+9485,german chocolate bars,Postres,-0.14601135,0.08464961
+9498,three pea stir fry,Otras,-0.0544044,0.07344053
+9519,outback steak house walkabout soup,Sopas y guisos,-0.11820846,0.09114114
+9530,green beans with lemon and oil,Otras,-0.024363985,-0.0904436
+9531,key west citrus coolers,Otras,0.025786873,0.1129077
+9538,really awesome macaroni and cheese,Otras,0.0419656,0.0186913
+9575,tsr version of chili s chicken enchilada soup by todd wilbur,Sopas y guisos,-0.22526488,-0.09833243
+9581,cake decorator s frosting,Postres,-0.040495045,0.14172596
+9589,morning sunshine   hot lemon drink,Otras,-0.09638587,-0.22287181
+9608,sushi salad,Ensaladas,-0.025231827,0.029331926
+9612,jamaican coleslaw,Ensaladas,0.042144157,-0.007941402
+9626,snack crackers,Panes,-0.0055256137,0.14972714
+9651,posole  mexican soup with pork and hominy,Sopas y guisos,-0.13706075,-0.09404775
+9668,pizza quiche,Platos principales,0.041669708,0.051071934
+9685,restaurant style ranch dressing,Ensaladas,-0.058901273,0.11990371
+9686,spanakopitakia   little spinach pies,Otras,0.07168475,0.0008467039
+9694,meatball casserole,Platos principales,-0.068338156,0.13382612
+9696,chili s chicken enchilada soup,Sopas y guisos,0.052897256,0.09404327
+9704,fatoush salad,Ensaladas,0.08050557,0.03176717
+9709,currant cream scones,Panes,0.08613778,0.14274606
+9712,homemade ice cream   no cook version,Postres,-0.030863022,0.16823271
+9744,maple baked beans,Otras,0.124170184,-0.023587484
+9759,copycat olive garden parmesan crusted chicken,Platos principales,-0.06115552,0.03052494
+9764,herb garlic bread   belgian style,Panes,-0.047593173,0.11916663
+9771,chocolate milkshakes with no ice cream,Otras,-0.030839268,0.08277179
+9791,greek pita bread,Panes,-0.0980994,0.019049466
+9803,low fat zucchini slice,Otras,0.060862686,0.0035097213
+9868,broccoli and shrimp stuffed potatoes,Platos principales,0.017707089,-0.01598088
+9882,italian prosciutto cups,Otras,-0.04994993,0.13878891
+9892,crock pot chicken,Platos principales,-0.042522743,0.08698185
+9900,peppered rib eye steaks,Platos principales,0.1005736,-0.047355894
+9905,hash,Platos principales,-0.14239323,0.09976341
+9916,easy pizza dough for bread machine,Panes,-0.17936383,-0.0025558744
+9931,chia s gazpacho,Sopas y guisos,-0.07363428,0.0032890437
+9938,cara s cuban bread,Panes,-0.12324742,0.048698165
+9940,candied sweet potatoes   southern traditional,Otras,-0.15210325,0.1117693
+9948,italian bread dip,Otras,-0.09231725,0.01801156
+9950,cheese and mushroom stuffed meatloaf,Platos principales,-0.070020154,-0.02433012
+9969,shrimp sahanaki with greek cheeses and tomatoes,Otras,0.06470662,0.0769429
+10000,layered mexican chicken,Platos principales,0.021487908,0.10121242
+10018,snappy rolls,Panes,0.031537794,0.06943645
+10019,tiramisu trifle,Postres,-0.1012707,0.04756945
+10031,creamy garlic red potato salad,Ensaladas,-0.05710654,0.09380205
+10077,cross rib roast,Otras,-0.10492499,0.004114672
+10085,smoked salmon and caper pasta,Platos principales,0.02931928,0.12144227
+10098,rosemary   garlic focaccia,Panes,-0.2763509,-0.16814367
+10110,vegetarian tacos,Platos principales,-0.12937762,-0.08044095
+10116,italian smoked sausage bean soup,Sopas y guisos,-0.115411304,-0.015216052
+10123,roasted zucchini with thyme,Otras,-0.101545535,-0.015093464
+10125,black bean and couscous salad,Ensaladas,0.12693028,-0.048373464
+10128,rich and creamy blue cheese dressing,Ensaladas,0.06960568,0.11561306
+10148,tomato salad,Ensaladas,-0.13094656,0.1263635
+10155,broccoli salad with peanut dressing,Ensaladas,0.044987585,0.11329176
+10157,hungarian potato and egg casserole,Otras,-0.026675439,0.14295363
+10195,cool cucumber pasta salad,Ensaladas,-0.034185547,0.13777864
+10212,quick silken tofu chocolate pudding,Postres,0.040987976,0.17836751
+10227,sambal chicken,Platos principales,0.0132210795,0.13726442
+10237,easy creampuffs,Postres,0.012025059,0.19578879
+10252,beef brisket with burgundy orange sauce,Platos principales,-0.10615748,0.0052163787
+10260,leg of lamb with garlic sauce,Platos principales,-0.031453844,0.09893577
+10263,baked shredded beef chimichangas,Otras,-0.005194687,0.10009814
+10298,sour cream chive bread  bread machine,Panes,-0.07616839,-0.030455844
+10308,chicken roasted on sweet potatoes and garlic,Platos principales,-0.04125118,-0.045577638
+10315,savory cheese muffins with bacon and chives,Panes,-0.06805792,-0.0678211
+10324,oatmeal scotchies,Postres,-0.029988643,0.14154854
+10331,pineapple cream muffins,Panes,-0.2791711,-0.0455806
+10334,best carrot soup,Sopas y guisos,-0.124069095,0.06897208
+10343,nutella mousse,Postres,-0.09980959,-0.036744058
+10364,new mexico green chili stew,Sopas y guisos,-0.05714566,0.053118438
+10390,garlic brown sugar chicken,Platos principales,-0.10379354,0.1330725
+10392,bread machine french bread italian style,Panes,-0.068519145,0.12258784
+10433,chocolate rum balls,Postres,-0.06903042,-0.023023272
+10486,summer peach mousse,Postres,0.05369717,0.008795715
+10525,crock pot ravioli,Platos principales,-0.33141002,-0.13581885
+10558,potluck macaroni salad,Ensaladas,0.022724206,0.13292702
+10564,5 cup slice,Postres,0.0328983,0.063003704
+10574,crock pot asian style short ribs,Platos principales,-0.16658899,0.0056589916
+10613,indonesian cucumber salad,Ensaladas,-0.09838134,-0.14445938
+10619,honey bread   bread machine,Panes,-0.047501646,0.17255446
+10637,double chocolate chip mega muffins,Panes,-0.07139431,-0.022853216
+10684,bbq d beef ribs,Platos principales,-0.14477827,0.11015006
+10702,southwestern grilled catfish,Platos principales,-0.061494935,0.12500344
+10710,chocolate coffee cookies,Postres,-0.19015235,-0.062705316
+10738,not my mom s carrot raisin apple salad,Ensaladas,-0.03372121,-0.02906129
+10740,arugula with lemon and olive oil,Ensaladas,-0.05832937,0.014582489
+10741,fried cheerios,Otras,-0.061405893,0.027450811
+10829,root beer float,Otras,-0.13885117,-0.16455537
+10833,grilled fresh sweet corn on the cob in husks,Otras,-0.08875646,-0.046629354
+10881,southern fried peaches,Otras,0.033031672,0.0809535
+10922,mussels fra diavola,Platos principales,0.017401423,-0.017748136
+10930,a real maine  italian,Otras,-0.07687741,-0.14575219
+10939,palmiers  french puff pastry cookies,Postres,-0.10983449,0.066522814
+10941,savory rice pilaf with lavender   apricots,Otras,0.034275427,0.077689715
+10945,chicken breast implants,Platos principales,-0.03947171,0.17660865
+10976,crab and spinach casserole,Platos principales,-0.031534072,0.05214362
+10979,margarita scallops,Platos principales,0.06479271,0.12241287
+11028,copycat kfc coleslaw  the real thing,Ensaladas,-0.24190909,-0.030894008
+11042,granny lil s spinach salad,Ensaladas,0.055413205,0.034506634
+11055,dreamy frozen fruit salad,Ensaladas,-0.12056143,0.090962306
+11069,smoked salmon and tortellini salad,Ensaladas,0.06678539,0.095389806
+11084,vegetable fred,Otras,-0.09452224,0.030772418
+11087,city farm vinaigrette,Ensaladas,-0.038241837,0.09602485
+11091,green grape delight,Ensaladas,-0.14326195,0.0046408637
+11096,ellen s yummy pasta salad,Ensaladas,-0.11887632,-0.08211193
+11097,strawberry coffee cake,Panes,-0.3347782,-0.16884732
+11099,salmon with honey and mustard glaze,Platos principales,-0.17859676,-0.11581465
+11112,fantastic buttery cream cheese coffee cake,Panes,-0.20983365,0.011774072
+11129,chocolate whipped cream ii,Postres,-0.08537341,0.14733887
+11176,gnocchi casserole,Platos principales,0.050379694,0.09512463
+11210,delicious tuna mushroom noodle casserole,Platos principales,-0.13318294,0.021120137
+11223,houston s honey mustard,Ensaladas,-0.15343001,0.045846514
+11230,kittencal s juicy blue cheese hamburgers burgers,Platos principales,-0.10528716,0.007660218
+11255,lemonade,Otras,-0.001619626,-0.0044704666
+11289,pistachio pudding  pineapple fluff dessert salad,Ensaladas,-0.032843776,0.07653894
+11292,carrots and raisins  healthy snack,Otras,-0.029056037,0.014546002
+11324,toasted onion and garlic potatoes,Otras,-0.11879203,0.094508566
+11380,light wheat bread or rolls  abm,Panes,-0.15742534,0.07152279
+11401,aunt margie s cole slaw,Ensaladas,-0.122494005,0.01272626
+11418,cheddar potato beer soup with shredded ham,Sopas y guisos,-0.21894695,0.010160141
+11420,1 asian noodle salad,Ensaladas,0.0077392254,0.098682284
+11422,blue cheese vinaigrette,Ensaladas,0.013213042,0.04524696
+11455,white bean  spinach and sausage soup,Sopas y guisos,0.0027153653,0.1157892
+11463,beef and beer stew,Platos principales,0.02660509,0.14920074
+11474,sour cream cinnamon nut muffins,Panes,-0.122082315,0.071082644
+11512,ricotta filled brownie squares,Postres,-0.06327815,0.06618027
+11522,lemon cream cheese frosting,Postres,-0.20527737,-0.031115478
+11532,pineapple  ham   basil pizza,Platos principales,0.014506523,0.0195691
+11550,giant chocolate chunk cookies,Postres,0.015344629,-0.087808475
+11570,tsr version of soup nazi mulligatawny indian soup bytodd wilbur,Sopas y guisos,-0.1160751,-0.06278124
+11575,zero carb muffins,Panes,-0.13226257,0.079006456
+11590,ricotta   spinach cannelloni,Platos principales,-0.009006644,0.0326864
+11631,mrs  moore s chocolate cake,Postres,-0.046979588,-0.009199902
+11640,low fat full taste muffins,Panes,0.074846014,0.030929234
+11646,chunky apple cake with cream cheese frosting,Postres,-0.0017745293,0.11375424
+11667,pork chop and stuffing casserole,Platos principales,-0.1896755,-0.03317915
+11702,delicious corn  potato and bell  pepper chowder,Sopas y guisos,0.052698284,0.026110651
+11711,white pie,Postres,-0.038123738,0.15475892
+11735,bavarian apple cheese cake tart,Postres,-0.04524488,-0.015791502
+11737,dad s chicken soup,Sopas y guisos,-0.0033069896,0.114000514
+11738,the coffee cooler,Otras,-0.017481817,0.13524413
+11742,lazy stuffed cabbage casserole,Platos principales,-0.17924236,0.01854894
+11745,baked mozzarella cheese sticks,Otras,-0.08971295,0.089415915
+11749,fruit fluff,Postres,-0.07972313,0.03735902
+11784,firehouse event poultry marinade,Otras,0.072846554,0.10474056
+11786,perfect iced tea,Otras,-0.110953026,0.060015623
+11789,zaaa bites,Panes,-0.16109443,0.07259946
+11813,lentil soup  truly good and easy   eat your lentils,Sopas y guisos,-0.14850073,-0.04129327
+11822,ham and cabbage soup,Sopas y guisos,-0.17092131,-0.06738329
+11833,zuke soup,Sopas y guisos,0.03662396,0.17569137
+11838,buche de noel  yule log,Postres,-0.08163973,0.11248543
+11862,best baked doughnuts ever,Panes,-0.10265888,0.13740796
+11863,eye opening salmon sandwiches,Otras,-0.11158671,0.097667366
+11879,crock pot minestrone,Sopas y guisos,-0.1572322,0.03274133
+11894,maryland crab sweet corn chowder,Sopas y guisos,-0.092293605,0.16606891
+11920,quick buttermilk cinnamon bread,Panes,-0.049135268,-0.024739891
+11934,spiced black beans,Otras,-0.011986682,0.028397158
+11944,perfect peanut butter cookies,Postres,-0.24303341,0.060776394
+11963,nutella hot chocolate,Otras,-0.26907697,-0.17891228
+11988,unbelievably easy potato soup,Sopas y guisos,-0.1835299,-0.1116668
+11992,manhattan clam chowder,Sopas y guisos,-0.035169154,0.05454857
+12003,spinach garlic soup,Sopas y guisos,-0.25526753,-0.10117596
+12010,oatmeal porridge  crock pot,Otras,-0.059208076,0.13854113
+12024,broiled salmon salad,Ensaladas,0.079079635,0.08423087
+12032,healthy pumpkin banana muffins,Panes,-0.09813131,0.035211947
+12053,homestyle ham and bean soup,Sopas y guisos,-0.115824185,-0.07055307
+12074,dee s santa fe green chile stew,Platos principales,-0.108819894,-0.031446513
+12079,no bake chocolate oatmeal cookies,Postres,-0.06308557,0.04179787
+12092,prosciutto garlic green beans,Otras,-0.004605472,0.055008914
+12163,cinnamon nuts,Otras,-0.06157558,0.04240762
+12164,cranberry almond bundt cake,Postres,-0.13840547,-0.008680365
+12179,gingered cranberry pumpkin bread,Panes,0.07359248,0.014124937
+12185,round steak   onions,Platos principales,-0.23392163,-0.037841525
+12197,cinnabon cinnamon rolls for the abm,Panes,-0.27034405,-0.01822866
+12220,matthews gingersnap cookies 2002,Postres,0.054568995,0.13288921
+12269,no knead batter dinner rolls,Panes,-0.13141493,0.030104877
+12272,double chocolate gooey butter cake,Postres,-0.119373664,0.069927834
+12301,peanut butter rolo cookies,Postres,0.0119792605,0.025222406
+12302,soutzoukakia  greek meatballs in a tomato sauce,Platos principales,-0.089377716,0.0043919366
+12306,splendid splenda meringues,Postres,0.034017947,-0.02811689
+12308,e z doughnuts,Postres,-0.074761175,-0.00965812
+12347,tsr 1993 version of cinnabon cinnamon rolls by todd wilbur,Panes,-0.39932495,-0.21109937
+12356,crustless baked custard pie,Postres,-0.09137004,-0.026594868
+12370,tres leches  three milk cake,Postres,-0.00085696153,0.009010423
+12386,cranberry orange quick bread,Panes,-0.17936836,0.0072729345
+12399,southern fluffy frosting,Postres,-0.10104843,0.00026783557
+12410,italian bean soup,Sopas y guisos,-0.16855381,-0.0076409774
+12411,grocery store gossip pound cake,Postres,0.05774844,0.15981838
+12418,chocolate almond macaroons,Postres,-0.062255666,0.13340554
+12422,zucchini parmesan soup with rice,Sopas y guisos,-0.124029204,-0.072266094
+12434,country fried chicken with gravy,Platos principales,-0.08633248,0.11783987
+12451,easy cheesy artichoke bread,Panes,-0.222051,0.036008168
+12454,instant potato soup,Sopas y guisos,-0.0016552579,0.10191041
+12474,hot butter your buns with buttered rum in a crock pot,Postres,-0.10703653,0.0058346586
+12476,ricotta and chocolate cake,Postres,0.044201132,-0.04100951
+12520,biscuit stuffing pork chops,Platos principales,0.032615937,0.0637602
+12549,tender bread machine rolls,Panes,-0.05565859,0.06886873
+12554,skillet steak with mushroom sauce,Platos principales,-0.20284997,-0.096053876
+12556,the dove s nest texas chowder,Sopas y guisos,-0.061734896,0.060007606
+12660,potato  green bean and bacon chowder,Sopas y guisos,-0.08272425,-0.047969945
+12670,potato crab chowder,Sopas y guisos,-0.05811596,0.019207198
+12707,spicy quinoa salad,Ensaladas,0.056638844,0.11539069
+12709,mu shu pork and mandarin pancakes,Platos principales,-0.10771776,0.04504746
+12719,uncle bill s green split pea with hambone soup,Sopas y guisos,-0.30957747,-0.24336004
+12742,jalisco pork,Platos principales,-0.10501133,0.009273765
+12782,spicy sesame oven fried potatoes,Otras,-0.10128898,0.051257916
+12803,chocolate chip yogurt cookies,Postres,-0.057963822,0.070945315
+12817,mocha truffles,Postres,-0.020206084,0.12251728
+12824,homemade hamburger buns  bread machine,Panes,-0.34018803,-0.21688327
+12828,kittencal s rich homemade beef stock  crock pot or stove top,Sopas y guisos,-0.16671863,-0.04525269
+12836,best blueberry crisp,Postres,-0.17196386,-0.09407806
+12839,mahogany beef stew,Sopas y guisos,-0.3313697,-0.31816685
+12882,gingered chicken breast,Platos principales,0.03104151,0.11551628
+12892,taco quiche,Platos principales,0.005134226,0.03083749
+12917,easy pita bread,Panes,-0.17992266,0.008277347
+12952,barbecued garlic chicken,Platos principales,0.05943825,0.119965345
+12961,mellow cabbage salad,Ensaladas,0.03326048,0.14249685
+12981,roasted squash  potatoes  shallots   herbs,Otras,-0.066200934,0.046343125
+12989,portuguese kale soup  with veggie version,Sopas y guisos,0.004976444,0.017671803
+12991,creamy chicken wild rice soup,Sopas y guisos,-0.09289771,0.023493152
+13002,auntie barbara s yummy   easy danish pastry,Postres,-0.054146886,-0.1072788
+13017,valentine heart breadsticks,Panes,0.046131004,0.14846294
+13037,whole grain health muffins,Panes,-0.15504333,-0.04178383
+13040,awesome thai chicken coconut curry,Platos principales,-0.11661581,-0.089296035
+13067,cucumber avocado soup soupe glace  l avocat,Sopas y guisos,0.113233194,0.0033877909
+13093,pizza pot pie,Platos principales,-0.07207718,0.06556355
+13102,german chocolate cream cheese brownies,Postres,0.07236391,-0.00025271898
+13103,low fat chocolate ice cream,Postres,0.036927454,0.047766328
+13104,rosemary focaccia bread,Panes,-0.08912612,0.09591885
+13129,beef  bean and tomato soup,Sopas y guisos,-0.2119947,0.0028314814
+13147,wilton cookie blossom sugar cookies,Postres,-0.0342768,0.127911
+13156,crock pot cream of mushroom soup,Sopas y guisos,-0.080183014,0.0595909
+13157,grilled portabella mushroom burgers   a la dave,Platos principales,0.007983863,0.10687058
+13163,shepherd s pie  low carb,Platos principales,-0.08859464,0.0541237
+13176,polish sausage  kielbasa   soup,Sopas y guisos,-0.11273619,0.04145085
+13190,slow cooker split pea soup,Sopas y guisos,-0.14585343,-0.069905855
+13198,asparagus breakfast casserole,Otras,0.055726778,0.0655626
+13199,sweet russian salad dressing,Ensaladas,0.05242022,0.08088965
+13211,potluck orzo pasta salad,Ensaladas,0.00060474157,0.16682631
+13219,coffee squares,Postres,-0.087414786,0.14540753
+13254,pomegranate cosmopolitan,Otras,-0.056297176,0.028648036
+13278,cream and crumb schnitz pie,Postres,-0.012293122,0.08670691
+13286,egg salad   low carb choice,Ensaladas,-0.009425205,0.07872834
+13301,shmaltz,Otras,-0.04667703,0.054301992
+13304,chickpea   peanut stew,Sopas y guisos,-0.16813242,-0.06614195
+13307,low fat sugar free and non dairy caesar salad dressing,Ensaladas,-0.058097184,0.12777905
+13318,nat s oven baked zucchini sticks,Otras,-0.187261,-0.100910895
+13324,chicken in garlic white wine cream sauce,Otras,-0.03868287,0.008200596
+13350,curry dressing,Ensaladas,-0.10323559,0.09899587
+13368,penne with swiss chard   asiago cheese,Ensaladas,0.09962817,0.07437203
+13373,homemade ranch dressing dip,Ensaladas,-0.086775295,-0.050748218
+13375,everyday coffee cake  microwave,Panes,-0.10270853,-0.03764355
+13382,really simple chicken,Platos principales,-0.01722601,0.13346231
+13397,israeli chickpea salad,Ensaladas,-0.006500976,0.10775141
+13411,better banana bread,Panes,-0.03474929,0.13106468
+13412,grammie miller s swedish apple pie,Postres,0.032252237,-0.106647
+13427,old fashioned chocolate pie,Postres,-0.106066056,0.1457155
+13430,chicken ritz,Otras,-0.047806945,0.0736784
+13443,oriental chicken vegetable soup,Sopas y guisos,-0.02970229,0.15174559
+13449,olive garden stuffed mushrooms  copycat,Otras,-0.13279489,-0.051224902
+13477,frozen oreo cookie dessert,Postres,-0.09337613,0.09293835
+13518,cheesy potato soup,Sopas y guisos,-0.02699025,0.1527766
+13523,awesome buttery grits with corn,Otras,0.039850738,0.03863881
+13530,ranch style beans  aka cowboy beans,Platos principales,-0.09142276,0.07653597
+13568,barefoot contessa s challah french toast,Panes,-0.008130165,-0.024011573
+13582,tapas   spicy pork skewers  pinchos morunos,Platos principales,0.0132689765,0.052398544
+13598,one bowl brownie pie,Postres,-0.22833915,-0.014669701
+13609,red snapper parmigiana,Platos principales,-0.15637611,0.11257687
+13611,sourdough bread,Panes,-0.07204341,0.01861599
+13623,chocolate chip bundt cake with chocolate glaze,Postres,-0.16879636,0.03740946
+13638,cranberry maple nut scones,Panes,-0.011925886,0.13440359
+13643,curry lentils with chicken,Sopas y guisos,0.014356379,0.05413181
+13664,pappadeaux snapper ponchartrain,Sopas y guisos,0.0027193557,0.05634338
+13670,smashed tomato and olive salad,Ensaladas,-0.036314726,-0.036049187
+13677,boboli pizza crust,Panes,-0.08513926,0.111122005
+13696,banana pineapple streusel muffins,Panes,-0.15838194,-0.04069026
+13701,easy beef skillet dinner,Platos principales,0.07534452,0.15446088
+13703,simply splendid rice pudding,Postres,-0.11713325,0.10337827
+13717,brookville sweet   sour coleslaw,Ensaladas,0.0006189157,0.025572255
+13730,winter chicken salad with chipotle cream dressing,Ensaladas,-0.0143856555,0.019246524
+13732,banana nut yeast bread  bread machine,Panes,-0.11190299,0.0611716
+13745,super corn salad,Ensaladas,0.027423356,-0.13545384
+13747,unbelievable caesar dressing,Ensaladas,0.035115678,0.03983408
+13768,buttermilk panna cotta,Postres,0.017332315,0.054936554
+13806,crazy crust apple pie,Postres,-0.028903075,0.1365263
+13842,sauteed chicken with spicy peach sauce,Platos principales,-0.032856587,-0.04498259
+13875,hush puppies justin wilson style,Panes,-0.21562248,-0.16950873
+13882,my own garlic bread,Panes,-0.20980778,0.002373067
+13884,damper  aussie campfire bread,Panes,-0.012597443,0.032295484
+13891,greek garlic bread,Panes,-0.19625261,-0.035004616
+13902,chocolate roll dainty,Postres,0.072708406,0.013363103
+13926,it s a whole meal keema curry  beef  potatoes and veg,Platos principales,0.029296199,0.21581855
+13999,spinach romaine salad with poppy seed dressing   mandarin or,Ensaladas,-0.07029317,0.02795305
+14015,apple or pear crisp for one,Postres,-0.16568996,-0.14634964
+14029,cream of garlic  onion  and mushroom soup,Sopas y guisos,-0.06794145,0.11420614
+14033,diane s easy thousand island salad dressing,Ensaladas,0.072000444,0.020612745
+14042,avocado and egg salad,Ensaladas,-0.15227222,-0.11504863
+14050,chocolate meringue cookies,Postres,-0.08084967,0.17467722
+14075,girl guide bananas boats,Postres,-0.06626111,0.11120478
+14079,california crab salad,Ensaladas,-0.11849422,0.02182767
+14089,mulligatawny soup with lentils,Sopas y guisos,0.10987902,0.10570407
+14102,banana bread  yeast risen,Panes,0.09379867,0.022687826
+14136,moroccan eggplant  aubergine  salad,Ensaladas,-0.021104839,-0.053667404
+14159,fantastic cloverleaf rolls,Panes,-0.06233068,-0.0008253049
+14168,yum nua   thai beef salad,Ensaladas,0.08385052,0.039012156
+14171,white beans in coconut milk,Platos principales,0.077596456,0.08669127
+14205,light peach upside down cake,Postres,-0.08209894,0.08937454
+14248,potato bread  bread machine,Panes,-0.16440724,0.0738403
+14249,kansas city steak and vegetable soup,Sopas y guisos,-0.11670668,0.03551166
+14286,angel bread slices,Postres,-0.036366563,-0.023789624
+14289,italian flag salad  caprese,Ensaladas,0.033294976,0.04799019
+14296,crook s corner shrimp and grits,Platos principales,-0.26967704,-0.139031
+14326,sugar topped chocolate bread pudding,Postres,0.03552868,-0.05037346
+14328,applebee s chimicheesecake,Postres,-0.08414858,0.11522602
+14344,natural bran muffins,Panes,0.039304215,0.040378843
+14358,green sea salad  kyuri to wakame no su no mono,Ensaladas,0.081916735,0.04536189
+14359,sparkling pineapple lemonade,Otras,-0.05009563,0.14672104
+14372,rainwater dressing,Ensaladas,-0.08019035,-0.0028236853
+14437,coconut cream truffles,Postres,0.09512218,0.04236433
+14451,i stole the idea from mirj  sesame noodles,Platos principales,-0.1779232,0.11452471
+14471,salt potatoes new york style,Otras,-0.14429398,-0.0942613
+14519,chicken cheese  enchilada soup,Sopas y guisos,-0.10362108,-0.0018677291
+14527,tsr version of twin dragon almond cookies by todd wilbur,Postres,0.03832619,0.11905442
+14535,barbecue grilled kielbasa  dinner packets,Platos principales,-0.18598235,-0.041846283
+14544,simple pan fried chicken breasts,Otras,-0.042284794,-0.049451638
+14550,broccoli cheese melt soup,Sopas y guisos,-0.047947694,0.1581668
+14579,buttermilk doughnuts donuts,Panes,-0.18867289,-0.1084499
+14585,pasta  tomato and lentil soup,Sopas y guisos,0.05205461,0.0043195924
+14596,tuna tarragon pasta salad,Ensaladas,0.20778355,0.12377691
+14618,roast cherry tomatoes and feta,Ensaladas,-0.088229544,0.13080682
+14646,waldorf coleslaw,Ensaladas,-0.13963795,0.099536024
+14647,creamy spinach artichoke pasta,Platos principales,-0.1404394,0.11300688
+14662,california breakfast bread,Panes,-0.078150496,0.08962874
+14669,quick   easy tortellini soup with spinach and tomatoes,Sopas y guisos,-0.011887394,0.04165796
+14673,southwestern chicken and bean soup  crock pot,Sopas y guisos,-0.03332278,0.20009626
+14679,the best blueberry buttermilk pancakes,Otras,-0.21191065,-0.12432496
+14696,pineapple  blueberry  banana shake,Otras,-0.0020368411,-0.09230496
+14728,turkey taco salad,Ensaladas,0.036635548,-0.04427485
+14755,chewy oatmeal bars,Postres,-0.051434714,0.016533809
+14761,kittencal s homemade vanilla,Otras,0.052020226,0.078600936
+14770,jeanie s cake frosting,Postres,-0.14360793,0.058752716
+14826,nana s red velvet cake icing,Postres,-0.107617795,0.1573157
+14833,super easy pesto pasta salad,Ensaladas,0.00081091677,0.08966954
+14843,crock pot pork and pineapple curry,Platos principales,0.11543855,0.044454746
+14851,strawberry cream cake filling,Postres,-0.0731859,-0.029183991
+14867,sunshine bread,Panes,0.015510581,0.052391406
+14946,south beach style tuna salad with low fat cilantro mayo,Ensaladas,-0.036104288,0.14284839
+14949,kosher perfect matzo balls,Sopas y guisos,-0.074420705,-0.10387146
+14960,bok choy  carrot and apple slaw,Ensaladas,0.021206211,-0.1345041
+14972,simple tomato and avocado salad,Ensaladas,-0.17031887,-0.13445461
+14999,lemon asparagus chicken with dill,Platos principales,-0.10573349,0.019013
+15010,ellie s chorizo   beans,Platos principales,-0.02983186,0.03019074
+15020,three onion soup gratinee,Sopas y guisos,-0.016045516,-0.13159667
+15023,pampered chef cinnamon rolls,Panes,0.0052103465,0.10883121
+15025,orange crescent swirls,Panes,-0.069044046,0.048517007
+15028,scallop bisque,Sopas y guisos,-0.0078112218,0.13235362
+15045,last minute dinner rolls,Panes,-0.052383635,-0.014424252
+15060,strawberry  banana  rum jello shots,Postres,-0.023780636,0.087679565
+15062,sausage stuffed jalapenos,Otras,-0.113180965,0.08979898
+15075,snickers candy bars,Postres,-0.29311037,-0.04277531
+15082,new england soup factory s spinach and zucchini bisque,Sopas y guisos,-0.047641426,0.0953054
+15095,devil s chocolate cookie crinkles,Postres,-0.15266062,0.04872423
+15111,just peachy spinach salad,Ensaladas,-0.035200186,0.11567008
+15121,nadav s delicious challah,Panes,-0.02373922,0.0056584016
+15123,new england soup factory s sweet potato chicken barley soup,Sopas y guisos,-0.2344157,0.03314828
+15136,southern biscuit muffins,Panes,-0.1445564,0.09398774
+15189,ham and  cheddar macaroni salad,Ensaladas,-0.16011095,0.042091627
+15205,roasted tomatoes onions and zucchini,Otras,-0.12500954,0.0115161305
+15249,blueberry and peach crisp,Postres,0.019210937,0.11783843
+15256,hot taco salad,Ensaladas,-0.05796302,0.056747552
+15274,farmhouse white bread  bread machine,Panes,-0.073749766,0.09184188
+15285,whole wheat molasses bread  bread machine,Panes,-0.18782379,0.03962227
+15344,dilled mushroom soup,Sopas y guisos,0.045676805,0.035888962
+15358,pork shirataki,Platos principales,-0.05175961,0.0046500224
+15362,asian marinade for  fish or shrimp,Otras,-0.061293397,0.09218877
+15365,strawberry tea bread,Panes,-0.027037663,0.15215433
+15375,salsa rice,Otras,-0.14685088,-0.026625173
+15394,easy cinnamon topped raisin bran muffins,Panes,-0.06837573,0.052150007
+15408,peanut butter brownie cookies,Postres,-0.04412853,0.04732231
+15411,italian crab seafood pasta salad,Ensaladas,-0.05201292,-0.018130505
+15417,cucumber tomato macaroni salad,Ensaladas,0.034655172,0.13681042
+15418,sweet peas and surimi   krab  salad,Ensaladas,0.027808748,0.16241717
+15424,alaskan sourdough cornbread,Panes,-0.04671268,-0.036083877
+15463,buttermilk muffins with variations,Panes,0.024458952,0.18623121
+15470,iceberg salad with spicy dressing,Ensaladas,0.020555465,0.031837568
+15509,lemon risotto with bacon   mushroom,Platos principales,0.12617409,0.051672347
+15513,cornbread chicken pot pie,Panes,-0.17920867,0.0063226386
+15533,bear claws,Panes,0.082240626,0.038213715
+15553,thai coconut pudding  custard,Postres,-0.0801302,0.11485618
+15558,extra cheese muffins,Panes,-0.019082773,0.11627294
+15570,easy stuffed cabbage soup,Sopas y guisos,-0.021944461,0.11616699
+15579,cha ching  carrot spice muffins,Panes,-0.29198137,-0.1719856
+15582,white chocolate cake  from dede wilson s  the wedding cake book,Postres,0.04558231,0.06037747
+15596,chocolate banana nut brownies,Postres,-0.017905058,0.06480006
+15604,cheese and garlic drop biscuits,Panes,-0.33237672,-0.14587636
+15634,chicken parmesan   low fat,Platos principales,-0.16545935,0.013876132
+15706,key lime muffins,Panes,-0.08982368,0.037697647
+15769,pickles in a blanket,Otras,0.11434393,-0.14006315
+15778,rosy crabapple or apple pie filling    freeze or can,Postres,0.08396059,0.12228761
+15781,sweet honey white bread bread machine,Panes,-0.07044173,0.06335691
+15788,citrus soda,Otras,0.13411355,0.0038428805
+15797,stove top fried apples,Postres,-0.14978313,0.11584587
+15808,gravy with sausage or hamburger,Platos principales,-0.17870589,0.042235937
+15821,blueberry and raspberry freeze,Postres,0.03761911,-0.054408316
+15861,pepper beef goulash,Platos principales,0.020766333,0.07089453
+15879,kelly s southwestern beef stew,Sopas y guisos,-0.13742776,-0.15051028
+15900,ultimate raisin slice,Postres,0.026053552,0.03557722
+15901,banana oatmeal bread,Panes,-0.26164484,-0.16481818
+15912,sabrina s sandwich bread,Panes,-0.1579894,-0.09411495
+15914,mashed white sweet potato bake,Otras,-0.050064754,-0.07357067
+15922,seasoned tortilla strips,Otras,-0.16660474,-0.105657324
+15923,andersen s split pea soup  crock pot version  copycat,Sopas y guisos,-0.0616932,-0.0867873
+15924,s mores parfaits,Postres,-0.04684943,0.09720996
+15943,sesame pita crisps,Panes,-0.036864847,0.0032501763
+15952,italian bread wedges,Panes,-0.07717578,0.08767956
+15968,country apple squares,Postres,-0.19266789,-0.06441045
+16000,cowboy beans   rice,Platos principales,-0.050925452,0.05605011
+16045,tortellini   bow tie pasta salad,Ensaladas,-0.19115333,-0.12711541
+16072,penne russo a la vodka with basil cream sauce,Platos principales,0.02840034,0.012907457
+16118,seasoning mixture for chicken and turkey,Otras,-0.048964158,0.014108823
+16127,rhubarb pineapple pie    different and delicious,Postres,-0.05505389,-0.029680375
+16130,chile colorado meatballs,Platos principales,-0.017729383,0.068807945
+16158,carrot  n  spice bran muffins,Panes,0.02818782,0.0500387
+16169,ham and bean soup with spinach,Sopas y guisos,0.022120122,-0.035197496
+16185,leftover lamb curry,Platos principales,0.027366133,-0.014004309
+16194,lemon chicken spaghetti toss,Platos principales,-0.14904267,0.01482154
+16196,skor and toasted almond coffee ice cream   for electric machine,Postres,-0.12107492,0.040899385
+16213,thanksgiving dessert,Postres,-0.05864638,-0.042603888
+16215,caramel slice squares,Postres,0.054114893,0.095087156
+16216,easy almond roca toffee,Postres,-0.11318064,0.012757563
+16217,smashed potatoes plus cfa,Otras,0.052508913,0.08228341
+16225,grilled pork chops sweet and garlicky,Platos principales,-0.030704256,-0.061092824
+16240,chicken   dumplings,Sopas y guisos,-0.0050408584,0.05634914
+16248,scrumptious kerala fish patties,Otras,-0.05202531,0.20028156
+16252,south beach peanut butter cup,Postres,-0.1680009,0.011357676
+16261,uncle bill s sole florentine with spinach,Platos principales,-0.0037437996,0.057063296
+16276,blasted chicken,Platos principales,-0.058232516,0.120839685
+16281,easy oven roasted barbecue turkey legs,Platos principales,-0.083613954,0.05496994
+16282,butternut pear soup,Sopas y guisos,0.021229334,-0.0055012475
+16297,fluffy autumn pun cakes    pumpkin pancakes,Panes,0.06731404,0.16562296
+16311,chicken soup with wild rice and mushrooms,Sopas y guisos,0.03144605,0.08885725
+16319,mimi s sour cream twists,Panes,-0.08987873,-0.1255527
+16352,carrot and raisin salad with pineapple,Ensaladas,-0.13976865,0.0003520793
+16364,the ultimate manhattan clam chowder,Sopas y guisos,-0.08363592,0.029475499
+16369,ham and cheese noodle casserole,Platos principales,-0.07919726,0.032193992
+16384,best taco soup,Sopas y guisos,-0.051300857,0.064583525
+16402,the simple but perfect pancake,Otras,-0.13428648,-0.0090403985
+16434,easy shepherd s pie,Platos principales,-0.13152197,0.049213685
+16445,chicken breasts with peanut sauce,Platos principales,-0.16599365,0.026890911
+16487,feather crescent rolls,Panes,-0.0555573,0.07940734
+16491,zucchini crisp  apple crisp,Postres,-0.06531399,-0.11424102
+16521,hamburger bean soup,Sopas y guisos,0.0709828,-0.019513031
+16570,cornbread   dairy free,Panes,0.07169498,0.085740365
+16598,south beach chicken skillet,Platos principales,-0.08698667,0.061369307
+16610,pumpkin apple cake,Postres,0.09616916,-0.0149270985
+16621,basic all purpose brine for meats  chicken  and turkey,Otras,-0.14902769,-0.084578514
+16647,the original cabbage soup diet,Sopas y guisos,-0.15723222,-0.06785912
+16680,mom s chocolate cupcakes,Postres,-0.33112282,-0.15156691
+16699,kittencal s parmesan garlic bread or garlic toast,Panes,-0.29370394,-0.27109993
+16724,creamy baked fish fillets,Platos principales,0.0143035315,0.14794841
+16725,balsamic pork tenderloin,Platos principales,-0.12847409,-0.036349043
+16737,gift brownie mix   in a jar,Postres,0.004031582,0.17913483
+16758,onion zucchini bread,Panes,0.10291348,0.0877388
+16768,red lobster cheddar garlic  biscuits,Panes,-0.06004998,0.048092216
+16795,mexicali round steak,Platos principales,-0.021205239,0.14654233
+16839,fat free sugar free hot chocolate mix,Otras,-0.2681308,-0.09841028
+16841,froot loop candy,Postres,-0.033330735,0.1102754
+16842,brie and cranberry pizza,Panes,0.064475074,-0.037665337
+16866,sweet baked corn pudding,Otras,0.029846886,0.07369117
+16872,double chocolate snowquakes,Postres,0.025105653,0.06397677
+16896,art s french bread  not bread machine,Panes,-0.01748013,0.01335723
+16899,incredible soft dinner rolls  abm,Panes,-0.05249413,-0.068002656
+16901,black bean and chorizo soup,Sopas y guisos,0.042396847,0.13082746
+16914,whole wheat oatmeal and chocolate chip cookies,Postres,-0.11504698,0.07591633
+16916,roast pork loin with dijon herb crust,Platos principales,-0.03084416,0.09234361
+16919,portuguese kale soup,Sopas y guisos,-0.080451846,-0.10203567
+16922,peach dump chicken   oamc,Platos principales,0.008330578,0.100683264
+16950,way ahead sticky buns,Panes,0.0332479,0.0717123
+16954,bread machine potato bread,Panes,-0.015768992,0.13258213
+16981,no cook 7 minute frosting,Postres,-0.122560464,-0.004550339
+16993,tuna twist  tuna macaroni salad,Ensaladas,-0.019732585,0.044918943
+17028,orange glazed green beans,Otras,0.13168725,0.0038753133
+17074,fresh crustless strawberry pie,Postres,-0.09798164,-0.03171343
+17076,crock pot pork stroganoff,Platos principales,-0.08592031,0.093082994
+17079,butternut pumpkin chicken soup,Sopas y guisos,0.006566108,0.1769389
+17082,herb garlic baguettes,Panes,0.06659684,0.08445224
+17091,pasta with prosciutto in a lemon cream sauce,Platos principales,0.04544486,0.042268705
+17153,pressure cooker carnitas,Platos principales,-0.10152403,-0.09900966
+17158,old fashioned cocoa,Otras,0.020123743,0.169356
+17161,the most delicious maple glazed pork loin,Platos principales,-0.16623242,-0.0528248
+17179,cranberry hootycreek cookies in a jar,Postres,0.07226547,0.14040305
+17193,spinach and spaghetti casserole,Otras,-0.16325718,0.09811005
+17231,senegalese chicken and peanut soup,Sopas y guisos,-0.17834839,-0.0620418
+17236,another good pound cake,Postres,0.036221307,0.12033653
+17250,snowman sugar cookies with frosting,Postres,-0.12864558,-0.022258146
+17258,lentil veggie soup  crock pot,Sopas y guisos,-0.12510353,-0.10850496
+17310,college sandwich,Otras,-0.008906239,0.039116852
+17321,great white chili  supposed to be by willie nelson,Sopas y guisos,-0.11978988,0.003689138
+17327,buttery sweet  bread for bread machine,Panes,-0.036304176,0.114170305
+17355,dill dip in a jar,Otras,-0.08149069,0.17429557
+17382,southern coated pecans,Postres,-0.005816567,0.04646996
+17411,spicy potato beef soup,Sopas y guisos,0.016466733,-0.02400774
+17431,bavarian brownies  cake mix,Postres,-0.0978914,-0.0006383621
+17462,ww mini chocolate chip cookies ww,Postres,0.089001045,0.10677947
+17473,pecan puffs  aka mexican wedding cakes or russian tea cakes,Postres,-0.091167204,0.04121415
+17539,curried chicken lettuce wraps,Ensaladas,0.11626029,-0.07084269
+17545,dragonsbreath slabs,Panes,0.1604051,-0.073606536
+17600,spinach salad with chili lime dressing,Ensaladas,0.0035754463,0.023383392
+17618,light chocolate fudge orange cream pudding,Postres,0.018743673,0.0059294663
+17625,meatball supper soup,Sopas y guisos,-0.0964568,0.02808396
+17649,chai spiced bread,Panes,0.06256066,0.13346386
+17656,milk chocolate rolled crescents,Postres,-0.16402236,-0.026802452
+17669,orange cinnamon biscuits,Panes,-0.045475956,0.09940973
+17684,orange  cream cheese muffins,Panes,0.09985751,0.06735963
+17691,tofu fried rice  from cooking light,Platos principales,-0.060841367,0.06064871
+17706,west african tropical fruit salad,Ensaladas,0.099063344,-0.031232415
+17711,split pea  n ham soup,Sopas y guisos,-0.18636964,0.016208993
+17718,sonoma chicken salad,Ensaladas,-0.032748505,0.20236124
+17720,apple cinnamon bundt cake,Postres,-0.022049481,-0.14287762
+17725,low fat low sugar chocolate apple snack cake,Postres,-0.047721103,-0.08131569
+17736,provolone chicken,Platos principales,-0.14531006,0.034688924
+17766,sweet  buttery rolls   bread machine recipe,Panes,-0.11476304,0.018683558
+17832,broccoli cheese salad,Ensaladas,-0.068195134,0.17204887
+17836,pineapple   marzipan cake  ananas marzipankuchen,Postres,-0.06468404,0.015500875
+17837,hawaiian banana nut bread,Panes,-0.20476896,-0.002644816
+17850,crusty cheese and herb pull apart bread,Panes,-0.020199325,-0.08622208
+17871,hershey s chocolate cake with frosting,Postres,-0.26086828,-0.19590606
+17908,smoky tuna salad,Ensaladas,0.11008303,0.072206855
+17927,loaded oatmeal cookies  paula deen,Postres,-0.0818162,0.009214073
+17934,pecan white chocolate chip cookies,Postres,0.06082586,0.0290777
+17938,cranberry cream cheese appetizer,Otras,0.063372076,0.0026212048
+17952,white wine substitute  non alcoholic substitute,Otras,0.069990374,0.059614446
+17962,southern black eyed peas,Otras,-0.18771902,-0.058558844
+17964,pork and rice salad,Ensaladas,0.15224499,-0.07690538
+17965,jumbo blueberry muffins  or cranberry,Panes,-0.033268478,0.06361658
+17972,strawberry jello pretzel salad,Postres,-0.18257941,-0.05828747
+17973,cheesecake factory carrot cake cheesecake,Postres,-0.27594683,-0.15643744
+17979,low fat carrot salad,Ensaladas,0.10026601,-0.07658923
+18001,hopvine s marinated roasted eggplant  aubergine,Otras,0.05165246,0.042028777
+18030,coconut chicken breasts,Platos principales,-0.07823554,-0.021436246
+18053,creamy turkey soup,Sopas y guisos,-0.19036728,-0.16823383
+18054,lotsa broccoli cheese soup with real cheese,Sopas y guisos,-0.22210881,0.07087393
+18071,affordable basic restaurant style tomato and macaroni soup,Sopas y guisos,-0.032277595,0.06888651
+18078,crock pot chicken chowder,Sopas y guisos,-0.08763463,0.010129095
+18081,barbecue ranch chicken salad,Ensaladas,-0.09986297,0.05437706
+18103,thai steak wrap,Platos principales,0.10128161,-0.07958932
+18106,greek rice   rice with spinach and feta,Otras,-0.15662578,-0.03460902
+18119,tastes like apple pie apple squares,Postres,-0.10818998,0.05000882
+18122,butternut squash and white bean soup,Sopas y guisos,-0.00287083,-0.0043287743
+18133,fennel  orange and walnut salad,Ensaladas,-0.06587141,0.0812361
+18154,mrs  field s soft and chewy peanut butter cookies,Postres,-0.1548311,-0.0628122
+18167,pan toasted bread with ham   pineapple and cheese,Otras,0.080431946,-0.088582866
+18169,authentic tex mexican enchiladas,Platos principales,-0.117246024,0.075578205
+18172,fresh mozzarella  tomato  and basil couscous salad,Ensaladas,-0.20317458,-0.11118422
+18178,amazing chewy chocolate chip cookies,Postres,0.011913116,0.15730375
+18183,ultimate strawberry cheesecake shake,Postres,0.15411025,0.056794845
+18184,tender crock pot roast beef,Platos principales,-0.025981195,0.15588157
+18194,eggplant  aubergine  and cheese casserole,Otras,-0.00910002,-0.062783115
+18210,chick   egg krispies nest easter treats,Postres,-0.10949786,0.030164449
+18220,basil spinach salad with lime vinaigrette,Ensaladas,0.039269865,0.05202551
+18241,chicken  bacon and spinach salad,Ensaladas,-0.10609473,0.024360215
+18260,wild yeast sourdough starter,Panes,0.024979852,-0.0119547155
+18321,chinese sugar snap pea salad,Ensaladas,0.0072368416,-0.122507595
+18333,delmonico s puree of portabella mushroom soup,Sopas y guisos,0.044567615,0.08780251
+18349,kittencal s hamburger burger buns,Panes,-0.23945984,-0.08805891
+18352,provolone garlic bread,Panes,-0.08262939,0.0902306
+18376,highball a classic,Otras,-0.030843265,-0.034192845
+18415,pecan carrot bread or muffins,Panes,0.119432285,-0.027537303
+18429,sushi rice salad,Ensaladas,0.009875663,-0.01901724
+18430,marinated tomato slices  marinierte tomaten,Ensaladas,0.026356986,0.022219537
+18463,aunt cora s nut bread,Panes,0.12584455,-0.017357845
+18466,the ultimate chocolate brownie muffins,Panes,-0.24888328,-0.09416539
+18501,heavenly light dinner rolls  abm,Panes,-0.030959759,0.030457664
+18504,crock pot stuffed cabbage soup,Sopas y guisos,-0.08949376,-0.09642545
+18515,amish crazy quilt pie,Postres,-0.0565874,0.12382221
+18522,kittencal s marinated oil and vinegar coleslaw,Ensaladas,-0.19028756,-0.06503358
+18539,chicken stock  from cooking light,Sopas y guisos,0.124807045,-0.0815625
+18557,low carb crustless greek spinach pie,Otras,0.03543505,0.09056249
+18570,basic trifle recipe,Postres,-0.11187396,0.056383733
+18617,double mushroom barley soup,Sopas y guisos,0.14543399,-0.0779329
+18621,crispy salmon cakes with lemon  caper mayonnaise,Platos principales,-0.19262014,-0.2560459
+18642,tortilla omelet wrap,Otras,0.03410163,-0.011000636
+18667,crab cole slaw,Ensaladas,-0.034432627,0.085784666
+18679,pumpkin yeast bread,Panes,-0.045094673,0.06290373
+18699,fragrant fish fillets in foil,Platos principales,-0.01576964,0.051969193
+18731,orange fruit chicken salad,Ensaladas,-0.034518816,0.033123445
+18765,crock pot chicken with mushrooms and leeks  low carb,Platos principales,0.025811842,-0.030522963
+18796,luke s pizza bagels,Platos principales,0.034373216,0.021459095
+18797,easy spicy vegetarian chili,Sopas y guisos,-0.12292642,-0.09824393
+18800,bacon   tomato macaroni salad,Ensaladas,-0.058919564,0.14588901
+18804,savory party bread,Panes,0.0036078114,-0.02831866
+18818,the best tres leches cake,Postres,-0.10707693,0.06621819
+18859,crumb cake mix,Otras,0.051958095,0.08770766
+18865,cauliflower rice   low carb,Otras,-0.023487283,0.013149845
+18870,lemon olive oil,Otras,0.13606331,-0.13751586
+18883,lemon walnut pesto stuffed cherry tomatoes,Otras,0.0023003696,0.050311517
+18914,sauteed zucchini with cherry tomatoes  garlic and basil,Otras,-0.046005804,0.021096183
+18920,tilapia meunier,Platos principales,-0.14234006,-0.08527716
+18950,strawberry balsamic salad,Ensaladas,-0.024871213,0.092514716
+18952,cabbage soup with cheese,Sopas y guisos,-0.021666097,0.047502268
+18988,strawberries dusted with cardamom sugar,Postres,0.06299483,0.07718122
+19014,fresh strawberry cream cheese coffee cake,Panes,0.036979787,-0.013194826
+19032,cinnamon rolls  cinnabon copycat,Panes,0.020370353,-0.057776418
+19037,pineapple orange smoothie,Otras,-0.05914485,0.123214446
+19055,swedish pickled beets,Otras,0.2223021,-0.036331438
+19056,swedish pickled beet and apple salad,Ensaladas,0.20195268,0.002290449
+19137,multi grain bread,Panes,0.013635511,0.1333487
+19160,the world s easiest basic enchilada sauce,Otras,0.13036816,-0.07116202
+19161,quick and simple ravioli soup,Sopas y guisos,0.0424862,0.044339824
+19163,bobbie s poppy seed dressing,Ensaladas,0.047716934,-0.02616128
+19170,cinnamon flax muffins,Panes,-0.020156302,0.06302869
+19175,creamy quinoa pudding,Postres,0.020191625,0.045211203
+19183,orange poppy seed biscotti,Postres,-0.007750108,0.07784943
+19185,tomato and red onion salad,Ensaladas,0.12487901,0.021373821
+19230,easy italian chicken marinade,Otras,-0.055661496,0.05878968
+19235,my best salad dressing,Ensaladas,-0.078151464,0.029274374
+19352,grilled steaks  or chops  with chipotle butter,Platos principales,0.04847145,-0.041986633
+19370,sausage and lentil soup,Sopas y guisos,0.09154436,0.0030551483
+19374,naan aka indian flat bread,Panes,-0.0074661872,0.07727401
+19394,rick s salsa,Otras,-0.113963105,0.030402154
+19483,radish sandwiches,Otras,-0.07342343,-0.20960176
+19492,cheese tortellini pesto pasta salad,Ensaladas,-0.29235774,-0.20987178
+19498,crispy wheat  crackers,Panes,0.10850515,-0.00033506792
+19518,bob evan s cheddar baked potato soup,Sopas y guisos,0.051403634,0.06204217
+19537,healthy meatloaf   meatballs with gravy oamc,Platos principales,-0.07243135,0.07946437
+19538,kona inn banana bread,Panes,-0.08834177,-0.1574681
+19575,elixir cleanse soup,Sopas y guisos,-0.036545396,0.06331428
+19625,teriyaki chicken sandwiches,Otras,-0.073914096,-0.036607035
+19651,spaghetti squash saute,Otras,-0.12488819,-0.011307718
+19675,timberlodge s lumberjack hash browns,Otras,-0.13064349,-0.02102378
+19680,savory mushroom spread,Otras,0.11905943,0.040407296
+19712,lentil soup with swiss chard,Sopas y guisos,-0.009541822,0.013342634
+19750,canadian hamburger soup,Sopas y guisos,0.063965105,0.09264303
+19753,super soft caramel popcorn,Postres,0.029297,0.026582178
+19792,sour cream strawberry muffins,Panes,-0.009493573,0.07321713
+19823,avocado with balsamic dressing,Otras,0.013617532,-0.08422518
+19841,swiss miss fat free tapioca pudding  copycat  by todd wilbur,Postres,-0.09707611,-0.067132495
+19846,hot  and cold thai  sesame noodle salad,Ensaladas,-0.15617731,-0.011287142
+19851,graham cracker coffee cake,Panes,-0.19147259,0.049557265
+19907,shooter s sandwich,Otras,0.08157042,0.021294534
+19919,old bay coleslaw,Ensaladas,-0.02690871,-0.12299491
+19921,coconut chicken with pina colada dip  7 points ww,Platos principales,-0.07550491,0.01763637
+19948,southern double crust peach cobber,Postres,0.03435322,0.10365983
+19954,ham and swiss stromboli,Platos principales,-0.1774744,0.0035879007
+19955,banana muffins with mascarpone cream frosting or spread,Panes,0.013691446,0.045364697
+20071,shrimp summer salad in  cantaloupe bowls,Ensaladas,0.09476966,0.059547197
+20078,orzo shrimp salad,Ensaladas,-0.04173694,-0.068353176
+20081,tuna pasta salad with yogurt dill sauce,Ensaladas,0.13149795,0.066315666
+20094,tuna garbanzo bean salad,Ensaladas,0.03483509,0.0653724
+20122,baileys irish cream chocolate chip cheesecake,Postres,-0.21943153,-0.16968615
+20140,indian lentil soup  dal shorva,Sopas y guisos,-0.12851334,-0.006760862
+20152,blueberries   cream porridge,Otras,-0.08740653,-0.03611155
+20171,jalapeno relish,Otras,0.09651579,-0.007772096
+20192,ham   cheese bread,Panes,0.06514716,0.026123188
+20201,sesame tomato salad,Ensaladas,-0.06405986,-0.04693443
+20249,creamed urad daal,Otras,0.09736324,0.14006016
+20260,artichoke and sun dried tomato quiche,Platos principales,0.012385252,0.06348798
+20262,indonesian coleslaw,Ensaladas,0.06428322,-0.17532364
+20269,marinated tofu for meat eaters who hate tofu,Platos principales,-0.116637155,0.028326033
+20279,tangy tender chicken  crock pot,Platos principales,-0.012639905,0.09467894
+20306,restaurant teriyaki sauce,Otras,-0.2226043,-0.20496288
+20321,fabulous bundt pan banana bread,Panes,0.009682822,0.11646595
+20323,picnic bread  from south africa,Panes,-0.15087835,-0.13672228
+20335,pierogi and vareniki dough,Panes,-0.042419434,0.07350914
+20347,vicki  s apple coffee cake,Panes,-0.11201516,-0.06831948
+20391,wendy s spicy chicken fillet sandwich by todd wilbur,Otras,-0.108582124,-0.0848032
+20405,bulgarian tomato dumpling soup,Sopas y guisos,0.11364255,-0.043650538
+20424,minnesota cream of chicken   wild rice soup,Sopas y guisos,-0.17726028,-0.084448665
+20477,hot bananas in coconut milk,Postres,-0.07352037,-0.14663625
+20514,tabbouleh a la paula wolfert,Ensaladas,-0.07869999,-0.0987736
+20519,macadamia nut crisps,Postres,0.16460446,-0.030857168
+20527,spinach and ricotta bruschetta,Otras,0.03852055,0.03830708
+20535,chilled cantaloupe soup,Sopas y guisos,-0.021111742,-0.045338426
+20546,danished glazed mushrooms,Otras,-0.02182515,-0.19405916
+20548,hungarian mushroom soup  from the moosewood cookbook,Sopas y guisos,-0.08294561,0.06764737
+20559,north african vegetable soup,Sopas y guisos,0.015263098,0.08163915
+20560,bob evans chicken   noodles  copycat,Sopas y guisos,-0.15155175,0.122429445
+20563,formaggio con le pere  pears and cheese,Ensaladas,0.08863078,-0.08597666
+20579,broiled polenta with mushrooms and cheese,Platos principales,-0.11848854,-0.06488512
+20588,kelly s blt club pasta salad,Ensaladas,-0.036893375,0.0517264
+20596,homemade bread,Panes,0.0226062,0.08505636
+20606,kansas city steak soup,Sopas y guisos,-0.018673852,-0.032291982
+20616,french bread with roasted garlic,Panes,0.0014770384,-0.026708731
+20632,stained glass fruit salad,Ensaladas,0.12692603,-0.040605344
+20651,mexican casserole   6 5 weight watcher points,Platos principales,-0.26627243,-0.18032314
+20661,easy pizza soup or dressed up tomato soup,Sopas y guisos,-0.011988981,0.046750326
+20670,cream of barley and dill soup,Sopas y guisos,0.10694769,0.0006156307
+20671,easy biscuits,Panes,-0.0061640833,-0.030468583
+20685,sweet pea soup,Sopas y guisos,0.07119522,-0.04902499
+20692,the stone pipe inn salad,Ensaladas,0.03910409,0.03792813
+20716,sweet potato trta,Otras,0.00199849,-0.06659564
+20734,quick cookie dough cheesecake bars,Postres,-0.22449619,-0.018661357
+20736,sugar n spice cookies,Postres,0.072595134,0.081738494
+20833,innkeeper s omelet,Otras,0.016884262,0.0043250998
+20851,asian grilled pork chops,Platos principales,-0.11147391,-0.11859069
+20881,chunky mushroom barley soup,Sopas y guisos,-0.11226003,-0.06798547
+20907,beef and onion tater tot casserole,Platos principales,-0.23435393,-0.075510174
+20923,norwegian cookies,Postres,-0.083625674,-0.03049741
+20924,sour cherry cake,Postres,-0.058944535,0.05222146
+20966,bacon  swiss and mushroom meatloaf,Platos principales,-0.04000718,0.080135114
+21044,green curry chicken,Platos principales,-0.009243583,0.11012311
+21045,potato and chile soup,Sopas y guisos,0.18354142,-0.04776001
+21047,mole posole,Sopas y guisos,-0.012259303,0.07363766
+21058,beer battered fish with tartar sauce,Platos principales,-0.06642517,-0.030269388
+21097,spicy chocolate jalapeno cake,Postres,0.048639264,-0.043678872
+21102,caramel scones by june,Panes,0.025762105,0.050130095
+21105,ultimate irish apple cake,Postres,-0.038583353,-0.023176134
+21110,salsa criolla  chopped tomato salad,Ensaladas,0.16678584,-0.020672657
+21115,blueberry  muffins with almond streusel,Panes,0.041729186,0.087189876
+21130,rice with tomatoes  avocado   black olive,Otras,0.10632428,-0.26775992
+21146,the best butterscotch banana bread,Panes,-0.0707223,-0.0532977
+21166,pasta sauce spaghetti soup  crock pot or stove top,Sopas y guisos,0.03350231,0.038877163
+21198,greek salad bites,Ensaladas,-0.0317603,-0.028087378
+21226,cheater s garlic bread,Panes,-0.019532872,0.119246855
+21235,kicked up  spiced carrots,Otras,0.059804175,0.02034393
+21251,no time flat  nuked nachos with salsa and cheese,Otras,-0.10122962,-0.054416336
+21263,mandarin orange  salad,Ensaladas,0.22310099,-0.08094332
+21276,low fat pear muffins,Panes,0.047278535,0.03910469
+21293,crunchy stir fried sesame greens,Platos principales,0.12893169,-0.0035651408
+21297,creamy white chili,Sopas y guisos,-0.078356795,-0.036656965
+21334,easy spaghetti and meatballs,Platos principales,-0.10961077,-0.1401819
+21336,kennett square mushroom soup,Sopas y guisos,0.06894771,-0.028277835
+21350,spanish asparagus salad with orange and manchego cheese,Ensaladas,0.14466186,0.040508557
+21408,quick and easy broccoli soup,Sopas y guisos,0.0051209717,0.023924287
+21411,tomato mozzarella  phyllo crust pizza,Platos principales,-0.021429049,-0.043125864
+21433,lime bars,Postres,0.0077046133,0.091127954
+21442,avocado with groundnut dressing,Ensaladas,0.04853911,-0.17208874
+21444,caesar pork chops,Platos principales,-0.31062394,-0.18119982
+21455,carrot and coriander winter soup,Sopas y guisos,0.0068603856,0.057196748
+21479,big and chewy chocolate chip cookies,Postres,-0.09703698,0.028770791
+21480,potato salad with curried mayo,Ensaladas,0.021318074,-0.018268812
+21506,australian pea salad,Ensaladas,0.16813558,-0.13383295
+21537,za atar bread rolls  manaiesh bi za atar,Panes,0.13778828,-0.05699132
+21543,mice   kids   adults will love,Postres,-0.048033815,0.038552057
+21555,best  macaroni salad,Ensaladas,-0.093115486,-0.023402197
+21575,chocolate oat blondies,Postres,-0.014120364,0.09335775
+21619,kidney bean  barley  and sweet potato stew,Sopas y guisos,0.006609767,0.08505237
+21633,greek style roasted chicken legs  potatoes and capers,Platos principales,-0.04795076,-0.010376075
+21655,easy cheesy ground beef enchiladas,Platos principales,-0.20217894,-0.048830163
+21657,lasagna soup,Sopas y guisos,-0.07346048,-0.12918502
+21665,broccoli cauliflower gratin,Otras,0.06312009,0.019057449
+21696,pepsi ranch pot roast,Platos principales,0.060464498,0.12500106
+21706,easy crock pot lasagna,Platos principales,-0.16533247,0.107460275
+21734,zesty italian crescent casserole,Platos principales,-0.26013687,-0.11602306
+21744,buttermilk bread,Panes,-0.07725122,0.051729895
+21756,warm chicken spinach salad,Ensaladas,0.12940016,-0.0053362986
+21780,trachelle s favorite  wheat bread  bread machine,Panes,-0.037503023,-0.019243775
+21782,lazy slow cooker creamy chicken noodle soup,Sopas y guisos,-0.19914056,-0.24935439
+21797,mexican chef salad,Ensaladas,0.015911022,-0.1198094
+21809,caramelized baked chicken legs wings,Platos principales,-0.30296755,-0.21453498
+21815,simply stewed potatoes,Otras,-0.076649524,0.12672195
+21835,roasted potatoes and baby carrots with garlic,Otras,-0.12851956,-0.1431325
+21861,potluck cauliflower  and lettuce salad,Ensaladas,-0.07280763,-0.11592627
+21881,chicken souiza cornbread bake,Panes,-0.0718341,0.0860135
+21912,holiday buns,Panes,-0.092714354,0.052006345
+21922,fantastic never fail  pan yorkshire pudding,Panes,-0.083495244,-0.06811923
+21942,five minute goober and raisinette fudge wreath   rachael ray,Postres,-0.0136848595,0.04136275
+21943,italian style tuna pasta bake,Platos principales,0.003335061,0.06339966
+21945,gluten free melt in your mouth shortbread,Postres,-0.072322406,-0.037714634
+21946,sweet chicken bacon wraps  paula deen,Otras,-0.2315443,-0.22314575
+21971,super easy hash browns potato soup,Sopas y guisos,-0.005731934,0.04033611
+22021,the lady s chicken noodle soup   paula deen,Sopas y guisos,-0.11626514,-0.07919055
+22035,red velvet cupcakes,Postres,-0.14719887,-0.0854684
+22046,corn on the cob  stays hot and fresh,Otras,-0.026711488,-0.100889064
+22051,cranberry butterscotch squares,Postres,0.058365237,0.12255881
+22084,cheddar   green onion biscuits,Panes,0.00069634966,-0.06148201
+22088,beef vegetable garlic soup,Sopas y guisos,-0.024606934,0.06519333
+22103,ww 3 points   super sandwich stuffed with chicken salad,Ensaladas,-0.0010027097,0.049509004
+22115,rosemary and garlic chicken and potatoes,Platos principales,0.1085644,-0.10865873
+22123,shrimp stock  2 methods,Sopas y guisos,0.04879752,0.16500463
+22125,simple beef stock a la julia child,Sopas y guisos,0.050193314,0.01182375
+22136,almond roca cookies,Postres,-0.06606181,-0.08188934
+22158,pampered chef roasted pepper focaccia,Panes,-0.048443053,0.021270165
+22185,so easy banana caramel cream pie  no bake,Postres,0.0094158845,0.11628622
+22188,easy decadent truffles,Postres,0.008967217,0.03182239
+22221,chicken tortilla soup   max and erma s copycat,Sopas y guisos,-0.059262596,0.024304777
+22225,vegetarian portuguese kale soup,Sopas y guisos,0.12101741,-0.081055716
+22249,lime jello cabbage salad,Postres,-0.093451664,0.0010426949
+22254,very low fat  delicious oatmeal raisin cookies,Postres,0.064758465,-0.0326109
+22266,neighborhood ham and bean soup,Sopas y guisos,-0.17600204,-0.09203207
+22290,cabbage soup with rice and dill for the crock pot,Sopas y guisos,0.028895611,0.048201274
+22311,steak diane from a treasury of great recipes by vincent price,Platos principales,0.1867103,0.009437431
+22313,our canada meatballs  not your average meatballs,Platos principales,-0.0127097145,0.15122186
+22322,tennessee coleslaw,Ensaladas,-0.03632998,0.09149578
+22326,broiled ham steak with mustard glaze,Platos principales,-0.061239935,-0.030381052
+22346,easy hash browns bacon casserole,Otras,-0.062019043,0.13183348
+22354,easy sloppy joe biscuit cups,Platos principales,-0.07300451,-0.02965288
+22370,shrimp and strawberry salad,Ensaladas,0.030931067,0.037683986
+22395,ultimate browned vegetable stock,Sopas y guisos,0.019141588,0.06666857
+22474,pasta with chicken sausage and broccoli,Platos principales,0.018938249,0.025159681
+22482,mom s forget  me not biscuits,Panes,0.05760689,0.030615581
+22486,strawberry yogurt muffins,Panes,-0.17045175,-0.004291181
+22487,ultimate black bean and rice soup,Sopas y guisos,-0.011462045,-0.059742086
+22489,potato ham chowder,Sopas y guisos,0.06102178,0.10615374
+22498,coleslaw with apples and feta,Ensaladas,0.12132638,0.02951857
+22553,quinoa black bean salad,Ensaladas,-0.19832109,-0.24964531
+22555,new england harvest cranberry pumpkin bread,Panes,0.025293985,0.08764464
+22578,cucumbers in vinegar,Ensaladas,0.031229649,-0.15817527
+22597,russian fudge,Postres,0.099403106,-0.0066244844
+22663,cinnamon streusel apple cider muffins,Panes,0.10520956,-0.0058742804
+22668,famous daves cornbread with jalapeno honey glaze,Panes,-0.040997975,0.024535513
+22685,christmas cornflake wreath cookies,Postres,-0.2310277,-0.0439331
+22689,orange upside down oven biscuits,Panes,-0.041691553,0.03938351
+22703,pasta with swiss chard,Platos principales,0.060461145,0.04404616
+22744,batter dipped deep fried cauliflower,Otras,-0.11896961,0.033257503
+22794,roasted potatoes with herbes de provence,Otras,0.10927807,0.03776052
+22801,lotsa veggies meatball soup  crock pot,Sopas y guisos,0.10564475,-0.020908285
+22818,gumbo by paula deen,Sopas y guisos,-0.017574066,0.009825073
+22821,scalloped eggs and bacon,Otras,0.044252682,0.028829988
+22830,bisquick sweet bread,Panes,0.121441714,-0.00088335475
+22860,german cream of vegetable soup,Sopas y guisos,-0.06531302,-0.05091547
+22876,italian parmesan bread for bread machine,Panes,-0.18542638,-0.29751614
+22884,baby greens with pears  gorgonzola and pecans,Ensaladas,0.10215065,-0.17325304
+22895,catalina style salad dressing,Ensaladas,0.08149587,-0.037074976
+22923,my favorite macaroni salad,Ensaladas,0.024508364,-0.011269159
+22924,melt in your mouth macaroni salad,Ensaladas,-0.036256097,0.029624546
+22955,classic sandwich bread,Panes,0.026294895,-0.017397255
+22975,tsr version of chi chi s sweet corn cake by todd wilbur,Panes,-0.18912248,0.01741079
+22978,best bread machine bread dough,Panes,-0.0028965042,0.08458374
+22985,steve s memphis style coleslaw dressing,Ensaladas,0.03255293,0.031632915
+23000,pepperoni  pasta  salad,Ensaladas,0.09873167,0.015244227
+23036,mama leone s chicken soup,Sopas y guisos,-0.07155777,0.035434823
+23037,maple oat nut scones   starbucks,Panes,-0.18238287,-0.23506142
+23065,amish bread,Panes,0.11998523,-0.012507411
+23071,weight watchers low fat taco soup,Sopas y guisos,-0.1556948,-0.1040005
+23113,cantonese fried rice,Platos principales,0.01405135,0.02160029
+23136,french toasted ham  turkey and cheese sandwich,Otras,0.020413574,-0.10979677
+23199,mushroom sherry sauce,Otras,0.18810672,-0.046298034
+23263,red lentil   caramelised onion soup,Sopas y guisos,-0.05782675,0.012537231
+23285,microwave   spaghetti squash  small hubbard squash,Otras,-0.08539254,-0.02402506
+23292,z tejas cornbread,Panes,0.09196215,-0.013145313
+23315,lemon pepper tarragon chicken with sour cream  mushroom and wine,Platos principales,0.04940587,-0.11150182
+23342,simply green    salad,Ensaladas,0.008913098,0.073836446
+23347,white trash hamburger gravy and breakfast biscuits,Otras,-0.06382219,-0.13525657
+23390,island mojito chicken and rice with salsa tropicale,Platos principales,0.024304194,0.0130912
+23395,caribbean chicken picadillo in tortillas,Platos principales,0.12121368,-0.079467796
+23401,island mango bread,Panes,-0.14230181,-0.08123464
+23434,spinach salad with gorgonzola cheese,Ensaladas,0.1323766,-0.038597446
+23436,mother s pea salad,Ensaladas,-0.007701123,-0.0020077932
+23455,italian style crock pot pork loins,Platos principales,0.0373075,0.06511927
+23506,weight watchers potato salad,Ensaladas,0.04238203,0.020069003
+23511,black beans and tomatoes in balsamic,Ensaladas,-0.01082369,0.12157625
+23537,roasted sugar snap peas,Otras,-0.10639967,-0.09010442
+23542,all in one breakfast,Otras,0.022435015,0.01387367
+23555,confetti orzo salad,Ensaladas,-0.16442864,-0.240232
+23573,artichoke   white bean soup,Sopas y guisos,0.12038504,-0.013958378
+23574,red skin dill potato salad,Ensaladas,-0.09876164,-0.13791595
+23614,cilantro turkey burgers with chipotle ketchup,Platos principales,-0.055046458,0.03818797
+23618,nutella biscotti,Postres,-0.04713447,0.09529024
+23627,italian dinner rolls    abm,Panes,-0.025606208,-0.039495323
+23646,autumn sausage soup,Sopas y guisos,0.06424453,-0.06790103
+23654,hoisin salmon,Platos principales,-0.08349419,-0.09107069
+23668,grilled cherry tomatoes with garlic,Otras,0.19064206,-0.060954753
+23710,taco joe dip,Otras,0.016799537,-0.021301894
+23711,broccoli salad with apricots,Ensaladas,0.05324404,-0.14219059
+23753,chilled potato and leek soup   vichyssoise,Sopas y guisos,0.15904999,0.03760439
+23764,hot dog cornbread casserole,Platos principales,0.17203192,0.006724141
+23766,orzo and spinach salad,Ensaladas,-0.016091578,0.019951912
+23767,elegant orzo with wilted spinach  feta and pine nuts,Platos principales,0.061296776,-0.047977243
+23807,sweet corn soup,Sopas y guisos,0.059282944,-0.0050524315
+23837,crumble berry pie,Postres,-0.07529171,-0.027395578
+23866,tomato lentil salad,Ensaladas,0.022689654,0.067200355
+23897,tomato spinach slow cooker soup   0 points,Sopas y guisos,-0.03474155,-0.12780608
+23921,broccoli cashew salad,Ensaladas,0.080863684,-0.12034004
+23940,aim s best batch of brownies,Postres,0.083545625,-0.006500728
+23954,super stuffed baked apples a la mode,Postres,0.04914731,0.001173034
+23956,warm eggplant salad with sesame and shallots,Ensaladas,0.16406594,-0.06344601
+23960,billy s chocolate buttercream,Postres,-0.010422279,0.096163735
+23991,mussels in wine broth,Sopas y guisos,0.16189612,0.02548362
+24055,bob s red mill easy gluten free banana bread,Panes,-0.060341574,-0.08566985
+24074,mom s 100  whole wheat air buns  rolls   for abm,Panes,-0.037516568,-0.19166327
+24079,broiled coconut topping,Postres,-0.0076781334,0.14578362
+24096,spring carrots with yellow rice,Otras,0.21872425,-0.064171694
+24101,real simple s spring pea salad,Ensaladas,-0.11498491,0.02755876
+24110,kittencal s tuna melt sandwich,Platos principales,-0.21871328,-0.22240214
+24137,focaccia with onions  rosemary and feta cheese,Panes,0.16112411,-0.09794404
+24164,no bake maple syrup pie,Postres,0.026298698,0.024953648
+24166,incredible chicken,Platos principales,-0.15573034,0.11542513
+24175,southwestern grilled pork tenderloin,Platos principales,0.14977738,-0.13293329
+24178,luscious lemon pound cake,Postres,0.06036961,-0.0044319164
+24183,russian borscht,Sopas y guisos,-0.06603069,-0.050648756
+24202,penne pasta with multi colored peppers,Ensaladas,0.093164355,0.05256756
+24262,sienisalaatti  a fresh mushroom salad from finland,Ensaladas,0.11465886,-0.024328358
+24277,strawberry  adult drink,Otras,-0.0010896833,-0.22381665
+24286,natilla de pina  pineapple custard,Postres,0.04140881,0.003506235
+24287,double chocolate cheesecake muffins  new zealand,Panes,0.19455364,-0.07752211
+24289,lemony couscous with mint  dill and feta,Ensaladas,0.15314157,0.0016062865
+24292,romaine  strawberry  strawberries  and feta salad,Ensaladas,0.050558053,0.12829815
+24330,jasmine rice with caramelized green onions,Otras,0.012119737,-0.22633955
+24364,horiatiki salata,Ensaladas,0.0901154,-0.1690087
+24365,fassolatha,Sopas y guisos,-0.007879239,-0.12503676
+24366,quinoa caprese,Platos principales,0.055541154,0.08687542
+24371,italian  coffee,Otras,0.12712091,-0.1486445
+24386,jamie oliver s huge yorkshire puddings,Panes,0.10843951,0.05269573
+24428,the secret to perfect gyoza n pot stickers,Otras,-0.030237671,-0.10119155
+24434,provencal potato galette,Otras,0.049340762,-0.095078714
+24467,french white bean and cabbage soup,Sopas y guisos,-0.01593619,0.04712685
+24511,creamy curry dip,Otras,0.08819189,-0.062938794
+24527,moroccan citrus fruit salad,Postres,-0.04584231,-0.005511056
+24544,south africa tomato salad,Ensaladas,0.059576064,-0.18659584
+24559,meat   potato style tater tot casserole,Platos principales,0.08295774,-0.0013077649
+24573,no flour cornbread,Panes,-0.07419799,-0.016980046
+24575,guacamole  barefoot contessa  ina garten,Otras,-0.069743365,0.042457394
+24604,rievkooche or reibekuchen  cologne style potato pancakes,Otras,0.16318001,0.023638798
+24608,panzanella salad with bacon  tomato and basil,Ensaladas,0.05691821,-0.03970186
+24614,banana bread mans banana bread,Panes,-0.07900228,0.13718809
+24626,salad e shirazi  tomato cucumber salad,Ensaladas,0.00010749801,0.03615364
+24671,brown sugar oatmeal muffins,Panes,-0.104453176,-0.04406903
+24686,crock pot texas pozole  mexican pork and hominy soup,Sopas y guisos,-0.06635002,0.12562393
+24688,montezuma,Otras,0.21882752,-0.058645993
+24689,cape malay meatloaf,Platos principales,0.225883,-0.08103763
+24703,fat free pancake,Otras,0.0661687,0.04131411
+24720,asian salmon noodle salad,Ensaladas,0.034347497,-0.023944652
+24756,banana soup,Sopas y guisos,0.20855595,-0.05834996
+24810,plain ole italian bread abm,Panes,-0.1437928,-0.16164969
+24819,haricots verts with warm shallot vinaigrette,Otras,-0.035273,-0.23596725
+24853,dee s shepherd s pie,Platos principales,0.08147236,0.013872151
+24884,sunny fruit salad,Postres,0.045815468,-0.09392757
+24889,cheat s easy spiced couscous with fruit and nuts   in a jar,Platos principales,0.017898694,-0.02781889
+24907,crock pot beef marrakesh,Platos principales,-0.031161355,0.04313562
+24931,sour cream cookies,Postres,0.054590095,0.09256715
+24949,best lemon blueberry bundt cake,Postres,-0.14206327,-0.19321564
+24989,fluffy southern biscuits,Panes,-0.026988171,0.0751509
+24998,chicken vindaloo,Platos principales,0.06201903,0.0065579494
+24999,lemon dessert ww  2 points for entire recipe,Postres,-0.18198697,0.00042645403
+25018,macaroni special,Otras,0.14202206,-0.06019134
+25033,bombay naan  oamc,Panes,-0.05380133,0.026531128
+25034,lighter creamy carrots and peas,Otras,0.088249005,-0.03357926
+25037,byerly s wild rice soup,Sopas y guisos,-0.02427596,0.013347719
+25045,chipotle chicken salad,Ensaladas,-0.008138347,-0.063964404
+25117,zucchini oven   fries,Otras,-0.08625046,-0.14580213
+25130,chicken blt taco salad,Ensaladas,-0.046363372,0.024848586
+25134,mexican cinnamon rice,Otras,0.12166892,-0.011639095
+25146,banana chocolate chip muffins  light,Panes,-0.0718736,-0.07615438
+25147,grilled honey soy chicken,Otras,0.10802342,-0.015006268
+25150,chicken with angel hair pasta,Platos principales,-0.06422387,0.112743706
+25250,orange cranberry muffins for diabetics,Panes,0.11423914,-0.016161295
+25285,steamed white rice,Otras,-0.07300597,-0.0011540968
+25304,new york city black and white cookies,Postres,-0.14751914,-0.11936658
+25307,couscous corn and black bean salad,Ensaladas,-0.020722061,-0.057577416
+25320,linguine w  creamy zucchini sauce,Platos principales,-0.04338813,-0.01441477
+25329,simple creamy pesto pasta,Platos principales,-0.019595208,0.07986429
+25340,pineapple orange banana smoothie,Otras,0.018541157,0.05517269
+25343,creamy onion soup,Sopas y guisos,-0.08933397,0.0846599
+25353,texas caviar,Ensaladas,0.060572114,-0.007434438
+25364,family fruit salad,Ensaladas,0.029463274,0.086160354
+25391,grilled greek chicken,Platos principales,-0.01976626,-0.10049112
+25394,the clockmaker s caramel coated popcorn  a haunted recipe,Postres,-0.20865606,-0.21898781
+25395,cheesy mini corn muffins,Panes,0.07895622,-0.14636487
+25427,italian grilled mushrooms,Otras,0.1360821,-0.01531326
+25435,jackie s waffles,Otras,0.039983578,0.012216107
+25442,chicken mirabella,Platos principales,0.08700529,-0.042847447
+25467,mom s buttermilk biscuits,Panes,0.054789066,-0.058686018
+25472,pita pizza,Platos principales,-0.13296406,-0.017040607
+25475,juicy fruit salad,Ensaladas,0.11732361,0.051893834
+25483,balsamic beets and greens,Ensaladas,0.19620599,0.02299549
+25495,martha stewart madeleines,Postres,-0.0016653169,0.05218381
+25540,lentil and couscous salad,Ensaladas,0.076943375,0.052746207
+25542,irish beef stew,Platos principales,-0.053105723,0.025824538
+25604,coconut scones with raspberry or cherry,Panes,0.12630072,-0.11697656
+25607,mashed potatoes,Otras,0.10755142,0.120452
+25620,ground beef vegetable soup,Sopas y guisos,0.023246843,-0.07688869
+25648,crock pot blueberry dump cake,Postres,0.030827308,0.07415507
+25659,leftover roast beef  stew,Sopas y guisos,-0.042739242,0.020318568
+25681,taco fiesta bake,Platos principales,0.042821717,-0.008076128
+25687,curry stuffed eggs  curried deviled eggs,Otras,0.025460351,0.04844601
+25697,chickpea salad,Ensaladas,0.055512916,0.042201586
+25711,tropical oatmeal,Otras,0.09985184,-0.10985997
+25714,shawrbat  adas maa banadoura  lentil and tomato soup,Sopas y guisos,0.005816518,-0.14716536
+25746,orange teriyaki salmon,Platos principales,0.08549294,0.04379944
+25751,beer can chicken with memphis rub,Platos principales,0.004248657,-0.030589636
+25752,ww 2 point chicken noodle soup,Sopas y guisos,0.053171694,0.16524911
+25755,sicilian broccoli and ditalini,Platos principales,0.080381386,-0.044462904
+25760,grilled new yorker,Otras,0.113846466,0.028847437
+25773,pistachio cheese wafers,Postres,0.098820254,-0.019639581
+25786,alton brown s chipotle smashed sweet potatoes,Otras,-0.007223698,0.02345533
+25787,grilled fig salad,Ensaladas,0.1320246,-0.044329293
+25788,lebanese lentil and swiss chard soup,Sopas y guisos,0.1335487,-0.005256263
+25793,easy cinnamon buns  bread machine,Panes,0.032811556,0.06449893
+25801,white chocolate popcorn,Postres,0.050527535,0.07426245
+25846,upside down walla walla onion cornbread,Panes,0.12545075,0.027692972
+25880,spicy tomato   bacon soup,Sopas y guisos,0.17721033,-0.026643153
+25889,microwave popcorn three ways,Otras,-0.031280734,-0.05830305
+25932,vegetarian split pea soup,Sopas y guisos,0.02688232,-0.002876093
+25937,pressure cooker lentil soup,Sopas y guisos,0.058174785,0.11559025
+25939,rockport fish chowder,Sopas y guisos,0.18807949,0.006582854
+25945,cinnamon sauce for apple pie,Otras,0.07511316,-0.015480027
+25947,bittman cabbage salad,Ensaladas,0.11077859,-0.047163803
+25948,mom s   molded   jello  salad,Postres,0.18074057,0.023825832
+25957,sherry s stupendous shrimp butter,Otras,0.06199529,0.07528364
+25997,easy feta chicken bake  gluten free,Platos principales,-0.081879914,0.05481316
+26032,saucy chicken skillet,Platos principales,-0.07475732,0.06897689
+26037,the bergy burger,Platos principales,0.004978934,-0.053696517
+26061,pumpkin cream cheese muffins  like starbucks,Panes,-0.15411742,-0.13780358
+26062,terrific taco salad  diabetic   vegetarian  friendly,Ensaladas,0.19381376,0.040004887
+26064,applesauce molasses cake   low fat  dairy free   gluten free,Postres,0.12506646,0.12792122
+26111,yellow cupcakes,Postres,0.08243887,0.01694351
+26112,golden harvest bread  bread machine,Panes,0.1435816,0.09804205
+26125,peanut butter fruit sandwich,Otras,0.027145559,-0.061228003
+26139,crock pot caribbean style black beans,Platos principales,0.0073630824,-0.012494485
+26153,crock pot  chicken tortilla soup,Sopas y guisos,-0.18040936,-0.2860292
+26156,potato avocado salad,Ensaladas,0.06969079,-0.101086915
+26192,turkey and dressing soup  use up those leftovers soup,Sopas y guisos,-0.057719197,-0.086444706
+26201,cauliflower and or broccoli soup  ww 0 point soup,Sopas y guisos,-0.09716605,-0.14697094
+26209,6 week bran muffins  auntie anne s muffins,Panes,-0.11884289,-0.035171736
+26252,asparagus soup in seconds,Sopas y guisos,-0.03449676,0.032216582
+26255,orange  almond cake  gluten free,Postres,0.17952022,0.08326274
+26270,chilled strawberry romance  the soup        low fat,Sopas y guisos,0.100080654,0.041505694
+26296,garden biscuits,Panes,0.065444924,-0.10527633
+26298,microwave chocolate snack cake,Postres,-0.09066547,0.08495479
+26303,herbed carrot and beet salad,Ensaladas,0.024022743,-0.025723295
+26330,southwestern chopped salad,Ensaladas,-0.0062989136,-0.002770319
+26337,cranberry margaritas,Otras,0.06924701,-0.10600808
+26377,easy 2 ingredient chocolate fudge,Postres,-0.029472036,-0.005989632
+26398,coffee coconut muffins,Panes,0.14349471,-0.2132723
+26414,chinese chicken noodle salad,Ensaladas,-0.13510038,-0.08736064
+26459,simple tomato spinach white bean soup,Sopas y guisos,0.14560294,-0.0041821674
+26466,bada bing betty s tuscan portobello melt  grilled cheese,Platos principales,0.01809939,-0.06761231
+26467,potato leek soup,Sopas y guisos,0.14944147,-0.062490188
+26469,smokin  fire roasted red pepper soup,Sopas y guisos,0.046391748,0.080839105
+26475,snowball suprises,Postres,0.08180528,-0.106190436
+26485,chicago public school cafeteria butter cookies,Postres,0.049188968,0.061755095
+26511,to die for nut bars,Postres,0.027000293,0.12905365
+26515,olive appetizer tree,Otras,-0.06741081,-0.008195318
+26549,sneak in the veggies cheddar cheese soup,Sopas y guisos,-0.030168094,0.043828722
+26566,roasted french vegetables in hot balsamic and olive oil dressing,Ensaladas,0.009340844,-0.069605894
+26604,oma s gingerbread house,Postres,0.062231213,-0.06918172
+26618,apple orchard punch,Otras,0.051176623,-0.09424109
+26633,chicken thigh osso bucco,Platos principales,-0.09173108,-0.024243629
+26674,hamburger barley stew  crock pot,Sopas y guisos,-0.108371094,-0.08673503
+26686,anchovy and caper salad dressing,Ensaladas,0.045439254,-0.07807958
+26690,oatmeal raisin walnut chocolate chip cookies,Postres,0.007875966,-0.16693388
+26696,curried stuffed eggs,Otras,0.08830541,-0.18553723
+26721,gingery marinated chickpeas,Ensaladas,0.047075734,-0.025214
+26722,crock pot moroccan chicken,Platos principales,-0.009113086,0.11182162
+26749,crunchy raisin bread french toast,Otras,0.040041875,0.0687954
+26751,spinach and dhal curry,Sopas y guisos,0.22426273,-0.044562936
+26796,zucchini nut muffins,Panes,-0.010511189,0.088432625
+26804,coffee walnut chocolate chip muffins,Panes,0.043698896,-0.032014098
+26807,barley chicken casserole,Platos principales,-0.007157843,-0.016187476
+26815,annas apple ginger pecan tart,Postres,0.15396325,0.012754721
+26821,must have salad,Ensaladas,0.020268545,0.09561232
+26886,better than paula s taco soup,Sopas y guisos,0.1703576,-0.019434882
+26898,the best ever beef tenderloin  filet of beef,Platos principales,-0.020660296,0.09307352
+26899,mint chocolate chip cheesecake pie with chocolate ganache,Postres,-0.0038577206,0.050582115
+26930,fudge walnut pie,Postres,0.1105196,-0.09467925
+26952,chewy chocolate chip oatmeal cookies,Otras,-0.054099757,0.04959431
+27001,babzy s salad dressing,Ensaladas,0.20809586,-0.13554735
+27014,cinnamon apple twist bread,Panes,0.10992182,-0.0071026683
+27071,dixie stampede homestyle cream of vegetable soup   authentic,Sopas y guisos,-0.09223432,-0.015707262
+27088,dijon pork roast with cranberries  crock pot,Platos principales,-0.17226036,-0.110269465
+27097,creamy avocado gazpacho,Sopas y guisos,0.15980883,-0.005498401
+27102,white bean salad with lemon and cumin,Ensaladas,0.034445338,-0.15442052
+27110,48 hour marinated shrimp,Ensaladas,0.29123017,-0.1179745
+27143,mom s dinner salad,Ensaladas,0.23357618,-0.029847648
+27155,swedish coffee cake,Panes,0.029830623,-0.09847111
+27158,the absolute best moist buttery blueberry coffee cake,Panes,-0.03571618,-0.098265454
+27171,tiramisu layer cake,Postres,-0.1502542,-0.023186378
+27190,healthy spring mix,Ensaladas,0.12175884,-0.016392972
+27235,jalapeo chicken crescent pinwheels,Otras,-0.089106284,-0.08674092
+27240,sausage potato bake,Platos principales,0.07007076,0.035551257
+27281,insanely easy vegetarian chili,Sopas y guisos,-0.00035263132,-0.05323574
+27294,impossible cheeseburger pie,Platos principales,-0.029076364,0.019105097
+27299,sunsational sun brewed iced tea,Otras,0.27611217,-0.10965882
+27301,outback honey wheat bushman bread  copycat  by todd wilbur,Panes,-0.009203737,-0.004894233
+27312,family pleasing chicken paprika,Platos principales,0.121144734,-0.1271918
+27325,chicken cordon blue cheese,Platos principales,-0.040764526,0.11577179
+27339,creamy cabbage soup,Sopas y guisos,0.13071314,-0.06337342
+27346,salmon pasta bake,Platos principales,0.08156118,0.013014882
+27397,barefoot contessa s chive biscuits,Panes,0.062665455,-0.025760362
+27474,romantic garlic tomato sauce,Otras,0.13248141,-0.139344
+27496,acorn squash stuffed with sausage and sour cream,Platos principales,-0.02793727,0.011859915
+27542,shredded chicken and walnut sauce,Platos principales,0.06919009,-0.026207257
+27551,fantastique jam jar french dressing   with a twist,Ensaladas,-0.0052022105,-0.12873378
+27570,chocolate peppermint tea,Otras,0.025125736,-0.20336002
+27580,roasted tomato basil soup,Sopas y guisos,0.10808641,0.041713353
+27590,avocado lime salad,Ensaladas,-0.0075608124,-0.2325916
+27602,ww 5 point crock pot lime garlic chicken,Platos principales,0.036521453,0.08625347
+27628,oatmeal and banana cookies,Postres,0.0780623,0.07503465
+27643,tickled pink bubbly,Otras,0.18858351,-0.081296
+27657,maggiano s little italy chicken asiago soup  copycat,Sopas y guisos,0.043465417,-0.0107157305
+27663,savory cheese soup  slow cooker,Sopas y guisos,0.018428398,-0.084169365
+27712,zuppa toscana soup   olive garden clone,Sopas y guisos,-0.035854623,-0.09106922
+27713,pa s old fashioned johnny cake   cornbread,Panes,-0.01825355,0.026632998
+27728,nonna s tiramisu,Postres,0.06436344,0.01845219
+27735,tortilla soup,Sopas y guisos,0.1186575,0.029318038
+27746,crab salad tortilla wraps   subway copycat,Ensaladas,-0.05618115,-0.06293733
+27747,healthier yogurt banana bread,Panes,0.16456006,0.008073027
+27761,mile high crispy bacon and onion bread   bread machine,Panes,0.055206865,-0.10607603
+27778,crock pot lemon turkey breast,Otras,0.07291115,0.05186137
+27785,banana crepes,Postres,0.050749104,0.04374212
+27794,german lamb in sour cream  crock pot   aka treasure trove  1,Platos principales,0.08298673,-0.012488855
+27822,orange sauce,Postres,0.22173402,-0.037206575
+27828,cracked pepper salad dressing,Ensaladas,-0.017321719,-0.15585633
+27841,samosa soup,Sopas y guisos,-0.010487924,0.028111259
+27845,blackbird pie      or chicken  leek and potato pie,Platos principales,0.10169351,-0.009978235
+27853,crunchy lentil salad,Ensaladas,-0.037323114,-0.004138435
+27885,toasted coconut and banana drop biscuits,Panes,0.1790011,0.011018483
+27908,penne with chicken and artichokes,Platos principales,0.08471689,0.0499407
+27931,orange and ginger grilled pork tenderloin,Platos principales,0.1682961,-0.10173407
+27941,parmesan and garlic breadsticks,Panes,0.009299495,-0.059228513
+27958,honeyed cantaloupe with blueberries,Ensaladas,-0.025336334,-0.051256478
+28005,kicked up carrot salad,Ensaladas,0.20180966,-0.032567102
+28025,souped up lentils,Sopas y guisos,0.13869028,-0.16066776
+28027,chop  chop  chicken,Platos principales,0.013108396,-0.20647329
+28039,veg out soup,Sopas y guisos,0.024006438,-0.21761137
+28066,sweet pineapple cream fruit dip,Otras,0.18993749,-0.01891622
+28083,whoopie pies  or devil dogs,Postres,-0.011106244,0.06616723
+28093,caramel popcorn  light,Otras,0.112854905,0.018214464
+28102,thai shrimp and pasta salad,Ensaladas,0.039860822,-0.06811522
+28123,warm beef salad,Ensaladas,0.22306734,-0.065391704
+28147,stir fried rice noodles with black bean sauce,Platos principales,0.18285348,-0.04566311
+28158,gin   tonic,Otras,0.043009583,0.017707232
+28207,blueberry muffins with crumb topping,Panes,0.10535715,-0.06338055
+28209,pork piccata my way,Platos principales,0.12443325,0.010219552
+28210,kimchee salad,Ensaladas,0.118888274,0.046721607
+28246,tall and fluffy buttermilk biscuits,Panes,0.07553664,-0.05204984
+28262,ol  fashioned stone soup,Sopas y guisos,0.17077285,-0.10993412
+28289,blt   p  bacon  leek  tomato and potato  soup,Sopas y guisos,0.089371875,-0.09463709
+28319,creamy cauliflower soup with feta,Sopas y guisos,0.14289205,-0.011609401
+28373,coleslaw with raisins,Ensaladas,0.1028942,0.009533425
+28381,paula deen s rene s coleslaw,Ensaladas,0.10970673,-0.09275276
+28395,kiwifruit summer fruit salad,Ensaladas,0.182791,-0.1104554
+28401,dad s fettuccine alfredo,Platos principales,0.063522846,-0.018793693
+28405,7   day   soup diet recipe,Sopas y guisos,-0.104602545,-0.02737325
+28464,easy mousse cake filling   any flavor,Postres,0.0063356576,0.08038588
+28482,butter cake with variations,Postres,0.12484348,-0.070310116
+28483,delicious bourbon chicken glaze,Otras,0.011320443,-0.10193756
+28484,bisquick fruit cobbler,Postres,0.17192991,-0.016761137
+28501,homestyle alberta beef on a bun,Platos principales,0.10925123,0.08632484
+28516,grilled buffalo wings with a bite,Platos principales,0.2198929,-0.042841297
+28519,sticky sesame chicken tenders,Platos principales,0.012928156,0.046545513
+28529,red moroccan harira,Sopas y guisos,0.12580921,0.11645525
+28541,better than kit kat bars,Postres,-0.040273845,0.025343705
+28626,lick the bowl clean bacon broccoli salad,Ensaladas,0.021334736,0.015543099
+28630,mom s warm milk toast bedtime snack,Panes,0.046888426,0.14057457
+28640,three corn and cheddar spoon bread,Panes,-0.050724808,-0.14232059
+28666,decadent fudgy nut bars,Postres,0.1412019,-0.0736889
+28668,creamy  tortilla soup vegetarian,Sopas y guisos,-0.076945655,-0.09062436
+28675,creamy chicken tortilla soup,Sopas y guisos,-0.11084786,0.0042630807
+28678,linda s egg salad sandwich  sandwiches  or finger rolls,Otras,-0.06738042,-0.037447132
+28684,italian herb buttermilk drop biscuits,Panes,-0.024021368,0.11047273
+28693,potato salad with lemon dill vinaigrette,Ensaladas,0.09440967,-0.12086487
+28703,fattoush   toasted bread salad,Ensaladas,0.103150025,-0.069584124
+28708,grammie bea s special vanilla frosting,Postres,-0.14726499,-0.04979277
+28709,mustardy cauliflower salad,Ensaladas,0.05349351,-0.083658665
+28714,chocolate peanut fudge bars  midwest,Postres,0.116504386,-0.04726979
+28752,hot salami chicken stroganoff,Platos principales,0.1286921,-0.055015404
+28756,fruit yogurt popsicles,Postres,0.036721922,-0.035620026
+28770,pork   apple schnitzel,Platos principales,0.14850071,-0.059349995
+28796,creamy potato soup with all the fixings,Sopas y guisos,0.15896352,-0.0348539
+28804,just right hot dog chili,Platos principales,0.06152697,0.00091260526
+28810,waldorf brown rice salad,Ensaladas,0.14123888,-0.07479917
+28811,creamy brown rice pudding,Postres,-0.0626196,-0.18918008
+28817,quick and easy cinnamon rolls  yeast free,Panes,0.037815247,0.119160675
+28830,roasted vegetarian sandwich with brie cheese  light,Otras,0.12755662,-0.0027652436
+28854,critchell house prime rib soup,Sopas y guisos,-0.010414076,-0.0033889888
+28879,potato chive frittata,Otras,0.19468611,-0.117675215
+28898,i hate miracle whip  but i love this potato salad that s,Otras,-0.11579291,-0.01414
+28912,deviled egg salad,Ensaladas,0.14825854,-0.040605735
+28931,bruschetta for one or two,Panes,0.064936206,0.014977092
+28966,spinach  bacon   mushroom salad,Ensaladas,0.18412083,-0.08440545
+29000,potato salad with capers  kalamata olives and artichoke hearts,Ensaladas,0.16445017,-0.072991185
+29013,crispy smashed roasted potatoes,Otras,0.059020754,-0.08608921
+29055,grilled bourbon buffalo chicken,Ensaladas,-0.022239547,-0.051018197
+29065,real fajitas  a dissertation on fajitas,Platos principales,-0.08232822,0.17852463
+29066,white wine mascarpone,Otras,0.23034768,-0.033032555
+29076,55 house salad,Ensaladas,0.008096684,-0.3411582
+29079,vanilla  buttercream frosting  from sprinkles cupcakes,Postres,-0.31101668,-0.2621358
+29091,charcoal grilled sugared ham,Platos principales,0.14653744,-0.110819474
+29103,good green salad,Postres,0.111232616,-0.042873107
+29143,black bean soup with cumin and coriander,Sopas y guisos,0.16223308,-0.023545299
+29150,aunt bev s   weird  hot dogs,Platos principales,0.11004017,-0.06478939
+29227,bubby s strawberry rhubarb pie,Postres,-0.0835833,0.09731844
+29245,pretzel peanut bark,Otras,0.032344334,-0.10712935
+29249,shrimp caesar salad,Ensaladas,0.178468,-0.045290064
+29288,weight watchers  but doesn t taste it  coq au vin  16 ww points,Sopas y guisos,-0.0860109,-0.02201296
+29296,buttery microwave scrambled eggs for two,Otras,0.06377901,-0.12252372
+29317,cherry angel food  low fat,Postres,-0.018502353,0.12889333
+29342,shrimp salad with peas,Ensaladas,0.055706806,0.020689322
+29391,jam muffins  apricot etc,Panes,0.09600315,-0.017568035
+29402,really easy broccoli soup,Sopas y guisos,-0.017968351,-0.23765622
+29410,blackberry tequila sunrise,Otras,0.06761397,-0.07269041
+29450,baked apple donuts,Panes,0.053784225,0.09756421
+29461,quick banana parfaits,Postres,0.1064128,0.02002844
+29527,fresh tomato basil salad weight watchers,Ensaladas,0.08142633,-0.02686819
+29533,solar powered  sun brewed iced tea,Otras,-0.040642377,-0.057915743
+29547,quick chocolate cake,Postres,-0.051403232,0.10399072
+29628,tapas  potato saffron omelet,Otras,0.1459111,-0.058381528
+29640,chunky chicken soup  mediterranean style,Sopas y guisos,0.11209222,-0.08591383
+29657,delicious chicken barley chili,Sopas y guisos,0.17749946,-0.085373364
+29658,coke and salted peanuts,Otras,0.010686118,-0.008048629
+29665,shrimp zarzuela,Sopas y guisos,0.13663471,-0.10495109
+29730,mansiikka kiisseli  strawberries,Postres,0.14678152,0.05007766
+29745,stir fry pork with ginger,Platos principales,0.1663341,-0.031835288
+29759,garlic pita   naan,Panes,-0.09415001,0.0644072
+29774,parmesan   garlic damper rolls,Panes,0.055820387,0.0068738936
+29778,bed   breakfast scones,Panes,-0.0006032301,-0.123263195
+29780,vanilla sin latte,Otras,0.19671595,-0.0059604924
+29785,traditional english tea time scones with jam and cream,Panes,0.033470735,-0.040302526
+29788,chipotle shrimp and corn chowder,Sopas y guisos,0.08305386,-0.04656816
+29799,tex mex burgers texotic mexotic burgers,Platos principales,0.08657972,-0.08821889
+29809,lemon meringue ice cream pie,Postres,0.059720993,0.021818249
+29822,caribbean romance,Otras,0.070361234,-0.04816599
+29829,blueberry daiquiri,Otras,0.18879505,0.02373094
+29833,special chicken with mushrooms,Platos principales,0.056568485,0.018530242
+29850,american choc chip cookies of death,Postres,0.11652523,-0.077618
+29862,green goddess crab salad,Ensaladas,0.080271624,-0.005865702
+29872,crunchy pear and celery salad,Ensaladas,0.13307701,-0.01242017
+29877,cool apple oat  muesli,Otras,0.14681439,-0.06177976
+29954,brennan s bananas foster,Postres,0.095822856,-0.11827977
+29989,cacik,Otras,0.18749703,-0.021607138
+29992,algerian poached eggs   chakchouka,Otras,0.19179082,0.019609608
+30013,vanilla dreamsicle,Otras,0.09569194,-0.020711573
+30028,jalapeno refried black beans,Otras,0.084577404,-0.04772875
+30032,v s grilled jerk pork tenderloin and pineapple mango kiwi salsa,Platos principales,-0.06982604,-0.28877655
+30046,creamy bacon salad dressing,Ensaladas,0.13605592,-0.030497625
+30065,cocoa mocha frosting,Postres,0.06745609,0.06493988
+30071,crock pot melt in your mouth country style steak,Platos principales,-0.16606617,-0.027154038
+30096,whine   jerk grilled fruit salad,Ensaladas,0.18584765,-0.07275075
+30115,snickers bar salad,Ensaladas,-0.027235936,0.030322354
+30124,p s  i love you   cocktail beverage,Otras,0.26029667,-0.07822406
+30152,basic roasted pork tenderloin  3 ww points,Platos principales,-0.02569367,0.014090992
+30170,pear and cheese salad,Ensaladas,0.0014672658,-0.10239143
+30229,kielbasa  kale  tortellini soup,Sopas y guisos,0.1460545,0.021918628
+30248,chilled orzo  beaming tomatoes    little buster zucchini,Ensaladas,0.13783024,-0.18928792
+30253,wanda bars  double chocolate oreo bars,Postres,-0.14124645,-0.11696757
+30289,oriental chicken summer salad,Ensaladas,0.19550821,-0.07528546
+30380,three berry pie from nepenthe,Postres,0.14133519,-0.02190858
+30392,asian summer pasta salad,Ensaladas,0.033947613,0.04977881
+30400,lacy oatmeal crisp cookies,Postres,-0.0053003933,-0.0019762658
+30446,italian sausage florentine for the crock pot,Platos principales,-0.06507262,-0.018951565
+30448,weight watchers pumpkin delight,Postres,-0.040646624,0.042619735
+30476,delicioso antipasto pasta salad,Ensaladas,0.093283966,-0.20330994
+30506,decadent and easy crab bisque,Sopas y guisos,0.14403,-0.047674056
+30522,no bake crispy peanut butter squares,Postres,0.12874229,-0.03139238
+30570,crock pot chicken and sausage cassoulet,Platos principales,-0.026680907,-0.080008715
+30643,apple pecan pancakes,Otras,0.027462436,-0.12787637
+30669,souperlicious,Sopas y guisos,0.05038924,-0.037982203
+30671,mediterranean salad with lemon caper vinaigrette,Ensaladas,0.17719318,-0.1318987
+30673,port wine spinach salad with sweet and spicy pecans,Ensaladas,0.23311457,-0.18131822
+30674,luncheon chicken salad,Ensaladas,0.18115424,-0.07345956
+30675,low fat chicken tostada salad,Ensaladas,0.10190589,0.013914786
+30679,paradise s sensual salad,Ensaladas,0.11381197,-0.028386347
+30729,mom s cocoa powder brownies,Postres,-0.06743679,-0.13963388
+30744,lentils du puy and bacon salad,Ensaladas,0.22603863,-0.04224792
+30749,absolutely the best new york cheesecake  gluten free,Postres,-0.01619636,-0.2763115
+30760,strawberries and cream scones,Panes,0.09802467,0.025702419
+30762,easy italian bread,Panes,0.03574887,0.08102275
+30788,amazing taco seasoning,Platos principales,-0.03463068,-0.013331458
+30800,praline brookies,Postres,0.0010803576,0.012000862
+30810,toasted sunny side up egg and cheese sandwiches,Otras,-0.026384814,-0.120109
+30849,margarita cupcakes with key lime icing,Postres,-0.06906541,-0.017272905
+30851,mom s sour cream chocolate  sheet  cake,Postres,0.057532005,-0.03334456
+30915,seaweed salad,Otras,0.010497793,0.02167919
+30932,the best jiffy cornbread,Panes,0.007825592,0.041859336
+30933,giada s tuscan white bean and garlic soup,Sopas y guisos,-0.07576022,0.023493342
+30943,yummy bbq burgers,Otras,0.04906749,0.0035985312
+30950,broccoli gratin,Otras,0.104648165,-0.10666615
+31012,ila s apple crisp,Postres,0.1363436,-0.04880909
+31033,spicy asian cucumber salad,Ensaladas,0.115115926,0.13058542
+31077,ww chicken pasta salad,Ensaladas,0.22446716,-0.073546045
+31095,pasta shells with portabella mushrooms and boursin sauce,Platos principales,0.1495462,-0.026098577
+31105,simple pasta and cheese bake with veggies for two,Platos principales,0.09510794,0.06822524
+31140,sam s breakfast sammy sandwiches,Otras,0.18225038,-0.09598766
+31146,tacos de papa  fried potato tacos,Otras,0.023207678,0.011304461
+31148,almond chocolate biscotti  using cake mix,Postres,0.1480703,-0.01758018
+31159,bonefish grill citrus herb vinaigrette by todd wilbur,Ensaladas,-0.010637851,0.041311603
+31190,lemon chicken stew with green olives,Platos principales,0.10361323,0.015039055
+31194,kittencal s creamy macaroni and cheese,Platos principales,-0.14956702,-0.1408811
+31225,banana sour cream cake with cream cheese frosting,Postres,-0.0008227765,-0.045981802
+31270,german cheesecake,Postres,0.15997945,-0.07533423
+31274,low fat chicken enchiladas with high fat taste,Platos principales,-0.02862554,-0.21186489
+31283,healthy italian breadsticks or pizza crust,Panes,0.079899095,-0.14825042
+31284,springtime asparagus medley,Otras,0.18461134,-0.042429082
+31308,la kama,Otras,0.2010561,-0.015021839
+31358,easy strawberry limeaide,Otras,0.08444648,-0.05745627
+31398,family mac and cheese,Otras,0.17923419,-0.091267645
+31411,easy cherry tomato and feta salad,Ensaladas,0.16996774,-0.0103247985
+31431,banana fruit loaf,Panes,0.19709268,-0.1210953
+31441,florida gazpacho with shrimp,Sopas y guisos,0.18755767,-0.118711516
+31444,black eyed peas with mustard greens and rice,Sopas y guisos,0.06835428,-0.03758401
+31445,baked ziti with spinach and cheese,Platos principales,0.061053075,0.08061177
+31477,crisp rosemary parmesan garlic bread,Panes,0.11444752,-0.015522226
+31492,borekitas de berengena,Platos principales,0.21256876,-0.081447795
+31514,taco stroganoff,Platos principales,-0.016064022,0.03443885
+31530,pork aux champignons  french pork with mushrooms,Platos principales,0.1018213,-0.046157252
+31544,pizza dough  for bread machine,Panes,0.15277927,-0.21550179
+31546,lentil  pasta   vegetable soup,Sopas y guisos,0.11900185,-0.047576815
+31560,quinoa beef picadillo,Platos principales,0.059228387,-0.14946993
+31580,pumpkin pie filling,Postres,0.02527036,0.026606921
+31588,foolproof pie dough  with vodka,Postres,-0.1208628,-0.008453574
+31598,canadian  habitant  yellow pea soup,Sopas y guisos,0.16077659,0.189623
+31600,tsr version of red lobster cheddar bay biscuits by todd wilbur,Panes,-0.26615262,-0.19731845
+31635,muffy the velvet mushroom soup   friend   longmeadow farm,Sopas y guisos,0.15692583,-0.07033302
+31682,easy potato and corn chowder   crock pot,Sopas y guisos,-0.13131216,-0.12765221
+31725,grilled chicken with cilantro marinade,Platos principales,0.10061847,-0.1093441
+31746,mushroom crust quiche,Otras,0.20239323,-0.043779064
+31757,tastefully simple copycat beer bread,Panes,-0.022863176,-0.041601773
+31767,heather s pumpkin bars w  frosting  only 135 calories,Postres,0.044996213,-0.071245246
+31796,fat free chocolate muffins,Panes,0.06406616,0.11011482
+31819,tuna and sweet potato  kumera  patties,Platos principales,-0.037967045,-0.031928103
+31820,enjoy no knead  fridge friendly dough healthy bread in 5 minutes,Panes,0.1024539,-0.08456574
+31827,healthy breakfast biscuits,Panes,0.06971817,0.004233404
+31831,southwest salad mcswap,Ensaladas,0.10655642,-0.13328636
+31839,vermont maple pumpkin pie,Postres,0.031396046,0.024443379
+31876,peanut butter cup brownie bottom cheesecake,Postres,0.0890421,0.09572084
+31887,german dumplings  spaetzle or kniffles  for soup or saute,Sopas y guisos,0.16310957,0.07270749
+31935,grammy s broccoli soup,Sopas y guisos,0.15135866,-0.14297463
+31971,easy mexican taco dip,Otras,0.15502593,-0.08989138
+31972,slow cooker beef pot roast,Platos principales,0.10061439,-0.04972848
+31977,french onion soup with cider,Sopas y guisos,0.20051129,-0.045308366
+31994,sausage  spinach   cheese crescent braid   low fat,Platos principales,-0.0005662693,0.08834497
+32014,cutout cookie decorator icing,Postres,0.15506555,0.2379794
+32024,nancy s spinach sausage soup,Sopas y guisos,0.1381045,0.09885082
+32051,simply baked chicken parmesan,Platos principales,0.049995486,-0.018923137
+32053,oats and peanut butter giant cookies,Postres,0.13588956,-0.17963351
+32060,mini doughnut cupcakes,Postres,0.1510323,0.031624284
+32077,corn chowder with shrimp,Sopas y guisos,-0.034332965,-0.016029578
+32116,balsamic honey glazed chicken breasts,Platos principales,0.06839096,-0.11755843
+32117,crock pot easy vegetable beef soup,Sopas y guisos,0.22687678,-0.04235372
+32119,my favorite italian salad,Ensaladas,0.13115482,-0.029882168
+32162,buddha s pizza pie crust,Panes,0.12070831,-0.001568587
+32184,chicken cacciatore  pressure cooker,Platos principales,0.0077905166,0.06509772
+32199,caramel macchiato shortbread bars,Postres,-0.084769845,-0.04286214
+32258,pollo alla toscana,Platos principales,0.18107896,0.017764607
+32264,make ahead pita bread,Panes,0.057775732,0.037667375
+32270,gilroy  california  garlic bread,Panes,-0.02114748,-0.046360206
+32273,apple walnut salad with cranberry vinaigrette,Ensaladas,0.13720465,-0.038933877
+32280,cran orange spinach salad,Ensaladas,0.16317339,0.011625174
+32299,slow cooker pork chili verde,Platos principales,-0.01701734,-0.027784001
+32350,crock pot ground beef stew,Sopas y guisos,-0.04603885,-0.21162292
+32362,v s chile verde,Platos principales,-0.07096174,-0.15497881
+32365,fresh spinach soup,Sopas y guisos,0.20977879,-0.0703982
+32388,chocolate marzipan sugar cookies,Postres,0.055379923,0.06636064
+32404,saxapahash,Platos principales,0.08441523,-0.039351027
+32438,simple bean soup with ham bone,Sopas y guisos,-0.013076362,0.054178823
+32463,rudolph s reward punch  non alcoholic,Otras,0.13351907,-0.101934336
+32475,garlic eggs cooked on the plate,Otras,0.24601448,-0.050089076
+32501,crock pot chicken with cranberries,Platos principales,0.009494421,-0.09620324
+32506,easy and fast greek style yogurt,Otras,0.008142633,0.017690556
+32548,cookies and cream fudge oreo cookie fudge,Postres,0.073579036,-0.084703974
+32551,jose cuervo christmas cookies,Postres,-0.1143605,-0.13439254
+32570,chocolate toffee candy cookies  saltine candy,Postres,-0.13087969,-0.10607756
+32600,how scallops are supposed to be made,Otras,-0.07496438,-0.21215385
+32608,ww crisp and spicy cheese twists 1 point,Panes,0.07723818,-0.14599633
+32620,auberge cheddar cheese and ham breakfast buns   muffins,Panes,0.007235718,-0.11108696
+32667,cold cucumber salad,Ensaladas,0.093010746,-0.10285321
+32679,french onion soup grilled cheese,Otras,0.049676724,-0.16873881
+32705,maggie s house dressing,Ensaladas,0.0028747441,-0.022557419
+32713,chicken and chorizo  leftovers in tasty disguise,Platos principales,0.1573001,-0.022729691
+32714,festive caprese salad wreath,Ensaladas,0.14650778,0.004119098
+32724,ww core inside out egg roll casserole,Platos principales,0.0149713615,0.09478953
+32734,couscous and cherry tomato salad,Ensaladas,0.1360606,-0.02484811
+32740,turkey and navy bean soup,Sopas y guisos,0.1230615,0.10466756
+32744,peanut butter and butterscotch rice krispies squares,Postres,0.12979288,-0.010810428
+32745,malibu   pia colada,Otras,0.15594774,-0.049173143
+32781,vegetarian cabbage soup,Sopas y guisos,0.22469069,-0.020663701
+32784,guilt free onion soup  crock pot,Sopas y guisos,0.15876767,-0.004757519
+32786,cracked pepper cheddar muffins,Panes,0.19663012,-0.13556881
+32789,chunky chicken soup,Sopas y guisos,-0.025942098,-0.026274007
+32808,tuna cheese melts,Otras,0.15077692,-0.11311028
+32834,spinach minestrone,Sopas y guisos,0.11737308,-0.01696953
+32873,tomato lemon dressing,Ensaladas,0.21836986,-0.09093937
+32889,thyme for french healing tea,Otras,0.11841677,-0.096232094
+32907,easy thai chicken noodle soup,Sopas y guisos,0.16685975,-0.07902181
+32908,vegetarian taco salad   low fat,Ensaladas,0.08591627,-0.20232177
+32943,condensed cream of soup substitute,Sopas y guisos,-0.0049255174,0.035052814
+32951,apple egg rolls,Postres,0.057056528,-0.023324754
+32956,cheese and onion stuffed sausages,Platos principales,0.22417523,-0.114836864
+32967,my mother s version  weight watcher s 0 points vegetable soup,Sopas y guisos,-0.030295387,-0.21939789
+32977,herbed carrots and zucchini,Otras,0.033358373,-0.072191425
+32985,mini shrimp cocktail appetizers,Otras,0.011289904,-0.20961252
+33005,date truffles  madgooga,Postres,0.07072099,-0.02786983
+33017,broccoli salad with a twist,Ensaladas,0.18607749,-0.009635254
+33046,bread machine west african banana fritters,Panes,0.18810107,-0.040816184
+33050,grilled tandoori style chicken,Platos principales,0.146306,-0.10555342
+33055,ww spicy mac and cheese,Platos principales,0.13830023,-0.12173601
+33067,fiber one chocolate haystacks,Postres,0.026622662,0.015909003
+33072,oven baked honey chicken,Platos principales,0.103219174,-0.06163501
+33075,cinnamon and sugar beignets,Panes,0.16334893,-0.09974807
+33083,coconut almond muffins,Panes,0.10098441,-0.025898244
+33106,apple bread crock pot,Panes,0.22926278,-0.06310901
+33159,won ton  appetizer bites,Otras,0.055540375,-0.15718795
+33176,sausage bread soup,Sopas y guisos,0.16659151,-0.0853069
+33226,ground beef and potatoes  oh so simple,Platos principales,-0.060122814,-0.0029789256
+33265,key lime jewel cookies,Postres,0.09348523,0.004632587
+33266,raspberry lime rugalach,Postres,0.22997288,-0.046728935
+33271,key west cream pie,Postres,0.24584706,-0.03863734
+33288,orzo with wilted spinach,Otras,0.10275299,-0.051373657
+33305,sunrise poppy seed muffins,Panes,0.24802689,-0.115186445
+33309,strawberry sweetheart streusel muffins,Panes,-0.19219452,-0.27632362
+33324,low fat loaded baked potato soup,Sopas y guisos,0.031296447,-0.048530173
+33355,skillet chili mac,Platos principales,0.036958057,0.03474852
+33383,cheddar cauliflower,Otras,0.1586927,-0.024916029
+33389,banh mi vietnamese sandwiches  bnh mi,Otras,0.078813955,-0.06363739
+33402,chile corn chowder,Sopas y guisos,0.062949166,-0.06525916
+33414,stir fry mushrooms and bell peppers,Otras,0.04170592,-0.25233775
+33454,southwestern corn chowder,Sopas y guisos,0.11810509,-0.105235964
+33476,my plantation coffee,Otras,0.19296439,-0.0060231187
+33500,carrot oatmeal muffins,Panes,0.18405026,-0.052181304
+33510,pea and peanut salad,Ensaladas,0.12715127,-0.12654835
+33512,ranch sausage and rice casserole,Platos principales,-0.08910973,-0.017963754
+33526,sausage gravy for biscuits and gravy,Otras,0.14829308,-0.0882819
+33591,cambodian wings,Otras,0.03431772,0.022096576
+33600,the best toad in the hole  comfort at its best,Platos principales,0.13204439,-0.13765748
+33635,biscuit popper roll bake,Panes,0.13404594,-0.0560949
+33656,mexican corn soup,Sopas y guisos,-0.062556356,-0.05135361
+33659,broccoli   cheddar mini quiches,Otras,0.19397135,-0.09438999
+33698,festive salad,Ensaladas,0.0604893,-0.0028466554
+33742,no yolk hummus filled deviled eggs,Otras,-0.023287123,0.06743287
+33746,quick kick,Otras,0.20711777,-0.08573299
+33792,cheese ball   great for halloween,Otras,-0.026929898,0.037892696
+33801,tunisian garlic and chickpea soup,Sopas y guisos,0.22287937,0.042061668
+33831,spinach and ricotta tart,Platos principales,0.081451215,-0.089732766
+33866,southwest chicken salad,Ensaladas,0.007515875,0.06990672
+33868,st  patrick s day popcorn,Otras,0.0018077042,0.10148946
+33877,chili with a twist,Platos principales,0.13455632,0.0046439823
+33927,honey hydrator,Otras,0.17401952,-0.09783643
+33978,radical rob s  chocolate chip cookies,Postres,0.05744769,-0.013995321
+33998,ww grilled salmon with teriyaki sauce   4 points,Platos principales,0.048992693,-0.069786854
+34042,creamy chicken asparagus soup,Sopas y guisos,0.05448654,-0.009449913
+34055,pumpkin   corn chowder,Sopas y guisos,0.21195889,-0.058506515
+34072,butterfinger dessert weight watchers 4 ww pts,Postres,0.03547164,0.07023693
+34092,jacob s middle eastern lentil soup,Sopas y guisos,0.15977892,-0.13232523
+34099,homemade russian salad dressing,Ensaladas,0.18658783,-0.045326933
+34177,bread machine all american beer bread  1 1 2 pound loaf,Panes,0.12838246,-0.07295075
+34198,bleu cheese and roasted pecan salad,Ensaladas,0.12434325,0.034357205
+34217,lighter caesar salad dressing,Ensaladas,0.11666727,-0.069112696
+34224,tomato bacon pie,Otras,0.12990762,0.0014322739
+34233,asian dumpling soup,Sopas y guisos,0.054547105,0.063874595
+34242,dark pecan pie   virginian hostess style,Postres,0.08459333,-0.012013721
+34257,asian beef skewers,Otras,0.07648669,-0.15077098
+34278,brown sugar coffee cake cappuccino,Panes,0.2806341,-0.03695501
+34293,delicious asian chicken salad with chow mein noodles,Ensaladas,-0.022852289,0.003682641
+34298,spinach   artichoke mashed potatoes,Otras,0.014641424,-0.1990707
+34303,albers sweet corn muffins,Panes,0.0021173928,0.06410054
+34326,10 minute marinara sauce,Otras,0.1336135,-0.027364004
+34327,avocado dressing,Ensaladas,0.15459791,-0.16098472
+34330,spring asparagus chicken salad,Ensaladas,0.05520353,-0.07665658
+34344,corn and bean fiesta salad,Ensaladas,0.11990098,-0.05124298
+34352,scrumptious burgers,Platos principales,0.12811442,-0.10981512
+34359,cucumber dill dressing,Ensaladas,0.19973867,-0.058019157
+34368,garden vegetable and ham salad,Ensaladas,0.14759114,-0.062100425
+34377,salsa chicken bake,Platos principales,0.16957708,-0.08746799
+34379,crock pot   style loaded baked potato soup,Sopas y guisos,-0.16846064,-0.14249495
+34380,wilted spinach and balsamic vinegar,Ensaladas,0.16833325,-0.039377164
+34388,perfect corn on the cob,Otras,0.23590256,-0.015037558
+34399,oatmeal pecan loaf for the bread machine,Panes,0.17308533,-0.000700251
+34419,scottish baps   soft morning bread rolls,Panes,0.08210254,0.051542446
+34421,egg and cheese salad,Ensaladas,0.12666386,0.026226649
+34441,turnip slaw,Ensaladas,-0.010064009,0.07489137
+34451,low   slow oven baked ribs   super simple,Platos principales,-0.113632835,-0.18401025
+34473,fast creamy baked apples   fat free,Postres,0.067084864,-0.22352333
+34486,garlic hasselback potatoes with herbed sour cream,Otras,0.029543886,0.059522517
+34492,tex mex  7  layer salad,Ensaladas,0.017330151,-0.07255123
+34508,mediterranean salad with shrimp,Ensaladas,0.09329868,0.026079621
+34516,hellmann s the original potato salad,Ensaladas,0.056291427,-0.0021562644
+34517,a simple greek  salad,Ensaladas,0.2017275,-0.08274317
+34521,mango  avocado and arugula salad,Ensaladas,0.09292104,-0.047494855
+34544,froutosalata or mixed fruit with orange juice   honey  greec,Ensaladas,0.20045072,-0.09302857
+34556,malibu   cranberry cocktail,Otras,0.06680675,-0.15845038
+34561,southwestern quinoa vegetable casserole,Platos principales,-0.06739235,-0.23207167
+34567,mom s polish stew,Sopas y guisos,0.10643267,0.011231089
+34598,anna s blueberry mini muffins,Panes,0.17251705,0.0032945545
+34613,italian white bean and spinach soup,Sopas y guisos,0.1022827,0.02544844
+34620,uruguayan bean salad,Ensaladas,0.12834437,-0.014784058
+34628,beef curry soup,Sopas y guisos,0.053445145,-0.070853904
+34629,bruschetta rustica,Panes,0.19121192,-0.17236595
+34635,cheese croquettes from brazil  croquettes de queijo,Otras,0.06467881,-0.13819253
+34637,pooris  fried indian bread,Panes,0.21628581,0.011920943
+34646,feta greek salad,Ensaladas,0.22365594,-0.06623672
+34652,curried okra,Otras,0.02828046,-0.15389718
+34671,asian grilled chicken salad,Ensaladas,0.11238233,-0.115556575
+34716,baked  ziti with hot italian sausage   fresh mozzarella,Platos principales,0.0382899,-0.0796239
+34719,black bean and sweet potato salad,Ensaladas,-0.03212061,-0.11247735
+34723,cinnabon cake,Postres,0.035971943,0.030995097
+34725,copycat kfc cole slaw,Ensaladas,-0.021548584,-0.014066111
+34726,moscow mule cocktail,Otras,0.08039896,-0.12701279
+34746,broccoli and leek soup with croutons and sour cream,Sopas y guisos,0.20026691,-0.02822194
+34754,black bean and corn soup,Sopas y guisos,0.10301595,-0.052964956
+34767,kariokor nyama ya kuchoma  barbecued meat rub  kenya,Otras,0.23008287,-0.03865014
+34775,russian eggs  with horseradish sauce,Ensaladas,0.11642403,-0.08582414
+34796,mamma mia   that s a semifreddo,Postres,0.19500844,-0.03700221
+34813,island pork tenderloin,Platos principales,-0.023617314,-0.19206265
+34816,classic vinaigrette salad dressing,Ensaladas,0.10969459,-0.19877145
+34838,mixed berry romanov,Postres,0.18674774,0.036144953
+34854,albanian tomato cucumber salad,Ensaladas,0.1887358,-0.12313378
+34860,serbian  pogacha  bread,Panes,0.11363035,-0.035551645
+34866,summer egg and bacon scramble,Otras,0.26267505,-0.1831722
+34874,marinated hearts of palm salad,Ensaladas,0.07641512,-0.03748085
+34884,mile  high  biscuits,Panes,0.0051307455,0.0070776995
+34886,kittencal s easy grilled bread,Panes,0.06735596,-0.14091101
+34894,kathy s cake mix cookies,Postres,0.06464202,-0.056936
+34911,sour cream cinnamon vanilla bread  abm,Panes,0.14176954,0.008847282
+34982,potato bread bread machine,Panes,0.060477678,-0.07915031
+34983,marinated salmon,Otras,0.14487264,-0.06863242
+35018,bird s easy shrimp scampi,Platos principales,0.0981994,-0.23095128
+35042,soy dipping sauce  for pot stickers or egg rolls,Otras,0.07938807,-0.01493384
+35043,unbelievable chicken,Platos principales,0.07163736,-0.10641396
+35044,root beer float shake,Otras,0.2100337,-0.14053287
+35063,wisconsin cheese soup,Sopas y guisos,0.16880192,-0.11749365
+35110,green split pea and bacon soup,Sopas y guisos,0.12786224,-0.01914611
+35140,almond brown sugar brownies,Postres,0.19937237,-0.049605373
+35148,caramelized potato and onion salad,Ensaladas,0.26432496,-0.017786115
+35186,tomato basil bread   by hand or bread machine,Panes,-0.02858492,-0.0022822744
+35249,oven baked risotto  several variations,Platos principales,0.19975716,-0.02486583
+35257,5 things  hot mexican green chile dip,Otras,0.065702654,-0.056691695
+35263,avocado ranch dip,Ensaladas,0.098537505,-0.020255607
+35266,rhubarb cheesecake,Postres,-0.018057175,0.07171651
+35272,bailey s irish cream brownies,Postres,0.07074775,-0.05745236
+35304,pasta house pasta con broccoli  actual recipe,Platos principales,-0.10649183,-0.074425995
+35307,almond coconut joy,Otras,0.21725436,-0.00045551854
+35346,apple cinnamon oatmeal   ww points 4 5,Otras,0.17362265,-0.030447727
+35364,tomato salad with lemon and basil,Ensaladas,0.21224168,-0.027713645
+35424,christine s stuffed bell pepper soup,Sopas y guisos,-0.11644298,0.016097216
+35441,spicy tex mex salad dressing,Ensaladas,0.17033666,-0.07708962
+35478,kittencal s chicken parmesan  low fat and delicious,Platos principales,0.12633367,-0.04675905
+35484,baked cajun fries,Otras,0.1185595,0.056469485
+35515,piadina   italian flat bread for everything,Panes,-0.017642634,-0.027988099
+35564,tropical sweet potato salad,Sopas y guisos,0.0865849,-0.106585495
+35565,granny cake,Postres,-0.07114341,0.04661302
+35573,chef salad,Ensaladas,0.14270195,-0.12187674
+35579,arroz con pollo,Platos principales,0.11654028,-0.0067268424
+35595,crunchy sandwich,Otras,0.018387465,-0.08861895
+35608,mli mlo a muddle and medley of heirloom tomatoes,Ensaladas,0.2517302,-0.029311365
+35610,antipasto style white bean salad,Ensaladas,0.25392905,0.0020730048
+35614,no mess crock pot steel cut oats,Otras,0.023713494,-0.012312216
+35663,best tofu stir fry,Platos principales,0.13520543,-0.08275411
+35680,dogs kraut and taters,Platos principales,0.06810013,-0.06778
+35681,cinnamon coffee scones,Panes,0.24546044,-0.11324233
+35684,chicken and yam soup,Sopas y guisos,0.18066184,-0.084982336
+35692,southern cinnamon sugared pecans,Postres,0.0463268,-0.04619523
+35700,smoked sausage  apples and sauerkraut,Platos principales,0.010015958,-0.18752733
+35702,chili  plain and simple but darn good,Platos principales,-0.055372696,-0.11649831
+35750,iced white chocolate coffee,Otras,0.24977225,-0.04165548
+35772,vegetarian slow cooker split pea soup,Sopas y guisos,0.08139455,-0.059745274
+35832,meatloaf with mustard dill sauce,Platos principales,0.1749739,0.015658207
+35865,mahi mahi,Platos principales,0.052099757,-0.10029884
+35923,toffee  banana rum bread,Panes,0.22990431,-0.028168935
+35946,coconut pecan shortbread,Postres,0.24492022,0.0022936594
+35969,fantastic pecan sticky buns,Panes,0.08811377,-0.025759468
+35978,cin chili,Sopas y guisos,0.26948214,0.009071533
+35983,light and hearty cajun chicken pasta,Platos principales,0.13136645,-0.014541125
+36020,banana breakfast bars,Otras,0.1994033,-0.12679674
+36022,vegetable dilly pasta salad,Ensaladas,0.18028595,-0.07075783
+36044,spice mix for fried potatoes,Otras,0.111822814,0.07569392
+36062,weight watchers apple crumble,Postres,0.18143749,0.034069125
+36071,irish vanilla coffee,Otras,0.18628801,-0.07687095
+36083,tasty chicken   fennel soup in a crock pot,Sopas y guisos,0.19959447,-0.14642403
+36098,moroccan tuna patties,Platos principales,0.17191146,-0.09186734
+36101,creamy tomato basil tortellini soup,Sopas y guisos,-0.06152811,-0.10926959
+36124,larb gai   thai chicken salad,Ensaladas,0.03984226,0.110727765
+36140,bill s favorite pumpkin crumb cake,Panes,0.07638357,-0.050562162
+36149,low fat chicken  corn  and green chile chowder,Sopas y guisos,0.10857671,0.021117656
+36153,slow cooker taco chili  soup,Sopas y guisos,0.12707976,0.02095992
+36173,chocolate cinnamon toast,Panes,0.17331487,-0.087499976
+36185,fast bake white bread  bread machine,Panes,-0.033906497,0.058672357
+36226,basil garlic cheese bread,Panes,0.15537052,-0.17010936
+36229,smashed potato chowder with variations,Sopas y guisos,0.25433534,-0.0122454
+36255,best cherry cobbler,Postres,0.0566262,0.08859024
+36269,cranberry chicken salad,Ensaladas,0.20782295,0.055167753
+36270,top secret version of buffalo wild wings asian zing sauce,Otras,-0.072090596,0.014716269
+36279,30 cloves of garlic and bean soup,Sopas y guisos,0.23395255,-0.088590816
+36280,easy mississippi mud sheet cake,Postres,0.0931124,0.08834039
+36285,my version of caramel  salted cocoa,Otras,0.22762214,-0.054215323
+36292,electric iced tea,Otras,0.14045663,-0.0872817
+36300,vanilla hearts,Postres,0.20354782,0.005608632
+36304,hubby s chewy brownies,Postres,-0.008153393,-0.0923274
+36307,stuffed breakfast biscuits,Panes,-0.006563893,0.01304939
+36315,tasty broccoli salad,Ensaladas,0.15350631,-0.077244304
+36318,tropical chicken sandwiches,Otras,0.25050142,-0.08064069
+36322,baked pumpkin oatmeal,Otras,0.097631216,-0.03848893
+36334,chicken   noodle slaw,Ensaladas,0.14063293,-0.041159693
+36368,red wine vinegar  copycat,Otras,0.10311011,-0.121836595
+36378,quick   easy old homesteader main dish soup,Sopas y guisos,0.15271854,-0.04214183
+36392,kittencal s easy stir and drop cheese biscuits,Panes,0.0031891156,0.0046440596
+36492,easy 5 minute boston brown bread  healthy low fat,Panes,0.05447609,-0.021971684
+36494,i can t believe it s just cabbage,Ensaladas,0.15505557,-0.16028492
+36499,citrus tuna salad,Otras,0.2118801,-0.06188191
+36506,no egg nog,Otras,-0.05097322,0.120774016
+36535,caramel oatmeal,Otras,0.1688986,-0.09627837
+36546,bisquick peach cobbler,Postres,0.08907416,0.058587205
+36632,stew meat chili,Sopas y guisos,0.17693794,-0.04485257
+36684,beef stew for two   slow cooker,Sopas y guisos,0.02659473,-0.08576941
+36690,cranberry orange chicken   crock pot,Platos principales,0.0068850885,-0.012060104
+36694,classic nestle toll house cookies,Postres,-0.08537268,-0.009410235
+36698,bisquick blueberry banana muffins,Panes,-0.07526503,0.09969532
+36705,rebecca s jewish rye bread,Panes,0.034584567,0.05998408
+36794,oat cookies,Postres,0.23031093,-0.021508047
+36810,outback steak house honey mustard sauce  great for alice springs,Otras,-0.0544115,0.06313065
+36816,tomato and couscous soup,Sopas y guisos,0.13195236,-0.08202054
+36832,french  puy  lentils with beets   vegan  vegetarian,Ensaladas,0.09071021,-0.0045754416
+36846,bea s banana muffins,Postres,0.10833973,-0.15341832
+36873,southwest vegetarian bake   weight watchers friendly,Platos principales,0.13764527,0.037534617
+36884,super easy naan bread,Panes,0.049690295,-0.0140142385
+36894,gumbo cookoff winner   chicken and sausage gumbo,Sopas y guisos,0.0018901691,5.830465e-05
+36924,spiced golden raisins   oranges,Postres,0.19841626,0.0030358913
+36933,southwest caesar salad,Ensaladas,0.08618714,-0.0041122353
+36937,sweet potato  corn and jalapeno bisque,Sopas y guisos,-0.036435734,0.10081207
+36948,quick   easy taco burger casserole,Platos principales,0.21974716,-0.054885194
+36975,single serving microwave cake,Postres,0.05157768,-0.008471472
+37081,the realtor s small sized garlic pull apart bread,Panes,0.024730805,-0.15866616
+37128,spicy grilled shrimp skewers,Platos principales,-0.046303876,-0.015824568
+37153,tilapia in thai sauce,Platos principales,0.03306048,-0.13007486
+37190,the best potato sausage cabbage soup,Sopas y guisos,0.17501567,0.049288325
+37196,mcdonald s hot mustard sauce clone,Otras,0.04995772,-0.022098513
+37219,parmesan crumbed chicken,Platos principales,0.14698839,-0.18087414
+37234,easy french bread  extra large,Panes,0.022179006,0.06648803
+37243,bacon and cheddar muffins,Panes,0.102772884,-0.017100029
+37251,honey rolls  bread machine,Panes,0.08995033,0.02488185
+37306,cream soup substitutes,Sopas y guisos,-0.0013330441,-0.053495687
+37315,light coffee mug chocolate cake,Postres,0.044789538,0.061765175
+37340,chunky peanut butter overload cookies,Postres,0.11012208,-0.07750889
+37353,eggs in a spud,Platos principales,0.174171,-0.06003975
+37381,baton rouge chicken wings,Platos principales,-0.023184614,0.08032627
+37385,caramel slice,Postres,0.11184552,-0.10227082
+37394,lone star steakhouse lettuce wedge salad by todd wilbur,Ensaladas,0.06929789,-0.06641803
+37397,cheese scones  with sesame seeds,Panes,0.17376643,-0.0893615
+37399,french baguette,Panes,0.16778582,-0.09509547
+37460,beet  walnut  wheat berry salad with cilantro lime vinaigrette,Ensaladas,0.1572697,-0.026244912
+37470,limoncello  raspberry   mascarpone mousse,Postres,0.08586771,0.02819157
+37500,pork tenderloin with lime and chipotle,Platos principales,0.14978045,-0.060985435
+37522,my scalloped potatoes,Otras,0.14078365,0.051739078
+37556,honey mustard lime dressing,Ensaladas,0.15428063,-0.05959813
+37598,pear   hazelnut salad with crystallized ginger dressing,Ensaladas,0.17604129,-0.018592387
+37652,mexican chicken rice soup  caldo cantina,Sopas y guisos,0.24199055,-0.044005185
+37682,strawberry buttermilk smoothie  2nd time around,Otras,0.11528266,-0.025304956
+37684,how to blanch  split    sliver almonds,Otras,0.11396563,-0.013697833
+37685,dan dan noodles  pf chang style,Platos principales,0.046849184,-0.08182903
+37719,simple spanish green salad,Ensaladas,0.15021311,-0.111664355
+37739,pineapple leap,Otras,0.25678006,-0.1409921
+37819,macadamia nut butter,Otras,0.23490596,0.059818033
+37843,creamy rice with peas and herbs,Otras,0.21198039,-0.0027078101
+37874,roasted onion   mushroom soup,Sopas y guisos,0.121118076,0.0018075444
+37895,ginger lemonade,Otras,0.24321823,-0.0931578
+37902,cuban bean salad,Ensaladas,0.17010553,0.06954599
+37915,classic french green salad,Ensaladas,0.19789396,-0.05380669
+37933,french bistro steak on garlic croutes and potato frites,Otras,0.17144229,-0.036142945
+37936,butter cookies  st  martin    caribbean,Postres,0.17634735,-0.107659884
+37943,cream cheese baked bananas,Postres,0.2173752,-0.031908944
+37971,scrunchy apple pie,Postres,0.24394765,-0.013969621
+37974,sweet potato and onion soup,Sopas y guisos,0.2034065,-0.061309833
+37983,smoky chicken corn cakes,Platos principales,0.0892963,-0.020403521
+38007,lemon poppy seed loaf with lemon syrup,Postres,0.07828822,-0.040289488
+38061,gluten free challah bread,Panes,0.0891262,0.171248
+38070,my vinaigrette dressing  italian style,Ensaladas,0.1224437,-0.08651159
+38072,lemon chicken soup with orzo,Sopas y guisos,0.07378944,-0.033845495
+38116,pineapple sweet potato muffins  louisiana,Panes,0.14895561,-0.039200637
+38122,spanish hamburger soup,Sopas y guisos,0.18261544,-0.058605228
+38124,artichoke and ripe olive tuna salad,Ensaladas,0.05215845,0.04683593
+38136,moroccan spiced roast potatoes,Otras,0.13018554,-0.16444145
+38181,asparagus and cheddar stuffed chicken breasts,Otras,0.16520526,-0.013741321
+38206,romantic wild rice salad,Ensaladas,0.14328934,-0.033708103
+38212,it s a wrap  egg salad,Ensaladas,0.17485788,-0.046581082
+38214,hot dark chocolate,Otras,0.21182734,-0.031092547
+38221,cajun chicken salad for two,Ensaladas,0.11899927,-0.111432664
+38229,apricot damper,Panes,0.252032,0.027867114
+38270,whole wheat bread  a b m,Panes,0.18917152,-0.11527408
+38282,really easy  really good french bread,Panes,0.09441279,0.041501544
+38333,super easy  cucumber salad,Ensaladas,0.1297428,-0.074965306
+38342,spinach and bulgar salad,Ensaladas,0.14616404,-0.067108266
+38357,crabby avocado salad,Ensaladas,0.13080172,0.051284943
+38364,asian marinated cucumbers,Ensaladas,0.16055042,-0.10139941
+38381,kathie s zucchini muffins,Panes,0.083143994,-0.07433767
+38396,barley salad with tomatoes and corn,Ensaladas,0.20452923,-0.06579026
+38432,snickerdoodle bundt cake,Postres,-0.010138744,-0.10979366
+38438,pumpkin bread   foster s market  or muffins or bundt cake,Panes,0.14746787,0.007331589
+38464,barefoot contessa s greek panzanella,Otras,0.05057852,-0.059267826
+38481,turkish piyaz  bean salad,Ensaladas,0.16373277,-0.09089719
+38496,butternut apple casserole,Platos principales,0.05867777,-0.16718692
+38501,seafood soup with ginger broth,Sopas y guisos,0.16650426,-0.042303283
+38520,old school house yeast rolls,Panes,0.06862504,-0.01310031
+38531,pumpkin pecan loaf,Panes,0.13671304,0.020957656
+38540,nutty cran feta salad,Ensaladas,0.12153076,-0.12688944
+38599,guy s chipotle lime slaw,Ensaladas,0.13993935,0.017707482
+38602,spicy  lil smokie  bacon wrapped jalapeno poppers,Otras,0.12967905,0.029982816
+38603,carrol s family goulash,Platos principales,0.033118896,0.01720161
+38637,2bleu s beef barley soup  or chicken barley soup,Sopas y guisos,0.13867752,-0.048330914
+38643,costco clone granola,Otras,0.1794231,-0.07266212
+38653,applesauce  oatmeal   muffin tops  or muffins,Panes,0.07549153,-0.1214651
+38660,coconut chicken noodle soup with thai flavors,Sopas y guisos,0.20413475,-0.06398623
+38680,burger vegetable soup crock pot,Sopas y guisos,0.17743377,-0.094344735
+38688,butera s baked potato soup,Sopas y guisos,0.2285525,-0.0017392932
+38715,ginger chicken wontons   low carb,Platos principales,0.23697175,-0.07376257
+38723,olive lover s salad,Ensaladas,0.21940836,-0.015769593
+38737,turnip apple carrot salad with eggs,Ensaladas,0.22673054,-0.044574864
+38780,naan bread,Panes,0.000867733,0.0125293145
+38787,crock pot vegetarian minestrone soup,Sopas y guisos,0.019583803,-0.06834033
+38790,harira   chickpea and lentil soup,Sopas y guisos,0.22376326,-0.08581099
+38797,macaroni tomato soup,Sopas y guisos,0.05004775,-0.11116631
+38813,kittencal s unstuffed pepper soup,Sopas y guisos,0.112150766,0.07147545
+38844,sheila s best apple crisp  no oats,Postres,0.1828406,0.018173292
+38875,green onion quick bread,Panes,0.10158073,-0.10799259
+38886,irish kielbasa chowder,Sopas y guisos,0.089826226,-0.10404107
+38909,i m a little nutty pecan pie bars,Postres,0.15173402,-0.01001264
+38910,spice crusted roasted butternut squash,Otras,0.20100383,-0.013968971
+38940,best ever green bean casserole   fresh,Otras,0.054362513,0.08644363
+38975,rainbow bright cupcakes,Postres,0.009789385,-0.014847967
+38997,beautiful baked french onion and mushroom soup,Sopas y guisos,0.10997145,-0.040284112
+39050,using the christmas ham bone  makes you feel good potato soup,Sopas y guisos,0.07629406,0.021474106
+39066,ww low fat taco beef skillet dinner,Platos principales,0.27104592,-0.059715696
+39086,the realtor s cucumber ranch salad dressing,Ensaladas,0.18171649,-0.058712993
+39143,pumpkin squash soup with garlic and thyme,Sopas y guisos,0.22306928,-0.13327104
+39154,caramelized onion mashed potatoes,Otras,0.2309292,-0.002165835
+39163,b s sweet corn bread,Otras,-0.081804484,0.009987744
+39176,beef minestrone,Sopas y guisos,0.30053872,0.007325741
+39192,egg salad with capers and olives,Ensaladas,0.16797397,-0.05179802
+39200,biggest loser white house salad,Ensaladas,0.10401431,-0.041439
+39216,tri colour stuffed pepper soup,Sopas y guisos,0.03777154,0.051302835
+39222,sloppy joe restaurant recipe,Platos principales,0.07141818,0.08198711
+39244,warming barley and vegetable soup,Sopas y guisos,0.21080685,-0.03126525
+39318,cooking light veg chili,Sopas y guisos,0.21147022,0.053143915
+39351,italian sausage crockpot soup,Sopas y guisos,-0.005248739,0.015002741
+39360,sarasota s cucumber tomato salad in a creamy dill sauce,Ensaladas,0.11081595,-0.06932287
+39362,kitchen tomato soup,Sopas y guisos,0.17634323,-0.02028023
+39425,blueberry and mint salad,Postres,0.28793645,-0.053489994
+39442,pesto infused white bean and sun dried tomato stew  crockpot,Platos principales,0.054609843,0.019718388
+39453,lemon kale chips,Otras,0.17297262,0.09307282
+39484,easy bagels,Panes,0.19776604,0.07960096
+39523,basil vinaigrette,Ensaladas,0.18038508,-0.009661157
+39536,german noodle salad,Ensaladas,0.24750659,-0.13715862
+39550,paludah  fresh melon and peach compote,Postres,0.18599258,0.022307843
+39557,mango lassi  india,Otras,0.21882501,-0.025029486
+39582,no bake chocolate cookies  chokladbollar,Postres,0.16862096,-0.059522785
+39592,cream of corn soup,Sopas y guisos,0.13279429,0.03249295
+39599,english garden salad,Ensaladas,0.23754114,-0.03289464
+39647,norwegian blueberry breakfast crepes,Postres,0.1603952,-0.007057443
+39650,chile vinegar sauce,Otras,0.26065013,-0.12351698
+39689,crispy peanut butter balls,Postres,0.19991674,-0.103033364
+39734,swedish  meat  balls with gravy  vegan,Otras,0.2561609,-0.06421769
+39755,oven fries for two,Otras,0.19683467,-0.02214663
+39816,turkish onion soup sogan corbasi,Sopas y guisos,0.23723732,-0.057259806
+39835,strawberry and cream scones,Panes,0.098890744,-0.02217441
+39853,romaine hearts with sourdough croutons and parmesan,Ensaladas,0.22961056,0.008637581
+39900,quick asian style cole slaw,Ensaladas,0.17476347,-0.030893622
+39902,smashed potatoes and broccoli,Otras,0.14138825,0.028384762
+39919,mexican green rice vegetarian,Otras,0.22039694,0.04445056
+39920,sriracha deviled eggs,Otras,0.27008125,-0.085119456
+39930,2bleu s no bake peanut butter granola bars,Otras,0.099896796,-0.03971284
+39967,chip dip,Otras,0.11664087,-0.031187272
+39988,hawaiian sweet rolls  bread machine,Panes,0.031566344,-0.11169623
+39990,creamy seafood and mushroom pasta,Platos principales,0.20798473,-0.07339001
+40033,rosemary cheese crusted potatoes,Otras,0.24861227,0.0131971715
+40038,chicken and dumpling soup,Sopas y guisos,0.058683496,0.084265836
+40039,spicy candied bacon,Otras,0.21430197,-0.06965723
+40042,gibson house asian salad dressing,Ensaladas,0.15091911,-0.14365163
+40062,broccoli tomatoes,Otras,0.20246904,0.03129085
+40065,delicious  versatile and simple rice salad,Ensaladas,0.25432035,-0.02012702
+40066,passatelli dei nonni  bread and parmesan cheese soup,Sopas y guisos,0.09553292,-0.007368955
+40076,walnut sauce for noodles  salsa alle noci,Otras,0.28242952,0.05083161
+40077,bacon  tomato   spinach pizza,Platos principales,0.13941368,-0.006377267
+40082,waffle iron cookies with chocolate frosting,Postres,0.21474801,0.028985932
+40124,sour cream chocolate chocolate chip banana bread,Panes,0.1549725,0.0006016887
+40136,cilantro lime corn meal dumplings in chorizo chicken soup,Sopas y guisos,0.100098036,-0.00378352
+40145,crunchy rosemary potatoes,Otras,0.20547475,-0.16217564
+40170,banana nut bread  healthy  low fat  low sugar,Panes,0.24844985,-0.023088839
+40174,ina garden s italian wedding soup,Sopas y guisos,0.21021275,-0.07519257
+40179,banana cream cheese muffins with crumb topping,Panes,0.13697895,-0.054588128
+40222,bananas and cheesecake dipping sauce,Otras,0.21035652,-0.0370426
+40234,deep in the heart of texas bbq rub,Otras,0.11767301,-0.024712272
+40258,japanese cucumber salad,Ensaladas,0.13293967,-0.013982749
+40267,garlic brown rice  two cook methods,Otras,0.23783848,0.040148217
+40282,ethiopian tomato   cucumber salad,Ensaladas,0.054935023,-0.24952975
+40284,oven fried pork chops,Platos principales,0.09363554,0.011950975
+40314,sicilian romaine tomato salad,Ensaladas,0.29664445,-0.038248856
+40415,grilled garlic bread,Panes,0.15747367,-0.09168661
+40424,heirloom tomatoes with pomegranate molasses drizzle,Ensaladas,0.18930878,-0.06484349
+40441,peanut butter pretzel cookies,Postres,0.12025164,-0.03808244
+40454,baby spinach salad with swiss cheese crisps,Ensaladas,0.25137743,0.0012734417
+40482,kona coffee rub,Otras,0.20480996,-0.11993434
+40486,lemony french bread  grilled,Panes,0.23273277,-0.11379594
+40495,brussels  sprouts with garlic and lemon,Otras,0.21663953,-0.09993157
+40501,blt barbecue chicken salad,Ensaladas,0.2280766,-0.035771687
+40536,crispy zucchini rounds with dip,Otras,0.17459758,0.0061630006
+40552,citrusy kale salad w  blueberries and pepitas    variations,Ensaladas,0.06581082,0.021011172
+40557,albanian white bean soup  jani me fasule,Sopas y guisos,0.23925698,-0.026741795
+40577,apple butter bread,Panes,0.124948286,0.032532208
+40579,steak n shake chili,Sopas y guisos,0.14826922,-0.046126563
+40621,corn griddle cakes,Otras,0.18576485,0.007553994
+40627,souped up tortellini,Sopas y guisos,0.007689499,-0.08480201
+40633,tasty meat   potato soup,Sopas y guisos,0.14309269,-0.06606236
+40643,spiced chai concentrate,Otras,0.1796699,-0.05407184
+40656,baked eggs with variations,Otras,0.16279705,-0.10696037
+40689,amaretto coconut pie,Postres,0.1702335,-0.020510431
+40707,bacon   goat cheese potatoes with sundried tomato sour cream,Otras,0.07143784,0.015044235
+40728,overnight coffee cake swirl,Panes,0.1974111,-0.009295464
+40813,basil tea recipe from india,Otras,0.24143958,-0.034484435
+40882,bananas on the barbie,Postres,0.2407156,-0.11255401
+40899,nile river lentil soup,Sopas y guisos,0.22306277,0.019215489
+40911,indian style red lentil soup,Sopas y guisos,0.1201031,0.04168858
+40919,zydeco soup,Sopas y guisos,0.21065943,-0.045851547
+40960,butter dip biscuits,Panes,0.1156181,0.11279278
+40976,rice with coconut milk,Otras,0.22925058,-0.037212525
+40982,grandma betty s best banananut bread,Panes,0.22753642,-0.01608142
+40984,shrimp   coconut soup  rsc,Sopas y guisos,0.04308626,0.0067969756
+41012,spinach and cheese stuffed chicken breast  rsc,Platos principales,-0.03057923,0.10913601
+41014,pepper steak ponzu,Sopas y guisos,0.14703849,-0.05043692
+41019,bacon bourbon caramel popcorn,Otras,-0.011763074,0.09971471
+41033,rustic country potato sausage pizza  5fix,Otras,0.06795133,0.09829862
+41036,chicken  cherries and potato hash  5fix,Platos principales,0.04552017,0.03432897
+41066,easy peas y tuna salad in romaine cups,Ensaladas,0.22826056,-0.12237157
+41117,faroe island   coffee with cardamom cream,Otras,0.2070139,0.103782445
+41159,moroccan grape juice,Otras,0.27411437,0.006435257
+41177,middle eastern semolina and saffron bread,Panes,0.19252995,0.047477923
+41183,winter salad with raspberry vinaigrette,Ensaladas,0.20103061,-0.023070281
+41224,cayenne cherry chocolate steak sauce  a1,Otras,0.11535437,0.07015702

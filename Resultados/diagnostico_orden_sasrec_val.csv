@@ -1,0 +1,6 @@
+,valor
+NDCG10 cronológico,0.011831078846865828
+NDCG10 desordenado (promedio de 3),0.011516238411375935
+Diferencia cronológico - desordenado,0.00031484043548989267
+IC bootstrap 95% inferior,-0.00021070651514799543
+IC bootstrap 95% superior,0.0008291483561432291

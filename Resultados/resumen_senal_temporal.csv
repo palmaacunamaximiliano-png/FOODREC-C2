@@ -1,0 +1,8 @@
+,valor
+Usuarios analizados,2000.0
+Transiciones reales analizadas,39567.0
+Jaccard medio: orden real,0.04846080876157139
+Jaccard medio: desordenado,0.04762106023602753
+Diferencia media,0.0008397485255438638
+IC bootstrap 95%: inferior,-0.0002525727224038584
+IC bootstrap 95%: superior,0.0020363401355898117
