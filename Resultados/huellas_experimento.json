@@ -1,0 +1,12 @@
+{
+  "descripcion": "Huellas de los archivos conservados tras la evaluación original. Detectan cambios posteriores; no certifican retrospectivamente la generación de los rankings.",
+  "archivos": {
+    "data/secuencias.parquet": "ddb95072668717ca9944e910271774765cf5bb0b5eac1197422a33286ead8318",
+    "data/mapa_items.csv": "5923cd09af942916235d70888e20cf5801b45babbb3d2d923b5f5e4390958789",
+    "modelos/sasrec.pt": "4de93483173adcb45763c0117f5aa1ae8828b0bfcba97e8d95b4f65cf3a73a5c",
+    "modelos/items_normalizados.npz": "cf1c7d9dd9c66acda9d0c7c87c2528d60a300a96897cb618502e00033f44044d",
+    "modelos/popularidad.csv": "2c8305c592a13b3491174e31f098e7081cb6559f04988229a043cf81dae99335",
+    "modelos/reglas_asociacion.csv": "8940e187d117255f524d7f5ca57e0d77053410b034a439a158d30719a85ad5f7",
+    "Resultados/rankings_test.json": "1ee9c6c93b64fd515a8d1da7ecfa2fb5e4801c34a125f84a4710b6296d470939"
+  }
+}
